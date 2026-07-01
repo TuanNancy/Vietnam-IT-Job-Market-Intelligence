@@ -12,6 +12,7 @@ from urllib.parse import parse_qs, urlparse
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString, Tag
 
+from parsers.common import CLEAN_FIELDNAMES, trend_fields
 from parsers.itviec_parser import (
     append_unique,
     canonical_casefold,
@@ -20,26 +21,6 @@ from parsers.itviec_parser import (
     parse_salary_values,
 )
 from scrapers.storage import append_jsonl, ensure_parent, read_jsonl
-
-CLEAN_FIELDNAMES = [
-    "source",
-    "url",
-    "job_id",
-    "title",
-    "company",
-    "location",
-    "salary_raw",
-    "salary_min",
-    "salary_max",
-    "salary_currency",
-    "skills",
-    "experience_raw",
-    "experience_min",
-    "experience_max",
-    "description",
-    "scraped_at",
-    "parse_status",
-]
 
 DESCRIPTION_HEADING_MARKERS = [
     "why you should apply",
@@ -592,7 +573,7 @@ def parse_record(record: dict[str, Any]) -> dict[str, Any]:
     text_for_skills = " ".join(part for part in [title, requirements_text or description] if part)
     structured_skills = extract_structured_skills(soup, json_ld)
 
-    return {
+    clean_record = {
         "source": record.get("source"),
         "url": record.get("url"),
         "job_id": record.get("job_id"),
@@ -611,6 +592,19 @@ def parse_record(record: dict[str, Any]) -> dict[str, Any]:
         "scraped_at": record.get("scraped_at"),
         "parse_status": "ok" if title or company or description else "low_confidence",
     }
+    clean_record.update(
+        trend_fields(
+            title=title,
+            location=location,
+            salary_raw=salary_raw,
+            experience_raw=experience_raw,
+            experience_min=experience_min,
+            description=description,
+            visible_text=visible_text,
+            json_ld=json_ld,
+        )
+    )
+    return clean_record
 
 
 def write_csv(path: Path, records: list[dict[str, Any]]) -> None:
@@ -621,6 +615,7 @@ def write_csv(path: Path, records: list[dict[str, Any]]) -> None:
         for record in records:
             csv_record = dict(record)
             csv_record["skills"] = ", ".join(record.get("skills") or [])
+            csv_record["location_cities"] = ", ".join(record.get("location_cities") or [])
             writer.writerow(csv_record)
 
 

@@ -10,6 +10,7 @@ from typing import Any
 
 from bs4 import BeautifulSoup
 
+from parsers.common import CLEAN_FIELDNAMES, trend_fields
 from scrapers.storage import append_jsonl, ensure_parent, read_jsonl
 
 SKILLS = [
@@ -100,7 +101,7 @@ REQUIREMENTS_END_MARKERS = [
     "Thông tin công ty",
 ]
 
-MILLION_UNITS = {"m", "mn", "million", "triệu", "tr"}
+MILLION_UNITS = {"m", "mn", "million", "triệu", "trieu", "tr"}
 THOUSAND_UNITS = {"k"}
 
 
@@ -210,7 +211,7 @@ def parse_salary_number(number_text: str, allow_decimal: bool) -> float | None:
 
 def infer_salary_currency(salary_raw: str) -> str | None:
     normalized = canonical_casefold(salary_raw)
-    if re.search(r"\d(?:[\d.,]*)(?:\s*)(?:triệu|tr|m|mn|million)\b", normalized):
+    if re.search(r"\d(?:[\d.,]*)(?:\s*)(?:triệu|trieu|tr|m|mn|million)\b", normalized):
         return "VND"
     if "vnđ" in normalized or "vnd" in normalized:
         return "VND"
@@ -432,7 +433,7 @@ def parse_salary_values(salary_raw: str | None) -> tuple[int | None, int | None,
         return None, None, None
 
     currency = infer_salary_currency(salary_raw)
-    tokens = re.findall(r"(\d[\d,.]*)(?:\s*(k|m|mn|million|triệu|tr))?", salary_raw, re.IGNORECASE)
+    tokens = re.findall(r"(\d[\d,.]*)(?:\s*(k|m|mn|million|triệu|trieu|tr))?", salary_raw, re.IGNORECASE)
     if not tokens:
         return None, None, currency
 
@@ -536,7 +537,7 @@ def parse_record(record: dict[str, Any]) -> dict[str, Any]:
     text_for_skills = " ".join(part for part in [title, requirements_text or description] if part)
     structured_skills = extract_structured_skills(json_ld)
 
-    return {
+    clean_record = {
         "source": record.get("source"),
         "url": record.get("url"),
         "job_id": record.get("job_id"),
@@ -555,35 +556,30 @@ def parse_record(record: dict[str, Any]) -> dict[str, Any]:
         "scraped_at": record.get("scraped_at"),
         "parse_status": "ok" if title or company or description else "low_confidence",
     }
+    clean_record.update(
+        trend_fields(
+            title=title,
+            location=location,
+            salary_raw=salary_raw,
+            experience_raw=experience_raw,
+            experience_min=experience_min,
+            description=description,
+            visible_text=visible_text,
+            json_ld=json_ld,
+        )
+    )
+    return clean_record
 
 
 def write_csv(path: Path, records: list[dict[str, Any]]) -> None:
     output_path = ensure_parent(path)
-    fieldnames = [
-        "source",
-        "url",
-        "job_id",
-        "title",
-        "company",
-        "location",
-        "salary_raw",
-        "salary_min",
-        "salary_max",
-        "salary_currency",
-        "skills",
-        "experience_raw",
-        "experience_min",
-        "experience_max",
-        "description",
-        "scraped_at",
-        "parse_status",
-    ]
     with output_path.open("w", encoding="utf-8-sig", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer = csv.DictWriter(file, fieldnames=CLEAN_FIELDNAMES)
         writer.writeheader()
         for record in records:
             csv_record = dict(record)
             csv_record["skills"] = ", ".join(record.get("skills") or [])
+            csv_record["location_cities"] = ", ".join(record.get("location_cities") or [])
             writer.writerow(csv_record)
 
 
