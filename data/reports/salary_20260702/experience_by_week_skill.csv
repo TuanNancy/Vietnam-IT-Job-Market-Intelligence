@@ -1,0 +1,2963 @@
+﻿week_start,source,skill,experience_count,experience_min_median,experience_min_min,experience_min_max
+2026-05-11,itviec,A/B testing,1,5.0,5.0,5.0
+2026-05-11,itviec,AWS,1,5.0,5.0,5.0
+2026-05-11,itviec,Azure,1,5.0,5.0,5.0
+2026-05-11,itviec,Data Science,1,5.0,5.0,5.0
+2026-05-11,itviec,Docker,1,5.0,5.0,5.0
+2026-05-11,itviec,GCP,1,5.0,5.0,5.0
+2026-05-11,itviec,Information Security,1,3.0,3.0,3.0
+2026-05-11,itviec,MLOps,1,5.0,5.0,5.0
+2026-05-11,itviec,Machine Learning,1,5.0,5.0,5.0
+2026-05-11,itviec,Networking,1,3.0,3.0,3.0
+2026-05-11,itviec,Predictive models,1,5.0,5.0,5.0
+2026-05-11,itviec,Python,1,5.0,5.0,5.0
+2026-05-11,itviec,System Admin,1,3.0,3.0,3.0
+2026-05-11,itviec,VMware,1,3.0,3.0,3.0
+2026-05-11,itviec,Windows Server,1,3.0,3.0,3.0
+2026-05-11,topcv,(unknown),1,3.0,3.0,3.0
+2026-05-11,topcv,Khả Năng Chịu Áp Lực,1,2.0,2.0,2.0
+2026-05-11,topcv,Kinh Nghiệm Làm Việc Với Các Công Cụ Hỗ Trợ Từ Xa,1,2.0,2.0,2.0
+2026-05-11,topcv,Kinh Nghiệm Làm Việc Với Hệ Thống Ticketing,1,2.0,2.0,2.0
+2026-05-11,topcv,Kiến Thức Về Các Hệ Điều Hành (windows,1,2.0,2.0,2.0
+2026-05-11,topcv,Kiến Thức Về Mạng Máy Tính,1,2.0,2.0,2.0
+2026-05-11,topcv,Kiến Thức Về Phần Cứng Và Phần Mềm Máy Tính,1,2.0,2.0,2.0
+2026-05-11,topcv,Kỹ Năng Chẩn Đoán Và Khắc Phục Sự Cố,1,2.0,2.0,2.0
+2026-05-11,topcv,Kỹ Năng Ngoại Ngữ (tiếng Anh),1,2.0,2.0,2.0
+2026-05-11,topcv,Kỹ năng giao tiếp,1,2.0,2.0,2.0
+2026-05-11,topcv,Kỹ năng làm việc nhóm,1,2.0,2.0,2.0
+2026-05-11,topcv,Linux),1,2.0,2.0,2.0
+2026-05-11,topcv,Macos,1,2.0,2.0,2.0
+2026-05-11,topcv,kỹ năng phân tích,1,2.0,2.0,2.0
+2026-05-11,topcv,kỹ năng quản lý thời gian,1,2.0,2.0,2.0
+2026-05-18,itviec,Big Data,1,5.0,5.0,5.0
+2026-05-18,itviec,Business Intelligence,1,5.0,5.0,5.0
+2026-05-18,itviec,Data Analysis,1,5.0,5.0,5.0
+2026-05-18,itviec,Data Engineer,1,5.0,5.0,5.0
+2026-05-18,itviec,Data Warehousing,1,5.0,5.0,5.0
+2026-05-18,itviec,Git,1,5.0,5.0,5.0
+2026-05-18,itviec,SQL,1,5.0,5.0,5.0
+2026-05-18,topcv,(unknown),1,1.0,1.0,1.0
+2026-05-18,topcv,Cam Software),1,1.0,1.0,1.0
+2026-05-18,topcv,Kiểm Tra Chất Lượng Sản Phẩm,1,1.0,1.0,1.0
+2026-05-18,topcv,Lập Trình Cnc (g Code,1,1.0,1.0,1.0
+2026-05-18,topcv,React,1,2.0,2.0,2.0
+2026-05-18,topcv,Springboot,1,2.0,2.0,2.0
+2026-05-18,topcv,Sử Dụng Các Dụng Cụ Đo Lường,1,1.0,1.0,1.0
+2026-05-18,topcv,Vận Hành Máy Phay Cnc,1,1.0,1.0,1.0
+2026-05-18,topcv,kafka,1,2.0,2.0,2.0
+2026-05-18,topcv,Đọc Và Hiểu Bản Vẽ Kỹ Thuật,1,1.0,1.0,1.0
+2026-05-25,itviec,.NET,4,2.0,1.0,7.0
+2026-05-25,itviec,A/B testing,1,3.0,3.0,3.0
+2026-05-25,itviec,AI,14,4.0,1.0,6.0
+2026-05-25,itviec,API,5,3.0,2.0,7.0
+2026-05-25,itviec,ASP.NET,2,4.5,2.0,7.0
+2026-05-25,itviec,AWS,21,4.0,1.0,8.0
+2026-05-25,itviec,AWS Lambda,1,3.0,3.0,3.0
+2026-05-25,itviec,Agile,4,3.5,2.0,12.0
+2026-05-25,itviec,Algorithms,1,3.0,3.0,3.0
+2026-05-25,itviec,Android,4,6.0,3.0,8.0
+2026-05-25,itviec,Angular,3,2.0,1.0,8.0
+2026-05-25,itviec,Automation Test,2,5.0,4.0,6.0
+2026-05-25,itviec,Azure,12,3.0,1.0,5.0
+2026-05-25,itviec,Big Data,2,3.5,3.0,4.0
+2026-05-25,itviec,Blockchain,1,3.0,3.0,3.0
+2026-05-25,itviec,Bridge Engineer,1,3.0,3.0,3.0
+2026-05-25,itviec,Business Analysis,4,2.5,2.0,5.0
+2026-05-25,itviec,Business Intelligence,1,5.0,5.0,5.0
+2026-05-25,itviec,C#,3,2.0,2.0,7.0
+2026-05-25,itviec,CSS,2,3.5,2.0,5.0
+2026-05-25,itviec,CSS 3,1,3.0,3.0,3.0
+2026-05-25,itviec,Chinese,1,4.0,4.0,4.0
+2026-05-25,itviec,Clean Architecture,2,8.0,8.0,8.0
+2026-05-25,itviec,Cloud,9,3.0,1.0,8.0
+2026-05-25,itviec,Cloud-native Architecture,1,1.0,1.0,1.0
+2026-05-25,itviec,Computer Vision,2,4.0,3.0,5.0
+2026-05-25,itviec,Crystal,1,2.0,2.0,2.0
+2026-05-25,itviec,Cybersecurity,1,3.0,3.0,3.0
+2026-05-25,itviec,Data Analysis,4,3.5,2.0,5.0
+2026-05-25,itviec,Data Engineer,6,3.0,2.0,4.0
+2026-05-25,itviec,Data Science,3,3.0,1.0,5.0
+2026-05-25,itviec,Database,3,4.0,3.0,4.0
+2026-05-25,itviec,Databricks,1,3.0,3.0,3.0
+2026-05-25,itviec,DevOps,8,4.0,2.0,12.0
+2026-05-25,itviec,DevSecOps,1,3.0,3.0,3.0
+2026-05-25,itviec,Docker,12,5.0,2.0,8.0
+2026-05-25,itviec,ERP,4,3.0,2.0,5.0
+2026-05-25,itviec,ETL,2,3.0,3.0,3.0
+2026-05-25,itviec,English,11,5.0,2.0,8.0
+2026-05-25,itviec,Firewall,2,2.0,2.0,2.0
+2026-05-25,itviec,Flutter,3,8.0,2.0,8.0
+2026-05-25,itviec,Fullstack,2,3.5,2.0,5.0
+2026-05-25,itviec,GCP,10,4.0,3.0,8.0
+2026-05-25,itviec,Generative AI,1,8.0,8.0,8.0
+2026-05-25,itviec,Git,1,3.0,3.0,3.0
+2026-05-25,itviec,Go,8,3.0,3.0,8.0
+2026-05-25,itviec,HTML,2,3.5,2.0,5.0
+2026-05-25,itviec,HTML5,1,3.0,3.0,3.0
+2026-05-25,itviec,ISO 27001,1,3.0,3.0,3.0
+2026-05-25,itviec,Incident Response,2,5.5,3.0,8.0
+2026-05-25,itviec,Information Security,1,5.0,5.0,5.0
+2026-05-25,itviec,JSON,1,1.0,1.0,1.0
+2026-05-25,itviec,JUnit,1,5.0,5.0,5.0
+2026-05-25,itviec,Japanese IT Communication,1,3.0,3.0,3.0
+2026-05-25,itviec,Java,14,4.0,2.0,12.0
+2026-05-25,itviec,JavaScript,11,3.0,2.0,8.0
+2026-05-25,itviec,Kafka,1,5.0,5.0,5.0
+2026-05-25,itviec,Kotlin,4,8.0,4.0,8.0
+2026-05-25,itviec,Kubernetes,12,4.0,1.0,8.0
+2026-05-25,itviec,LLM,4,3.0,1.0,5.0
+2026-05-25,itviec,Leadership,1,6.0,6.0,6.0
+2026-05-25,itviec,Linux,1,5.0,5.0,5.0
+2026-05-25,itviec,MLOps,3,4.0,3.0,4.0
+2026-05-25,itviec,MVVM,2,8.0,8.0,8.0
+2026-05-25,itviec,Machine Learning,6,3.5,1.0,5.0
+2026-05-25,itviec,Microservices,5,4.0,1.0,7.0
+2026-05-25,itviec,Microsoft Azure SQL Database,1,3.0,3.0,3.0
+2026-05-25,itviec,Microsoft SQL Server,1,2.0,2.0,2.0
+2026-05-25,itviec,MobX,1,3.0,3.0,3.0
+2026-05-25,itviec,MongoDB,2,3.5,2.0,5.0
+2026-05-25,itviec,MySQL,8,4.0,1.0,8.0
+2026-05-25,itviec,NLP,1,5.0,5.0,5.0
+2026-05-25,itviec,NestJS,1,5.0,5.0,5.0
+2026-05-25,itviec,Networking,3,2.0,2.0,3.0
+2026-05-25,itviec,NextJS,1,5.0,5.0,5.0
+2026-05-25,itviec,Node.js,7,3.0,1.0,5.0
+2026-05-25,itviec,NumPy,1,3.0,3.0,3.0
+2026-05-25,itviec,OCR,1,5.0,5.0,5.0
+2026-05-25,itviec,OOP,1,2.0,2.0,2.0
+2026-05-25,itviec,Odoo,1,2.0,2.0,2.0
+2026-05-25,itviec,Oracle,3,2.0,2.0,2.0
+2026-05-25,itviec,PCI DSS,1,3.0,3.0,3.0
+2026-05-25,itviec,PHP,2,2.5,2.0,3.0
+2026-05-25,itviec,Pandas,1,3.0,3.0,3.0
+2026-05-25,itviec,Playwright,1,4.0,4.0,4.0
+2026-05-25,itviec,PostgreSQL,11,5.0,1.0,8.0
+2026-05-25,itviec,Power BI,2,2.5,2.0,3.0
+2026-05-25,itviec,Presale,1,1.0,1.0,1.0
+2026-05-25,itviec,Product Design,1,4.0,4.0,4.0
+2026-05-25,itviec,Product Management,1,4.0,4.0,4.0
+2026-05-25,itviec,Product Owner,2,3.5,3.0,4.0
+2026-05-25,itviec,Project Management,3,3.0,3.0,5.0
+2026-05-25,itviec,PyTorch,3,3.0,3.0,5.0
+2026-05-25,itviec,Python,18,3.0,1.0,5.0
+2026-05-25,itviec,QA,4,7.0,4.0,8.0
+2026-05-25,itviec,QA QC,2,5.0,4.0,6.0
+2026-05-25,itviec,React,11,3.0,1.0,8.0
+2026-05-25,itviec,React Native,1,3.0,3.0,3.0
+2026-05-25,itviec,Redis,5,4.0,2.0,5.0
+2026-05-25,itviec,Redux,2,3.0,3.0,3.0
+2026-05-25,itviec,Risk Assessment / BCP,1,3.0,3.0,3.0
+2026-05-25,itviec,Risk Management,2,5.5,3.0,8.0
+2026-05-25,itviec,Ruby,1,5.0,5.0,5.0
+2026-05-25,itviec,Ruby on Rails,2,3.5,2.0,5.0
+2026-05-25,itviec,SAP,1,2.0,2.0,2.0
+2026-05-25,itviec,SIEM,2,2.5,2.0,3.0
+2026-05-25,itviec,SQL,22,3.0,1.0,8.0
+2026-05-25,itviec,Scala,1,4.0,4.0,4.0
+2026-05-25,itviec,Scrum,1,3.0,3.0,3.0
+2026-05-25,itviec,Security,3,3.0,2.0,3.0
+2026-05-25,itviec,Selenium,1,4.0,4.0,4.0
+2026-05-25,itviec,Smart contracts,1,3.0,3.0,3.0
+2026-05-25,itviec,Software Architecture,2,5.5,3.0,8.0
+2026-05-25,itviec,Solution Architecture,2,6.5,1.0,12.0
+2026-05-25,itviec,Splunk,1,3.0,3.0,3.0
+2026-05-25,itviec,Spring,4,2.5,2.0,5.0
+2026-05-25,itviec,Spring Boot,2,6.0,4.0,8.0
+2026-05-25,itviec,Swift,3,8.0,4.0,8.0
+2026-05-25,itviec,System Admin,4,3.5,2.0,8.0
+2026-05-25,itviec,System Architecture,2,6.5,1.0,12.0
+2026-05-25,itviec,Tailwind,1,5.0,5.0,5.0
+2026-05-25,itviec,Team Management,5,5.0,3.0,12.0
+2026-05-25,itviec,TensorFlow,2,3.0,3.0,3.0
+2026-05-25,itviec,TypeScript,6,4.5,3.0,8.0
+2026-05-25,itviec,UI-UX,3,4.0,3.0,5.0
+2026-05-25,itviec,Vue,4,3.5,2.0,8.0
+2026-05-25,itviec,Web API,1,4.0,4.0,4.0
+2026-05-25,itviec,Web3.js,1,3.0,3.0,3.0
+2026-05-25,itviec,iOS,4,6.0,3.0,8.0
+2026-05-25,itviec,scikit-learn,1,3.0,3.0,3.0
+2026-05-25,topcv,(unknown),1,3.0,3.0,3.0
+2026-05-25,topcv,AI Vibe-coding,1,2.0,2.0,2.0
+2026-05-25,topcv,Am hiểu công nghệ thông tin,1,1.0,1.0,1.0
+2026-05-25,topcv,Bằng tốt nghiệp loại Khá hoặc Giỏi,1,2.0,2.0,2.0
+2026-05-25,topcv,Clean code structure,1,2.0,2.0,2.0
+2026-05-25,topcv,Component design,1,2.0,2.0,2.0
+2026-05-25,topcv,DevSecOps,1,1.0,1.0,1.0
+2026-05-25,topcv,Giao tiếp,1,1.0,1.0,1.0
+2026-05-25,topcv,GitHub Copilot,1,2.0,2.0,2.0
+2026-05-25,topcv,Hiểu Biết Về An Ninh Mạng (cyber Security),1,1.0,1.0,1.0
+2026-05-25,topcv,Kinh Nghiệm Bán Hàng Tư Vấn Giải Pháp Cntt (cyber Security),1,1.0,1.0,1.0
+2026-05-25,topcv,Kinh nghiệm dự án công nghệ thực tế,1,2.0,2.0,2.0
+2026-05-25,topcv,Kiến Thức Về An Toàn Thông Tin,1,1.0,1.0,1.0
+2026-05-25,topcv,Kỹ Năng Triển Khai Phần Mềm,2,1.0,1.0,1.0
+2026-05-25,topcv,Kỹ năng bán hàng,1,1.0,1.0,1.0
+2026-05-25,topcv,Kỹ năng giao tiếp,2,1.0,1.0,1.0
+2026-05-25,topcv,Kỹ năng giải quyết vấn đề,2,1.0,1.0,1.0
+2026-05-25,topcv,Kỹ năng làm việc nhóm,2,1.0,1.0,1.0
+2026-05-25,topcv,Radix UI,1,2.0,2.0,2.0
+2026-05-25,topcv,React,1,2.0,2.0,2.0
+2026-05-25,topcv,React 18 functional components,1,2.0,2.0,2.0
+2026-05-25,topcv,Responsive Design,1,2.0,2.0,2.0
+2026-05-25,topcv,Tailwind Css,1,2.0,2.0,2.0
+2026-05-25,topcv,Thuyết trình,1,1.0,1.0,1.0
+2026-05-25,topcv,Tiếng Anh,1,1.0,1.0,1.0
+2026-05-25,topcv,TypeScript,1,2.0,2.0,2.0
+2026-05-25,topcv,TypeScript strict,1,2.0,2.0,2.0
+2026-05-25,topcv,Xây dựng mối quan hệ,1,1.0,1.0,1.0
+2026-05-25,topcv,custom hooks,1,2.0,2.0,2.0
+2026-05-25,topcv,Đàm phán,1,1.0,1.0,1.0
+2026-06-01,itviec,.NET,12,4.0,1.0,7.0
+2026-06-01,itviec,AI,29,2.0,0.0,8.0
+2026-06-01,itviec,API,11,5.0,1.0,7.0
+2026-06-01,itviec,ARM Cortex,1,2.0,2.0,2.0
+2026-06-01,itviec,ASP.NET,4,4.0,4.0,5.0
+2026-06-01,itviec,AWS,41,5.0,0.0,10.0
+2026-06-01,itviec,Agile,11,3.0,0.0,6.0
+2026-06-01,itviec,Android,7,2.0,0.0,6.0
+2026-06-01,itviec,Angular,11,5.0,1.0,7.0
+2026-06-01,itviec,Apache Airflow,2,7.0,7.0,7.0
+2026-06-01,itviec,Apache Struts,1,5.0,5.0,5.0
+2026-06-01,itviec,Automation Test,6,2.5,2.0,5.0
+2026-06-01,itviec,Azure,30,3.5,0.0,7.0
+2026-06-01,itviec,BLE,1,2.0,2.0,2.0
+2026-06-01,itviec,BPMN,1,3.0,3.0,3.0
+2026-06-01,itviec,BRD,1,5.0,5.0,5.0
+2026-06-01,itviec,Big Data,1,3.0,3.0,3.0
+2026-06-01,itviec,Blockchain,3,2.0,0.0,3.0
+2026-06-01,itviec,Bridge Engineer,1,2.0,2.0,2.0
+2026-06-01,itviec,Business Analysis,11,3.0,1.0,5.0
+2026-06-01,itviec,Business Intelligence,1,3.0,3.0,3.0
+2026-06-01,itviec,C#,8,3.0,1.0,7.0
+2026-06-01,itviec,C++,1,2.0,2.0,2.0
+2026-06-01,itviec,CI/CD,15,3.0,0.0,8.0
+2026-06-01,itviec,CSS,3,5.0,1.0,6.0
+2026-06-01,itviec,Clean Architecture,1,3.0,3.0,3.0
+2026-06-01,itviec,Cloud,13,3.0,0.0,7.0
+2026-06-01,itviec,Cloud Security,3,4.0,1.0,5.0
+2026-06-01,itviec,CloudFormation,2,5.5,5.0,6.0
+2026-06-01,itviec,Computer Vision,1,3.0,3.0,3.0
+2026-06-01,itviec,Cybersecurity,1,3.0,3.0,3.0
+2026-06-01,itviec,DBT,1,1.0,1.0,1.0
+2026-06-01,itviec,Dart,3,5.0,0.0,6.0
+2026-06-01,itviec,Data Analysis,9,2.0,1.0,5.0
+2026-06-01,itviec,Data Engineer,5,7.0,5.0,7.0
+2026-06-01,itviec,Data Privacy / Compliance,2,1.0,1.0,1.0
+2026-06-01,itviec,Data Quality Tools,2,2.0,1.0,3.0
+2026-06-01,itviec,Data Science,6,1.0,1.0,2.0
+2026-06-01,itviec,Data Warehousing,2,3.0,1.0,5.0
+2026-06-01,itviec,Data modeling,3,7.0,3.0,7.0
+2026-06-01,itviec,Data-driven,1,1.0,1.0,1.0
+2026-06-01,itviec,Database,7,4.0,1.0,7.0
+2026-06-01,itviec,Databricks,1,1.0,1.0,1.0
+2026-06-01,itviec,Deep Learning,1,2.0,2.0,2.0
+2026-06-01,itviec,Design,1,0.0,0.0,0.0
+2026-06-01,itviec,Design Systems,1,5.0,5.0,5.0
+2026-06-01,itviec,DevOps,34,4.0,0.0,10.0
+2026-06-01,itviec,DevSecOps,4,3.5,0.0,6.0
+2026-06-01,itviec,Digital Forensics,1,4.0,4.0,4.0
+2026-06-01,itviec,Docker,33,4.0,0.0,10.0
+2026-06-01,itviec,DynamoDB,2,7.5,5.0,10.0
+2026-06-01,itviec,ELT,3,7.0,5.0,7.0
+2026-06-01,itviec,ERP,3,2.0,1.0,3.0
+2026-06-01,itviec,ETL,2,3.0,1.0,5.0
+2026-06-01,itviec,Elixir,1,4.0,4.0,4.0
+2026-06-01,itviec,Embedded,2,3.5,2.0,5.0
+2026-06-01,itviec,Embedded C,1,5.0,5.0,5.0
+2026-06-01,itviec,English,24,4.0,0.0,8.0
+2026-06-01,itviec,Event-Driven Architecture,1,10.0,10.0,10.0
+2026-06-01,itviec,FastAPI,1,0.0,0.0,0.0
+2026-06-01,itviec,Figma,1,5.0,5.0,5.0
+2026-06-01,itviec,Firebase,1,5.0,5.0,5.0
+2026-06-01,itviec,Firewall,1,3.0,3.0,3.0
+2026-06-01,itviec,Firmware,1,2.0,2.0,2.0
+2026-06-01,itviec,Flutter,5,5.0,0.0,10.0
+2026-06-01,itviec,Fresher Accepted,3,1.0,1.0,1.0
+2026-06-01,itviec,Fullstack,6,6.0,4.0,7.0
+2026-06-01,itviec,GCP,16,4.5,1.0,7.0
+2026-06-01,itviec,Git,5,2.0,0.0,3.0
+2026-06-01,itviec,Go,13,4.0,2.0,10.0
+2026-06-01,itviec,Governance,2,3.0,1.0,5.0
+2026-06-01,itviec,GraphQL,2,7.5,5.0,10.0
+2026-06-01,itviec,HTML,3,2.0,1.0,6.0
+2026-06-01,itviec,HTML5,1,5.0,5.0,5.0
+2026-06-01,itviec,Hardware Design,1,2.0,2.0,2.0
+2026-06-01,itviec,Hibernate,1,5.0,5.0,5.0
+2026-06-01,itviec,ISO 27001,1,3.0,3.0,3.0
+2026-06-01,itviec,IT Governance,2,3.0,1.0,5.0
+2026-06-01,itviec,IT Support,2,5.5,5.0,6.0
+2026-06-01,itviec,ITIL Foundation,1,5.0,5.0,5.0
+2026-06-01,itviec,Incident Response,2,3.5,3.0,4.0
+2026-06-01,itviec,Information Security,2,5.5,5.0,6.0
+2026-06-01,itviec,Integration test,1,5.0,5.0,5.0
+2026-06-01,itviec,Internship Accepted,11,0.0,0.0,2.0
+2026-06-01,itviec,IoT,2,2.5,2.0,3.0
+2026-06-01,itviec,Ionic,1,2.0,2.0,2.0
+2026-06-01,itviec,JSON,1,0.0,0.0,0.0
+2026-06-01,itviec,Japanese,2,3.5,2.0,5.0
+2026-06-01,itviec,Japanese IT Communication,1,2.0,2.0,2.0
+2026-06-01,itviec,Java,29,3.0,0.0,10.0
+2026-06-01,itviec,JavaScript,20,3.5,1.0,7.0
+2026-06-01,itviec,Jenkins,1,5.0,5.0,5.0
+2026-06-01,itviec,Jira,6,3.0,2.0,5.0
+2026-06-01,itviec,Kafka,3,3.0,2.0,7.0
+2026-06-01,itviec,Kanban,1,2.0,2.0,2.0
+2026-06-01,itviec,Keras,1,2.0,2.0,2.0
+2026-06-01,itviec,Kotlin,2,2.5,2.0,3.0
+2026-06-01,itviec,Kubernetes,17,5.0,0.0,7.0
+2026-06-01,itviec,LLM,5,1.0,0.0,3.0
+2026-06-01,itviec,Laravel,1,2.0,2.0,2.0
+2026-06-01,itviec,Leadership,5,7.0,5.0,7.0
+2026-06-01,itviec,Linux,11,2.0,0.0,8.0
+2026-06-01,itviec,MLOps,2,1.5,0.0,3.0
+2026-06-01,itviec,MVC,2,3.5,2.0,5.0
+2026-06-01,itviec,Machine Learning,7,1.0,1.0,3.0
+2026-06-01,itviec,Malware Analysis,1,4.0,4.0,4.0
+2026-06-01,itviec,Matlab,1,2.0,2.0,2.0
+2026-06-01,itviec,Microservices,4,5.0,3.0,7.0
+2026-06-01,itviec,Microsoft SQL Server,2,3.5,2.0,5.0
+2026-06-01,itviec,Mobile Apps,2,3.5,2.0,5.0
+2026-06-01,itviec,MongoDB,6,3.5,0.0,7.0
+2026-06-01,itviec,MySQL,16,3.0,1.0,10.0
+2026-06-01,itviec,NLP,1,3.0,3.0,3.0
+2026-06-01,itviec,NestJS,1,3.0,3.0,3.0
+2026-06-01,itviec,NextJS,3,7.0,4.0,7.0
+2026-06-01,itviec,NoSQL,2,4.5,3.0,6.0
+2026-06-01,itviec,Node.js,16,5.0,2.0,10.0
+2026-06-01,itviec,OOP,3,2.0,1.0,5.0
+2026-06-01,itviec,Oracle,7,2.0,0.0,7.0
+2026-06-01,itviec,PHP,4,2.0,1.0,6.0
+2026-06-01,itviec,Playwright,1,3.0,3.0,3.0
+2026-06-01,itviec,PostgreSQL,19,3.0,0.0,10.0
+2026-06-01,itviec,Postman,2,3.5,3.0,4.0
+2026-06-01,itviec,Power Automate,1,1.0,1.0,1.0
+2026-06-01,itviec,Power BI,8,1.5,1.0,5.0
+2026-06-01,itviec,Presale,3,3.0,0.0,3.0
+2026-06-01,itviec,Product Design,2,3.0,1.0,5.0
+2026-06-01,itviec,Product Management,4,2.5,2.0,5.0
+2026-06-01,itviec,Product Owner,3,3.0,2.0,5.0
+2026-06-01,itviec,Product strategy,1,1.0,1.0,1.0
+2026-06-01,itviec,Project Management,4,4.0,2.0,5.0
+2026-06-01,itviec,Prompt Engineering,2,1.0,1.0,1.0
+2026-06-01,itviec,Python,48,2.0,0.0,10.0
+2026-06-01,itviec,QA,8,3.0,0.0,8.0
+2026-06-01,itviec,QA QC,11,3.0,0.0,8.0
+2026-06-01,itviec,QlikView,2,3.0,1.0,5.0
+2026-06-01,itviec,React,20,4.0,1.0,10.0
+2026-06-01,itviec,React Native,2,5.0,5.0,5.0
+2026-06-01,itviec,Redis,6,4.5,3.0,10.0
+2026-06-01,itviec,Risk & Compliance,2,3.0,1.0,5.0
+2026-06-01,itviec,Risk Management,3,4.0,1.0,5.0
+2026-06-01,itviec,Robot Framework,3,2.0,2.0,3.0
+2026-06-01,itviec,Robotic Process Automation (RPA),1,0.0,0.0,0.0
+2026-06-01,itviec,SAP,1,6.0,6.0,6.0
+2026-06-01,itviec,SIEM,2,3.0,2.0,4.0
+2026-06-01,itviec,SQL,52,3.5,0.0,7.0
+2026-06-01,itviec,Scrum,3,5.0,2.0,5.0
+2026-06-01,itviec,Security,4,4.0,2.0,6.0
+2026-06-01,itviec,Selenium,3,2.0,2.0,2.0
+2026-06-01,itviec,SoapUI,1,4.0,4.0,4.0
+2026-06-01,itviec,Software Architecture,3,5.0,3.0,10.0
+2026-06-01,itviec,Spring,4,5.0,1.0,5.0
+2026-06-01,itviec,Spring Boot,3,5.0,5.0,5.0
+2026-06-01,itviec,Stakeholder management,1,5.0,5.0,5.0
+2026-06-01,itviec,Statistical Analysis,1,3.0,3.0,3.0
+2026-06-01,itviec,Strategy planning,1,5.0,5.0,5.0
+2026-06-01,itviec,Swift,1,2.0,2.0,2.0
+2026-06-01,itviec,System Admin,3,2.0,2.0,5.0
+2026-06-01,itviec,System Architecture,1,6.0,6.0,6.0
+2026-06-01,itviec,Tableau,5,1.0,1.0,5.0
+2026-06-01,itviec,Team Management,6,4.0,3.0,10.0
+2026-06-01,itviec,Terraform,7,5.0,2.0,6.0
+2026-06-01,itviec,Tester,13,3.0,0.0,5.0
+2026-06-01,itviec,Twisted,1,2.0,2.0,2.0
+2026-06-01,itviec,TypeScript,13,5.0,1.0,10.0
+2026-06-01,itviec,UI-UX,1,4.0,4.0,4.0
+2026-06-01,itviec,UML,1,3.0,3.0,3.0
+2026-06-01,itviec,Unix,1,5.0,5.0,5.0
+2026-06-01,itviec,User story,1,5.0,5.0,5.0
+2026-06-01,itviec,VMware,1,3.0,3.0,3.0
+2026-06-01,itviec,Vue,8,2.0,1.0,5.0
+2026-06-01,itviec,VueJS,4,4.5,3.0,5.0
+2026-06-01,itviec,Waterfall Methodology,1,5.0,5.0,5.0
+2026-06-01,itviec,Wireframing,1,3.0,3.0,3.0
+2026-06-01,itviec,Wordpress,2,1.5,1.0,2.0
+2026-06-01,itviec,iOS,6,2.0,0.0,6.0
+2026-06-01,topcv,(unknown),13,3.0,0.0,4.0
+2026-06-01,topcv,AI solutions,2,3.0,3.0,3.0
+2026-06-01,topcv,ARM,1,2.0,2.0,2.0
+2026-06-01,topcv,AVR),1,2.0,2.0,2.0
+2026-06-01,topcv,AWS,1,3.0,3.0,3.0
+2026-06-01,topcv,Adjust,1,2.0,2.0,2.0
+2026-06-01,topcv,Agile Scrum Master,1,5.0,5.0,5.0
+2026-06-01,topcv,Amazon,1,2.0,2.0,2.0
+2026-06-01,topcv,Appium,1,3.0,3.0,3.0
+2026-06-01,topcv,Appsumer,1,2.0,2.0,2.0
+2026-06-01,topcv,Artificial Intelligence,2,3.0,3.0,3.0
+2026-06-01,topcv,AutoCAD,1,0.0,0.0,0.0
+2026-06-01,topcv,B2B Sales,2,3.0,3.0,3.0
+2026-06-01,topcv,Bán Hàng,3,3.0,1.0,3.0
+2026-06-01,topcv,Bảo Mật,1,5.0,5.0,5.0
+2026-06-01,topcv,C#,1,3.0,3.0,3.0
+2026-06-01,topcv,CI/CD,2,2.0,2.0,2.0
+2026-06-01,topcv,Clean Architecture,1,2.0,2.0,2.0
+2026-06-01,topcv,Concurrency,1,2.0,2.0,2.0
+2026-06-01,topcv,Công Nghệ Thông Tin,1,2.0,2.0,2.0
+2026-06-01,topcv,Cơ sở hạ tầng,1,5.0,5.0,5.0
+2026-06-01,topcv,Docker,3,2.0,1.0,3.0
+2026-06-01,topcv,Embedded,1,2.0,2.0,2.0
+2026-06-01,topcv,Enterprise sales,2,3.0,3.0,3.0
+2026-06-01,topcv,Excel,2,2.0,2.0,2.0
+2026-06-01,topcv,Fabricjs,1,2.0,2.0,2.0
+2026-06-01,topcv,Figma,2,2.0,2.0,2.0
+2026-06-01,topcv,Firebase,1,2.0,2.0,2.0
+2026-06-01,topcv,Flutter,2,1.5,1.0,2.0
+2026-06-01,topcv,Gamification,2,2.0,2.0,2.0
+2026-06-01,topcv,Giao tiếp,6,1.5,1.0,5.0
+2026-06-01,topcv,Giao tiếp tốt,2,3.0,3.0,3.0
+2026-06-01,topcv,Git,2,2.0,2.0,2.0
+2026-06-01,topcv,Giáo Dục,1,2.0,2.0,2.0
+2026-06-01,topcv,Giải pháp B2B,2,3.0,3.0,3.0
+2026-06-01,topcv,Global planning,1,2.0,2.0,2.0
+2026-06-01,topcv,Google Ads,1,2.0,2.0,2.0
+2026-06-01,topcv,Google Analytics,1,2.0,2.0,2.0
+2026-06-01,topcv,Hiểu Biết Sâu Rộng Về Công Nghệ Thông Tin,1,3.0,3.0,3.0
+2026-06-01,topcv,Hiểu biết SDLC,1,2.0,2.0,2.0
+2026-06-01,topcv,Hiểu biết STLC,1,2.0,2.0,2.0
+2026-06-01,topcv,Hỗ Trợ Ứng Dụng,1,5.0,5.0,5.0
+2026-06-01,topcv,ISTQB Foundation,1,2.0,2.0,2.0
+2026-06-01,topcv,IT Solution,2,3.0,3.0,3.0
+2026-06-01,topcv,Integration test,1,2.0,2.0,2.0
+2026-06-01,topcv,It,1,2.0,2.0,2.0
+2026-06-01,topcv,Java,4,2.5,1.0,3.0
+2026-06-01,topcv,JavaScript,1,3.0,3.0,3.0
+2026-06-01,topcv,Javascript,1,2.0,2.0,2.0
+2026-06-01,topcv,Khả năng hợp tác,1,5.0,5.0,5.0
+2026-06-01,topcv,Khả năng ứng biến giải quyết vấn đề,1,1.0,1.0,1.0
+2026-06-01,topcv,Kinh nghiệm SQL,1,2.0,2.0,2.0
+2026-06-01,topcv,Kiến Thức Về Bảo Mật,1,1.0,1.0,1.0
+2026-06-01,topcv,Kotlin,2,2.5,2.0,3.0
+2026-06-01,topcv,Kubernetes,1,1.0,1.0,1.0
+2026-06-01,topcv,Kỹ Năng Giao Tiếp Và Thuyết Trình Xuất Sắc,1,3.0,3.0,3.0
+2026-06-01,topcv,Kỹ Năng Lập Kế Hoạch,1,1.0,1.0,1.0
+2026-06-01,topcv,Kỹ Năng Phân Tích Yêu Cầu,2,2.0,2.0,2.0
+2026-06-01,topcv,Kỹ năng bán hàng,1,1.0,1.0,1.0
+2026-06-01,topcv,Kỹ năng làm việc nhóm,1,1.0,1.0,1.0
+2026-06-01,topcv,Kỹ năng lập báo cáo,1,1.0,1.0,1.0
+2026-06-01,topcv,Linux,1,2.0,2.0,2.0
+2026-06-01,topcv,Local planning,1,2.0,2.0,2.0
+2026-06-01,topcv,Log Analysis,1,2.0,2.0,2.0
+2026-06-01,topcv,Log bug,1,2.0,2.0,2.0
+2026-06-01,topcv,Làm Việc Nhóm Và Quản Lý Thời Gian Hiệu Quả,1,3.0,3.0,3.0
+2026-06-01,topcv,Làm việc nhóm,1,5.0,5.0,5.0
+2026-06-01,topcv,Lãnh đạo,1,5.0,5.0,5.0
+2026-06-01,topcv,Lên kế hoạch test,1,2.0,2.0,2.0
+2026-06-01,topcv,Lập Trình C++,1,2.0,2.0,2.0
+2026-06-01,topcv,Lập Trình Python,1,2.0,2.0,2.0
+2026-06-01,topcv,Microsoft Office,1,5.0,5.0,5.0
+2026-06-01,topcv,Multithreading,1,2.0,2.0,2.0
+2026-06-01,topcv,Mvvm,1,2.0,2.0,2.0
+2026-06-01,topcv,MySQL,1,2.0,2.0,2.0
+2026-06-01,topcv,Mạng lưới,1,5.0,5.0,5.0
+2026-06-01,topcv,Ngân Hàng,1,5.0,5.0,5.0
+2026-06-01,topcv,Node.js,1,2.0,2.0,2.0
+2026-06-01,topcv,OOP,1,2.0,2.0,2.0
+2026-06-01,topcv,PHP,1,0.0,0.0,0.0
+2026-06-01,topcv,PL/SQL,1,5.0,5.0,5.0
+2026-06-01,topcv,PLC,1,2.0,2.0,2.0
+2026-06-01,topcv,PMP,1,5.0,5.0,5.0
+2026-06-01,topcv,Phát Triển Ứng Dụng,1,5.0,5.0,5.0
+2026-06-01,topcv,Phân Tích Nguyên Nhân Gốc Rễ,1,5.0,5.0,5.0
+2026-06-01,topcv,Phân Tích Nhu Cầu Khách Hàng Và Đề Xuất Giải Pháp Phù Hợp,1,3.0,3.0,3.0
+2026-06-01,topcv,Phân Tích Tài Liệu,1,2.0,2.0,2.0
+2026-06-01,topcv,Phân tích,1,1.0,1.0,1.0
+2026-06-01,topcv,Phân tích dữ liệu,1,2.0,2.0,2.0
+2026-06-01,topcv,Phần mềm AI,2,3.0,3.0,3.0
+2026-06-01,topcv,PostgreSQL,2,1.5,1.0,2.0
+2026-06-01,topcv,Python,2,2.5,2.0,3.0
+2026-06-01,topcv,QA,1,3.0,3.0,3.0
+2026-06-01,topcv,Quản Lý Chiến Dịch Facebook Ads,1,2.0,2.0,2.0
+2026-06-01,topcv,Quản Lý Dự Án,3,2.0,2.0,2.0
+2026-06-01,topcv,Quản Lý Dự Án It,1,5.0,5.0,5.0
+2026-06-01,topcv,Quản Lý Mối Quan Hệ,1,5.0,5.0,5.0
+2026-06-01,topcv,Quản Lý Rủi Ro,3,2.0,2.0,5.0
+2026-06-01,topcv,Quản Lý Sản Phẩm,2,2.0,2.0,2.0
+2026-06-01,topcv,Quản Lý Tiến Độ,2,2.0,2.0,2.0
+2026-06-01,topcv,Quản Lý Tài Khoản,1,1.0,1.0,1.0
+2026-06-01,topcv,Quản lý thời gian,1,1.0,1.0,1.0
+2026-06-01,topcv,Quản lý/phân tích ứng dụng,1,5.0,5.0,5.0
+2026-06-01,topcv,ROS,1,2.0,2.0,2.0
+2026-06-01,topcv,React,1,2.0,2.0,2.0
+2026-06-01,topcv,Redis,1,2.0,2.0,2.0
+2026-06-01,topcv,SLAM,1,2.0,2.0,2.0
+2026-06-01,topcv,SQL,3,3.0,2.0,5.0
+2026-06-01,topcv,SVN,1,2.0,2.0,2.0
+2026-06-01,topcv,SaaS,2,3.0,3.0,3.0
+2026-06-01,topcv,Swift,1,2.0,2.0,2.0
+2026-06-01,topcv,Swift-Objective-C,1,2.0,2.0,2.0
+2026-06-01,topcv,Sử dụng công cụ quản lý lỗi,1,2.0,2.0,2.0
+2026-06-01,topcv,Sử dụng phần mềm mastercam,1,1.0,1.0,1.0
+2026-06-01,topcv,Teamwork,1,2.0,2.0,2.0
+2026-06-01,topcv,Tester,2,3.0,3.0,3.0
+2026-06-01,topcv,Thiết Kế Test Case,1,2.0,2.0,2.0
+2026-06-01,topcv,Thuyết trình,3,3.0,1.0,3.0
+2026-06-01,topcv,Thành thạo tin học văn phòng,1,1.0,1.0,1.0
+2026-06-01,topcv,Thực Hiện Test Case,1,2.0,2.0,2.0
+2026-06-01,topcv,Tiktok Ads,1,2.0,2.0,2.0
+2026-06-01,topcv,Trách Nhiệm,1,1.0,1.0,1.0
+2026-06-01,topcv,Tài Chính,1,5.0,5.0,5.0
+2026-06-01,topcv,Tư duy logic,1,1.0,1.0,1.0
+2026-06-01,topcv,Tổ chức công việc,1,2.0,2.0,2.0
+2026-06-01,topcv,UI/UX,2,2.0,2.0,2.0
+2026-06-01,topcv,UIKit/SwiftUI,1,2.0,2.0,2.0
+2026-06-01,topcv,Vi điều khiển (Arduino,1,2.0,2.0,2.0
+2026-06-01,topcv,Visio,2,2.0,2.0,2.0
+2026-06-01,topcv,Viết test cases,1,2.0,2.0,2.0
+2026-06-01,topcv,Viết tài liệu,1,1.0,1.0,1.0
+2026-06-01,topcv,Word,1,2.0,2.0,2.0
+2026-06-01,topcv,Xây Dựng Kế Hoạch Sản Phẩm,2,2.0,2.0,2.0
+2026-06-01,topcv,Xây Dựng Và Trình Bày Đề Xuất Kỹ Thuật (technical Proposal),1,3.0,3.0,3.0
+2026-06-01,topcv,Xây dựng mối quan hệ,2,1.0,1.0,1.0
+2026-06-01,topcv,Xử Lý Sự Cố,1,5.0,5.0,5.0
+2026-06-01,topcv,Xử lý vấn đề,1,5.0,5.0,5.0
+2026-06-01,topcv,appsflyer,1,2.0,2.0,2.0
+2026-06-01,topcv,chủ động,1,1.0,1.0,1.0
+2026-06-01,topcv,commit,1,2.0,2.0,2.0
+2026-06-01,topcv,connection pooling,1,2.0,2.0,2.0
+2026-06-01,topcv,database query,1,2.0,2.0,2.0
+2026-06-01,topcv,iOS,1,2.0,2.0,2.0
+2026-06-01,topcv,kỹ năng phân tích,1,1.0,1.0,1.0
+2026-06-01,topcv,kỹ năng tổ chức,1,5.0,5.0,5.0
+2026-06-01,topcv,mastercam,1,1.0,1.0,1.0
+2026-06-01,topcv,phân tích yêu cầu,2,2.0,2.0,2.0
+2026-06-01,topcv,quản lý team UA,1,2.0,2.0,2.0
+2026-06-01,topcv,rollback,1,2.0,2.0,2.0
+2026-06-01,topcv,sales B2G,2,3.0,3.0,3.0
+2026-06-01,topcv,thiết kế mạch,1,2.0,2.0,2.0
+2026-06-01,topcv,thuyết phục,1,2.0,2.0,2.0
+2026-06-01,topcv,thầu,2,3.0,3.0,3.0
+2026-06-01,topcv,trình bày,1,2.0,2.0,2.0
+2026-06-01,topcv,tư duy phản biện,1,5.0,5.0,5.0
+2026-06-01,topcv,tổ chức,1,5.0,5.0,5.0
+2026-06-01,topcv,unit test,1,2.0,2.0,2.0
+2026-06-01,topcv,Điều Phối Dự Án It,1,5.0,5.0,5.0
+2026-06-01,topcv,Đàm phán,4,3.0,1.0,5.0
+2026-06-01,topcv,Đánh giá mức độ bug,1,2.0,2.0,2.0
+2026-06-01,topcv,Ưu tiên ứng viên sinh sống gần công ty,1,1.0,1.0,1.0
+2026-06-01,topcv,Ứng dụng di động,1,5.0,5.0,5.0
+2026-06-08,itviec,.NET,13,4.0,2.0,7.0
+2026-06-08,itviec,.Net Core,3,5.0,4.0,7.0
+2026-06-08,itviec,A/B testing,1,1.0,1.0,1.0
+2026-06-08,itviec,AI,28,3.0,0.0,10.0
+2026-06-08,itviec,API,13,3.0,0.0,5.0
+2026-06-08,itviec,AWS,34,5.0,2.0,14.0
+2026-06-08,itviec,Agile,15,3.0,1.0,5.0
+2026-06-08,itviec,Ajax,1,2.0,2.0,2.0
+2026-06-08,itviec,Android,9,3.0,0.0,14.0
+2026-06-08,itviec,Angular,8,3.5,2.0,7.0
+2026-06-08,itviec,Apache Spark,1,3.0,3.0,3.0
+2026-06-08,itviec,Appium,1,2.0,2.0,2.0
+2026-06-08,itviec,AutoCAD,1,4.0,4.0,4.0
+2026-06-08,itviec,Automation Test,7,3.0,1.0,5.0
+2026-06-08,itviec,Azure,20,4.0,1.0,10.0
+2026-06-08,itviec,BPMN,1,1.0,1.0,1.0
+2026-06-08,itviec,BRD,2,1.5,1.0,2.0
+2026-06-08,itviec,Black box testing,3,1.0,0.0,5.0
+2026-06-08,itviec,Blockchain,1,3.0,3.0,3.0
+2026-06-08,itviec,Bootstrap,1,2.0,2.0,2.0
+2026-06-08,itviec,Bridge Engineer,1,3.0,3.0,3.0
+2026-06-08,itviec,Business Analysis,13,3.0,1.0,5.0
+2026-06-08,itviec,C language,1,4.0,4.0,4.0
+2026-06-08,itviec,C#,10,4.0,2.0,7.0
+2026-06-08,itviec,C++,3,4.0,0.0,6.0
+2026-06-08,itviec,CI/CD,5,5.0,4.0,7.0
+2026-06-08,itviec,CRM,1,5.0,5.0,5.0
+2026-06-08,itviec,CSS,3,4.0,3.0,7.0
+2026-06-08,itviec,CSS 3,1,2.0,2.0,2.0
+2026-06-08,itviec,Cisco,1,5.0,5.0,5.0
+2026-06-08,itviec,Clean Architecture,1,3.0,3.0,3.0
+2026-06-08,itviec,Cloud,6,4.0,1.0,5.0
+2026-06-08,itviec,Cloud-native Architecture,1,0.0,0.0,0.0
+2026-06-08,itviec,Computer Vision,3,2.0,2.0,3.0
+2026-06-08,itviec,Dart,1,3.0,3.0,3.0
+2026-06-08,itviec,Data Analysis,3,5.0,4.0,7.0
+2026-06-08,itviec,Data Engineer,5,5.0,2.0,7.0
+2026-06-08,itviec,Data Lineage,1,3.0,3.0,3.0
+2026-06-08,itviec,Data Quality Tools,1,3.0,3.0,3.0
+2026-06-08,itviec,Data Science,2,4.5,4.0,5.0
+2026-06-08,itviec,Data modeling,1,3.0,3.0,3.0
+2026-06-08,itviec,Data-driven,1,5.0,5.0,5.0
+2026-06-08,itviec,Database,12,2.5,0.0,5.0
+2026-06-08,itviec,Databricks,4,6.0,3.0,7.0
+2026-06-08,itviec,Deep Learning,2,2.5,2.0,3.0
+2026-06-08,itviec,Design,1,5.0,5.0,5.0
+2026-06-08,itviec,Design Systems,3,5.0,5.0,14.0
+2026-06-08,itviec,DevOps,24,4.0,1.0,14.0
+2026-06-08,itviec,Docker,31,4.0,0.0,10.0
+2026-06-08,itviec,ERP,6,3.0,1.0,5.0
+2026-06-08,itviec,Embedded,2,5.0,4.0,6.0
+2026-06-08,itviec,Embedded Android,1,6.0,6.0,6.0
+2026-06-08,itviec,English,28,3.5,0.0,7.0
+2026-06-08,itviec,Event-Driven Architecture,1,5.0,5.0,5.0
+2026-06-08,itviec,ExpressJS,1,4.0,4.0,4.0
+2026-06-08,itviec,FastAPI,2,1.0,1.0,1.0
+2026-06-08,itviec,Figma,2,3.0,1.0,5.0
+2026-06-08,itviec,Firewall,2,2.0,2.0,2.0
+2026-06-08,itviec,Flutter,2,8.5,3.0,14.0
+2026-06-08,itviec,Fresher Accepted,4,0.5,0.0,1.0
+2026-06-08,itviec,Fullstack,5,4.0,3.0,5.0
+2026-06-08,itviec,GCP,17,5.0,2.0,7.0
+2026-06-08,itviec,Generative AI,1,5.0,5.0,5.0
+2026-06-08,itviec,Git,4,5.0,3.0,7.0
+2026-06-08,itviec,GitHub,1,5.0,5.0,5.0
+2026-06-08,itviec,Go,8,5.0,2.0,7.0
+2026-06-08,itviec,GraphQL,1,3.0,3.0,3.0
+2026-06-08,itviec,HTML,1,4.0,4.0,4.0
+2026-06-08,itviec,HTML5,2,2.5,2.0,3.0
+2026-06-08,itviec,Hadoop,1,2.0,2.0,2.0
+2026-06-08,itviec,IT Audit,1,1.0,1.0,1.0
+2026-06-08,itviec,IT Communication/Translation,1,3.0,3.0,3.0
+2026-06-08,itviec,IT Support,2,3.0,1.0,5.0
+2026-06-08,itviec,Information Security,1,1.0,1.0,1.0
+2026-06-08,itviec,Internship Accepted,2,0.0,0.0,0.0
+2026-06-08,itviec,J2EE,2,3.5,3.0,4.0
+2026-06-08,itviec,JQuery,1,4.0,4.0,4.0
+2026-06-08,itviec,JSON,1,3.0,3.0,3.0
+2026-06-08,itviec,Japanese,3,3.0,2.0,3.0
+2026-06-08,itviec,Japanese IT Communication,1,3.0,3.0,3.0
+2026-06-08,itviec,Java,27,3.0,0.0,10.0
+2026-06-08,itviec,JavaScript,21,4.0,0.0,7.0
+2026-06-08,itviec,Jest,1,7.0,7.0,7.0
+2026-06-08,itviec,Jira,4,2.0,1.0,5.0
+2026-06-08,itviec,Jmeter,1,3.0,3.0,3.0
+2026-06-08,itviec,Kafka,1,5.0,5.0,5.0
+2026-06-08,itviec,Kanban,1,5.0,5.0,5.0
+2026-06-08,itviec,Kotlin,4,3.5,0.0,6.0
+2026-06-08,itviec,Kubernetes,25,4.0,0.0,10.0
+2026-06-08,itviec,LLM,5,2.0,2.0,5.0
+2026-06-08,itviec,Leadership,1,1.0,1.0,1.0
+2026-06-08,itviec,Linux,8,2.0,0.0,5.0
+2026-06-08,itviec,MLOps,3,7.0,3.0,7.0
+2026-06-08,itviec,Machine Learning,8,2.0,2.0,10.0
+2026-06-08,itviec,Microservices,8,5.0,0.0,7.0
+2026-06-08,itviec,Microservices Architecture,1,5.0,5.0,5.0
+2026-06-08,itviec,Mobile Apps,4,3.0,2.0,5.0
+2026-06-08,itviec,Mockups,1,1.0,1.0,1.0
+2026-06-08,itviec,MongoDB,9,3.0,0.0,5.0
+2026-06-08,itviec,MySQL,14,4.0,0.0,5.0
+2026-06-08,itviec,NLP,1,5.0,5.0,5.0
+2026-06-08,itviec,NestJS,3,4.0,2.0,5.0
+2026-06-08,itviec,Networking,4,2.0,0.0,5.0
+2026-06-08,itviec,NextJS,5,3.0,1.0,5.0
+2026-06-08,itviec,Node.js,12,3.0,0.0,5.0
+2026-06-08,itviec,OCR,2,2.0,2.0,2.0
+2026-06-08,itviec,OOP,3,0.0,0.0,3.0
+2026-06-08,itviec,Oracle,4,4.5,4.0,5.0
+2026-06-08,itviec,PHP,4,3.5,3.0,4.0
+2026-06-08,itviec,PL/SQL,2,4.0,3.0,5.0
+2026-06-08,itviec,Playwright,2,4.0,3.0,5.0
+2026-06-08,itviec,PostgreSQL,17,4.0,1.0,7.0
+2026-06-08,itviec,Postman,4,2.5,1.0,5.0
+2026-06-08,itviec,Product Management,3,3.0,2.0,10.0
+2026-06-08,itviec,Product Owner,3,3.0,2.0,5.0
+2026-06-08,itviec,Project Management,6,3.0,3.0,10.0
+2026-06-08,itviec,Prompt Engineering,2,2.5,2.0,3.0
+2026-06-08,itviec,PyTorch,2,2.0,2.0,2.0
+2026-06-08,itviec,Python,41,3.0,0.0,10.0
+2026-06-08,itviec,QA,20,3.0,0.0,5.0
+2026-06-08,itviec,QA QC,15,3.0,1.0,5.0
+2026-06-08,itviec,React,13,5.0,1.0,14.0
+2026-06-08,itviec,React Native,1,14.0,14.0,14.0
+2026-06-08,itviec,Redis,10,4.0,1.0,7.0
+2026-06-08,itviec,Redux,1,7.0,7.0,7.0
+2026-06-08,itviec,Risk Management,1,1.0,1.0,1.0
+2026-06-08,itviec,Robotic Process Automation (RPA),2,0.0,0.0,0.0
+2026-06-08,itviec,Ruby,1,5.0,5.0,5.0
+2026-06-08,itviec,Ruby on Rails,1,5.0,5.0,5.0
+2026-06-08,itviec,SAP,1,2.0,2.0,2.0
+2026-06-08,itviec,SQL,46,3.0,0.0,10.0
+2026-06-08,itviec,SRS,2,1.5,1.0,2.0
+2026-06-08,itviec,Salesforce,1,3.0,3.0,3.0
+2026-06-08,itviec,Scrum,12,2.5,1.0,5.0
+2026-06-08,itviec,Security,1,3.0,3.0,3.0
+2026-06-08,itviec,Selenium,2,2.5,2.0,3.0
+2026-06-08,itviec,ServiceNow,1,5.0,5.0,5.0
+2026-06-08,itviec,Snowflake,2,4.0,3.0,5.0
+2026-06-08,itviec,Software Architecture,2,6.0,2.0,10.0
+2026-06-08,itviec,Solution Architecture,4,3.5,2.0,5.0
+2026-06-08,itviec,Spark,3,3.0,2.0,5.0
+2026-06-08,itviec,Spring,7,2.0,2.0,5.0
+2026-06-08,itviec,Spring Boot,5,4.0,2.0,5.0
+2026-06-08,itviec,Stakeholder management,1,10.0,10.0,10.0
+2026-06-08,itviec,Strategy planning,1,7.0,7.0,7.0
+2026-06-08,itviec,Swift,1,0.0,0.0,0.0
+2026-06-08,itviec,Symfony,1,4.0,4.0,4.0
+2026-06-08,itviec,System Admin,7,2.0,0.0,7.0
+2026-06-08,itviec,System Architecture,3,7.0,5.0,7.0
+2026-06-08,itviec,Team Management,1,10.0,10.0,10.0
+2026-06-08,itviec,Technology Roadmapping,1,7.0,7.0,7.0
+2026-06-08,itviec,TestNG,1,0.0,0.0,0.0
+2026-06-08,itviec,Tester,15,2.0,0.0,5.0
+2026-06-08,itviec,TypeScript,15,5.0,1.0,7.0
+2026-06-08,itviec,UI-UX,1,5.0,5.0,5.0
+2026-06-08,itviec,UML,1,1.0,1.0,1.0
+2026-06-08,itviec,Unit test,3,5.0,0.0,7.0
+2026-06-08,itviec,Usability testing,2,3.0,1.0,5.0
+2026-06-08,itviec,User story,2,2.5,2.0,3.0
+2026-06-08,itviec,Vue,2,2.5,2.0,3.0
+2026-06-08,itviec,VueJS,2,4.5,2.0,7.0
+2026-06-08,itviec,Web3.js,1,3.0,3.0,3.0
+2026-06-08,itviec,White box testing,3,1.0,0.0,5.0
+2026-06-08,itviec,WinForms,2,3.5,3.0,4.0
+2026-06-08,itviec,Wireframing,1,1.0,1.0,1.0
+2026-06-08,itviec,Wordpress,2,4.0,3.0,5.0
+2026-06-08,itviec,iOS,8,3.0,0.0,14.0
+2026-06-08,topcv,(unknown),10,1.5,0.0,3.0
+2026-06-08,topcv,...),2,2.5,2.0,3.0
+2026-06-08,topcv,.NET,2,1.5,1.0,2.0
+2026-06-08,topcv,3D,1,2.0,2.0,2.0
+2026-06-08,topcv,AI SaaS,1,3.0,3.0,3.0
+2026-06-08,topcv,AWS,1,5.0,5.0,5.0
+2026-06-08,topcv,Adobe Illustrator (AI),1,1.0,1.0,1.0
+2026-06-08,topcv,Allen Bradley,1,3.0,3.0,3.0
+2026-06-08,topcv,Am hiểu kế toán quản trị,1,3.0,3.0,3.0
+2026-06-08,topcv,An Ninh Mạng,1,2.0,2.0,2.0
+2026-06-08,topcv,Android,1,1.0,1.0,1.0
+2026-06-08,topcv,Api Integration,1,4.0,4.0,4.0
+2026-06-08,topcv,Artificial Intelligence,1,3.0,3.0,3.0
+2026-06-08,topcv,AutoCAD,1,2.0,2.0,2.0
+2026-06-08,topcv,Azure,2,4.5,4.0,5.0
+2026-06-08,topcv,B2B,1,1.0,1.0,1.0
+2026-06-08,topcv,B2B SaaS,1,3.0,3.0,3.0
+2026-06-08,topcv,Banking,1,4.0,4.0,4.0
+2026-06-08,topcv,Beauty,1,1.0,1.0,1.0
+2026-06-08,topcv,Blueprint,1,2.0,2.0,2.0
+2026-06-08,topcv,Business Development,1,2.0,2.0,2.0
+2026-06-08,topcv,Bán Hàng,1,3.0,3.0,3.0
+2026-06-08,topcv,Báo Cáo Quản Trị,1,3.0,3.0,3.0
+2026-06-08,topcv,Bảo Mật Thông Tin,1,2.0,2.0,2.0
+2026-06-08,topcv,Bốc Xếp Hàng Hóa,1,1.0,1.0,1.0
+2026-06-08,topcv,C++,1,2.0,2.0,2.0
+2026-06-08,topcv,Chủ động học hỏi,1,1.0,1.0,1.0
+2026-06-08,topcv,Closing Deals,1,2.0,2.0,2.0
+2026-06-08,topcv,Conversion Rate Optimization,1,1.0,1.0,1.0
+2026-06-08,topcv,Crisp or helpdesk tools,1,1.0,1.0,1.0
+2026-06-08,topcv,Customer Support,1,1.0,1.0,1.0
+2026-06-08,topcv,Cẩn Thận,1,1.0,1.0,1.0
+2026-06-08,topcv,DevOps,1,5.0,5.0,5.0
+2026-06-08,topcv,Docker,1,5.0,5.0,5.0
+2026-06-08,topcv,E-commerce,1,4.0,4.0,4.0
+2026-06-08,topcv,Electrical Troubleshooting,1,3.0,3.0,3.0
+2026-06-08,topcv,Eurocode),1,2.0,2.0,2.0
+2026-06-08,topcv,F&B,1,1.0,1.0,1.0
+2026-06-08,topcv,Fashion,1,1.0,1.0,1.0
+2026-06-08,topcv,Fintech,1,4.0,4.0,4.0
+2026-06-08,topcv,Game AI,1,2.0,2.0,2.0
+2026-06-08,topcv,Game Design,1,2.0,2.0,2.0
+2026-06-08,topcv,Giao Nhận Hàng Hóa,1,1.0,1.0,1.0
+2026-06-08,topcv,Giao tiếp,3,3.0,0.0,4.0
+2026-06-08,topcv,Giao tiếp rõ ràng,1,4.0,4.0,4.0
+2026-06-08,topcv,Git,1,2.0,2.0,2.0
+2026-06-08,topcv,Giải quyết vấn đề,1,5.0,5.0,5.0
+2026-06-08,topcv,Go,1,3.0,3.0,3.0
+2026-06-08,topcv,Hiểu Biết Về Quy Trình Phát Triển Phần Mềm,1,0.0,0.0,0.0
+2026-06-08,topcv,Hmi Configuration,1,3.0,3.0,3.0
+2026-06-08,topcv,Industrial Automation,1,3.0,3.0,3.0
+2026-06-08,topcv,Insurance,1,4.0,4.0,4.0
+2026-06-08,topcv,Iso 9001 Hoặc Các Tiêu Chuẩn Chất Lượng Khác,1,2.0,2.0,2.0
+2026-06-08,topcv,Java,3,3.0,1.0,3.0
+2026-06-08,topcv,Khả Năng Phân Tích Yêu Cầu,1,2.0,2.0,2.0
+2026-06-08,topcv,Kinh Nghiệm Bán Hàng B2b,1,1.0,1.0,1.0
+2026-06-08,topcv,Kinh Nghiệm Làm Việc Với Các Công Cụ Triển Khai,1,2.0,2.0,2.0
+2026-06-08,topcv,Kinh Nghiệm Làm Việc Với Các Hệ Thống Khác Nhau,1,2.0,2.0,2.0
+2026-06-08,topcv,Kinh nghiệm làm việc tại nhà máy sản xuất,1,2.0,2.0,2.0
+2026-06-08,topcv,Kinh nghiệm ngành đá tự nhiên,1,3.0,3.0,3.0
+2026-06-08,topcv,Kiến Thức Về Cơ Sở Dữ Liệu,1,2.0,2.0,2.0
+2026-06-08,topcv,Kiến Thức Về Hệ Điều Hành,1,2.0,2.0,2.0
+2026-06-08,topcv,Kiến Thức Về Kiểm Thử Phần Mềm,1,0.0,0.0,0.0
+2026-06-08,topcv,Kiến Thức Về Phần Mềm,1,2.0,2.0,2.0
+2026-06-08,topcv,Kiến Thức Về Tiêu Chuẩn Thiết Kế Kết Cấu Thép (vd: Aisc,1,2.0,2.0,2.0
+2026-06-08,topcv,Kiến thức về bán hàng B2B,1,1.0,1.0,1.0
+2026-06-08,topcv,Kiểm Kê Hàng Hóa,1,1.0,1.0,1.0
+2026-06-08,topcv,Kiểm Soát Chi Phí,1,3.0,3.0,3.0
+2026-06-08,topcv,Kiểm Soát Chất Lượng,1,2.0,2.0,2.0
+2026-06-08,topcv,Kiểm Soát Nội Bộ,1,3.0,3.0,3.0
+2026-06-08,topcv,Kiểm Tra Chất Lượng Hàng Hóa,1,1.0,1.0,1.0
+2026-06-08,topcv,Kiểm soát chi phí tại Nhà máy sản xuất,1,3.0,3.0,3.0
+2026-06-08,topcv,Kubernetes,1,5.0,5.0,5.0
+2026-06-08,topcv,Kỹ Năng Giao Tiếp Tốt (viết Và Nói),1,0.0,0.0,0.0
+2026-06-08,topcv,Kỹ Năng Kiểm Thử Phần Mềm,1,2.0,2.0,2.0
+2026-06-08,topcv,Kỹ Năng Marketing,1,0.0,0.0,0.0
+2026-06-08,topcv,Kỹ Năng Quản Lý Dự Án,1,2.0,2.0,2.0
+2026-06-08,topcv,Kỹ Năng Triển Khai Phần Mềm,1,2.0,2.0,2.0
+2026-06-08,topcv,Kỹ Năng Viết Tài Liệu,1,2.0,2.0,2.0
+2026-06-08,topcv,Kỹ Năng Đào Tạo Người Dùng,1,2.0,2.0,2.0
+2026-06-08,topcv,Kỹ Sư Kết Cấu Thép,1,2.0,2.0,2.0
+2026-06-08,topcv,Kỹ năng giao tiếp,2,1.5,1.0,2.0
+2026-06-08,topcv,Kỹ năng giải quyết vấn đề,2,1.5,1.0,2.0
+2026-06-08,topcv,Kỹ năng làm việc nhóm,2,1.5,1.0,2.0
+2026-06-08,topcv,Làm proposal,1,3.0,3.0,3.0
+2026-06-08,topcv,Làm việc độc lập,1,4.0,4.0,4.0
+2026-06-08,topcv,Microservices Architecture,1,4.0,4.0,4.0
+2026-06-08,topcv,Microsoft 365,1,1.0,1.0,1.0
+2026-06-08,topcv,MySQL,2,3.0,3.0,3.0
+2026-06-08,topcv,Negotiation,1,2.0,2.0,2.0
+2026-06-08,topcv,Nhanh nhẹn,1,1.0,1.0,1.0
+2026-06-08,topcv,Omron,1,3.0,3.0,3.0
+2026-06-08,topcv,PHP,2,0.5,0.0,1.0
+2026-06-08,topcv,Perforce,1,2.0,2.0,2.0
+2026-06-08,topcv,Phân Tích Nghiệp Vụ,2,4.5,4.0,5.0
+2026-06-08,topcv,Phân Tích Rủi Ro,1,5.0,5.0,5.0
+2026-06-08,topcv,Phân Tích Thị Trường,1,1.0,1.0,1.0
+2026-06-08,topcv,Phân tích dữ liệu,1,2.0,2.0,2.0
+2026-06-08,topcv,Phản Biện,1,4.0,4.0,4.0
+2026-06-08,topcv,Phối Hợp Nhóm,1,4.0,4.0,4.0
+2026-06-08,topcv,Pitch deck,1,3.0,3.0,3.0
+2026-06-08,topcv,Plc Programming (siemens,1,3.0,3.0,3.0
+2026-06-08,topcv,Presales,1,1.0,1.0,1.0
+2026-06-08,topcv,Python,1,5.0,5.0,5.0
+2026-06-08,topcv,QA,2,2.5,1.0,4.0
+2026-06-08,topcv,Quản Lý Hệ Thống It,1,2.0,2.0,2.0
+2026-06-08,topcv,Quản Lý Hệ Thống Mạng,1,2.0,2.0,2.0
+2026-06-08,topcv,Quản Lý Kho,1,1.0,1.0,1.0
+2026-06-08,topcv,Quản Lý Stakeholder,1,5.0,5.0,5.0
+2026-06-08,topcv,Quản Lý Vận Hành,1,3.0,3.0,3.0
+2026-06-08,topcv,Quản Lý Đội Nhóm,1,2.0,2.0,2.0
+2026-06-08,topcv,Quản Trị Doanh Nghiệp,1,3.0,3.0,3.0
+2026-06-08,topcv,Quản Trị Hệ Thống,1,3.0,3.0,3.0
+2026-06-08,topcv,Quản trị kho,1,3.0,3.0,3.0
+2026-06-08,topcv,Reading Electrical Schematics,1,3.0,3.0,3.0
+2026-06-08,topcv,SQL,3,3.0,2.0,3.0
+2026-06-08,topcv,Sap2000,1,2.0,2.0,2.0
+2026-06-08,topcv,Shop Drawing,1,2.0,2.0,2.0
+2026-06-08,topcv,Shopify OS 2.0 themes,1,1.0,1.0,1.0
+2026-06-08,topcv,Shopify store admin,1,1.0,1.0,1.0
+2026-06-08,topcv,Stakeholder Management,1,4.0,4.0,4.0
+2026-06-08,topcv,Steel Detailer,1,2.0,2.0,2.0
+2026-06-08,topcv,Steel Modeling,1,2.0,2.0,2.0
+2026-06-08,topcv,Strategic Planning,1,2.0,2.0,2.0
+2026-06-08,topcv,Structural Steel Detailer,1,2.0,2.0,2.0
+2026-06-08,topcv,Sức Khỏe Tốt,1,1.0,1.0,1.0
+2026-06-08,topcv,Sử Dụng Crm,1,3.0,3.0,3.0
+2026-06-08,topcv,Sử Dụng Máy Tính Văn Phòng,1,1.0,1.0,1.0
+2026-06-08,topcv,Sử Dụng Phần Mềm Quản Lý Kho,1,1.0,1.0,1.0
+2026-06-08,topcv,Sử Dụng Phần Mềm Thiết Kế Kết Cấu (etabs,1,2.0,2.0,2.0
+2026-06-08,topcv,Sử dụng Confluence,1,4.0,4.0,4.0
+2026-06-08,topcv,Sử dụng Draw.io,1,4.0,4.0,4.0
+2026-06-08,topcv,Sử dụng Figma,1,4.0,4.0,4.0
+2026-06-08,topcv,Sử dụng Jira,1,4.0,4.0,4.0
+2026-06-08,topcv,Tekla,1,2.0,2.0,2.0
+2026-06-08,topcv,Tekla Structures,1,2.0,2.0,2.0
+2026-06-08,topcv,Telecom Solution,1,1.0,1.0,1.0
+2026-06-08,topcv,Telegram,1,3.0,3.0,3.0
+2026-06-08,topcv,Tester,3,3.0,1.0,3.0
+2026-06-08,topcv,Testing,2,2.5,2.0,3.0
+2026-06-08,topcv,Thiết Kế Cơ Sở Dữ Liệu,1,4.0,4.0,4.0
+2026-06-08,topcv,Thiết Kế Quy Trình,1,5.0,5.0,5.0
+2026-06-08,topcv,Thuyết trình,3,3.0,3.0,4.0
+2026-06-08,topcv,Thành Thạo Excel,1,3.0,3.0,3.0
+2026-06-08,topcv,Tiếng Anh,1,3.0,3.0,3.0
+2026-06-08,topcv,Tiếng Nhật (n2 Trở Lên),1,1.0,1.0,1.0
+2026-06-08,topcv,Triển Khai Bản Vẽ Kết Cấu Thép,1,2.0,2.0,2.0
+2026-06-08,topcv,Triển khai bản vẽ kết cấu thép 2D,1,2.0,2.0,2.0
+2026-06-08,topcv,Trung thực,1,1.0,1.0,1.0
+2026-06-08,topcv,Tuân Thủ Quy Trình,1,1.0,1.0,1.0
+2026-06-08,topcv,Tìm kiếm khách hàng,2,0.5,0.0,1.0
+2026-06-08,topcv,Tư duy hệ thống,1,4.0,4.0,4.0
+2026-06-08,topcv,Tư duy logic,1,4.0,4.0,4.0
+2026-06-08,topcv,Tỉ Mỉ,1,1.0,1.0,1.0
+2026-06-08,topcv,Unreal Engine,1,2.0,2.0,2.0
+2026-06-08,topcv,Viết Tài Liệu Yêu Cầu,1,4.0,4.0,4.0
+2026-06-08,topcv,Xây dựng biểu mẫu,1,3.0,3.0,3.0
+2026-06-08,topcv,Xây dựng hệ thống quy trình,1,3.0,3.0,3.0
+2026-06-08,topcv,Xây dựng mối quan hệ,1,3.0,3.0,3.0
+2026-06-08,topcv,Xây dựng quy chế,1,3.0,3.0,3.0
+2026-06-08,topcv,Xây dựng quy trình,1,3.0,3.0,3.0
+2026-06-08,topcv,Xử Lý Sự Cố Phần Mềm,1,2.0,2.0,2.0
+2026-06-08,topcv,Xử lý sự cố phần cứng,1,2.0,2.0,2.0
+2026-06-08,topcv,có trách nhiệm,1,1.0,1.0,1.0
+2026-06-08,topcv,deal với đối tác qua email,1,3.0,3.0,3.0
+2026-06-08,topcv,debug,1,2.0,2.0,2.0
+2026-06-08,topcv,ecommerce verticals,1,1.0,1.0,1.0
+2026-06-08,topcv,follow-up,1,3.0,3.0,3.0
+2026-06-08,topcv,giá thành sản xuất,1,3.0,3.0,3.0
+2026-06-08,topcv,hiểu biết về công nghệ,1,5.0,5.0,5.0
+2026-06-08,topcv,iOS,1,1.0,1.0,1.0
+2026-06-08,topcv,kpi,1,3.0,3.0,3.0
+2026-06-08,topcv,kế toán giá thành,1,3.0,3.0,3.0
+2026-06-08,topcv,kế toán quản trị,1,3.0,3.0,3.0
+2026-06-08,topcv,kỹ năng tư vấn,1,2.0,2.0,2.0
+2026-06-08,topcv,linkedin,1,3.0,3.0,3.0
+2026-06-08,topcv,merchant workflows,1,1.0,1.0,1.0
+2026-06-08,topcv,profiling,1,2.0,2.0,2.0
+2026-06-08,topcv,sales-adjacent role,1,1.0,1.0,1.0
+2026-06-08,topcv,screen demo recording,1,1.0,1.0,1.0
+2026-06-08,topcv,sản xuất công nghiệp,1,3.0,3.0,3.0
+2026-06-08,topcv,sắp xếp hàng hóa,1,1.0,1.0,1.0
+2026-06-08,topcv,theme basics,1,1.0,1.0,1.0
+2026-06-08,topcv,thuyết phục,1,3.0,3.0,3.0
+2026-06-08,topcv,thống kê,1,2.0,2.0,2.0
+2026-06-08,topcv,ticket queue management,1,1.0,1.0,1.0
+2026-06-08,topcv,tiếng việt,1,1.0,1.0,1.0
+2026-06-08,topcv,tổ chức meeting,1,3.0,3.0,3.0
+2026-06-08,topcv,vật liệu xây dựng,1,3.0,3.0,3.0
+2026-06-08,topcv,written English,1,1.0,1.0,1.0
+2026-06-08,topcv,Đàm phán,2,3.0,3.0,3.0
+2026-06-08,topcv,Đàm phán B2B,1,3.0,3.0,3.0
+2026-06-08,topcv,Đọc Hiểu Chứng Từ,1,1.0,1.0,1.0
+2026-06-15,itviec,.NET,14,3.0,0.0,5.0
+2026-06-15,itviec,ABAP,1,1.0,1.0,1.0
+2026-06-15,itviec,AI,50,3.0,0.0,15.0
+2026-06-15,itviec,API,13,4.0,1.0,7.0
+2026-06-15,itviec,AWS,47,5.0,1.0,10.0
+2026-06-15,itviec,AWS CloudFormation,1,3.0,3.0,3.0
+2026-06-15,itviec,Agile,11,2.0,1.0,6.0
+2026-06-15,itviec,Android,12,5.0,0.0,7.0
+2026-06-15,itviec,Angular,10,4.5,1.0,5.0
+2026-06-15,itviec,Ansible,1,3.0,3.0,3.0
+2026-06-15,itviec,Apache Spark,1,5.0,5.0,5.0
+2026-06-15,itviec,Appium,3,5.0,3.0,5.0
+2026-06-15,itviec,Application Security,1,4.0,4.0,4.0
+2026-06-15,itviec,AutoCAD,1,3.0,3.0,3.0
+2026-06-15,itviec,Automation Test,5,2.0,2.0,5.0
+2026-06-15,itviec,Azure,41,4.0,1.0,10.0
+2026-06-15,itviec,BPMN,1,3.0,3.0,3.0
+2026-06-15,itviec,Bash Shell,2,3.0,3.0,3.0
+2026-06-15,itviec,Big Data,4,5.0,2.0,5.0
+2026-06-15,itviec,Blockchain,2,4.5,4.0,5.0
+2026-06-15,itviec,Business Analysis,15,2.0,1.0,5.0
+2026-06-15,itviec,Business Intelligence,3,5.0,3.0,5.0
+2026-06-15,itviec,C language,2,0.0,0.0,0.0
+2026-06-15,itviec,C#,11,3.0,0.0,7.0
+2026-06-15,itviec,C++,15,0.0,0.0,3.0
+2026-06-15,itviec,CI/CD,8,3.0,2.0,5.0
+2026-06-15,itviec,CRM,6,4.0,1.0,6.0
+2026-06-15,itviec,CSS,2,2.0,0.0,4.0
+2026-06-15,itviec,CSS 3,1,4.0,4.0,4.0
+2026-06-15,itviec,Chinese,2,1.5,1.0,2.0
+2026-06-15,itviec,Clean Architecture,1,5.0,5.0,5.0
+2026-06-15,itviec,Cloud,9,4.0,1.0,6.0
+2026-06-15,itviec,Cloud Security,1,4.0,4.0,4.0
+2026-06-15,itviec,Cloud-native Architecture,2,4.5,3.0,6.0
+2026-06-15,itviec,Computer Vision,7,2.0,1.0,5.0
+2026-06-15,itviec,Cybersecurity,3,0.0,0.0,5.0
+2026-06-15,itviec,Cypress,1,2.0,2.0,2.0
+2026-06-15,itviec,DBA,1,6.0,6.0,6.0
+2026-06-15,itviec,DBT,1,5.0,5.0,5.0
+2026-06-15,itviec,Data Analysis,6,4.5,1.0,7.0
+2026-06-15,itviec,Data Engineer,10,3.5,2.0,15.0
+2026-06-15,itviec,Data Science,4,4.0,3.0,5.0
+2026-06-15,itviec,Data Warehousing,5,2.0,2.0,15.0
+2026-06-15,itviec,Data mining,1,5.0,5.0,5.0
+2026-06-15,itviec,Data modeling,4,2.0,2.0,5.0
+2026-06-15,itviec,Data-driven,1,6.0,6.0,6.0
+2026-06-15,itviec,Database,12,2.5,0.0,6.0
+2026-06-15,itviec,Databricks,1,4.0,4.0,4.0
+2026-06-15,itviec,Deep Learning,5,3.0,1.0,5.0
+2026-06-15,itviec,Design,3,4.0,2.0,5.0
+2026-06-15,itviec,DevOps,32,4.5,0.0,10.0
+2026-06-15,itviec,DevSecOps,1,4.0,4.0,4.0
+2026-06-15,itviec,Docker,46,3.0,0.0,10.0
+2026-06-15,itviec,ELT,1,3.0,3.0,3.0
+2026-06-15,itviec,ERP,5,2.0,2.0,5.0
+2026-06-15,itviec,ETL,5,5.0,5.0,5.0
+2026-06-15,itviec,Embedded,2,0.0,0.0,0.0
+2026-06-15,itviec,Embedded Android,2,0.0,0.0,0.0
+2026-06-15,itviec,Embedded C,2,0.0,0.0,0.0
+2026-06-15,itviec,English,39,3.0,0.0,8.0
+2026-06-15,itviec,Enterprise Architecture,1,3.0,3.0,3.0
+2026-06-15,itviec,FastAPI,5,0.0,0.0,4.0
+2026-06-15,itviec,Figma,5,2.0,1.0,4.0
+2026-06-15,itviec,Firebase,1,1.0,1.0,1.0
+2026-06-15,itviec,Flutter,2,4.5,4.0,5.0
+2026-06-15,itviec,Fresher Accepted,4,1.5,1.0,4.0
+2026-06-15,itviec,Fullstack,7,2.0,0.0,5.0
+2026-06-15,itviec,GCP,27,4.0,1.0,8.0
+2026-06-15,itviec,Games,1,1.0,1.0,1.0
+2026-06-15,itviec,Generative AI,3,5.0,3.0,6.0
+2026-06-15,itviec,Git,2,1.5,0.0,3.0
+2026-06-15,itviec,GitHub,2,2.0,1.0,3.0
+2026-06-15,itviec,GitLab CI,2,5.0,5.0,5.0
+2026-06-15,itviec,Go,24,2.0,0.0,6.0
+2026-06-15,itviec,Google BigQuery,2,5.0,5.0,5.0
+2026-06-15,itviec,GraphQL,1,7.0,7.0,7.0
+2026-06-15,itviec,HTML,2,3.5,0.0,7.0
+2026-06-15,itviec,HTML5,3,4.0,1.0,5.0
+2026-06-15,itviec,Hadoop,1,5.0,5.0,5.0
+2026-06-15,itviec,Hardware Troubleshooting,2,3.0,3.0,3.0
+2026-06-15,itviec,ISO 27001,2,4.0,3.0,5.0
+2026-06-15,itviec,IT Audit,1,3.0,3.0,3.0
+2026-06-15,itviec,IT Communication/Translation,1,2.0,2.0,2.0
+2026-06-15,itviec,Information Security,1,3.0,3.0,3.0
+2026-06-15,itviec,Internship Accepted,6,0.0,0.0,0.0
+2026-06-15,itviec,J2EE,1,5.0,5.0,5.0
+2026-06-15,itviec,JSON,2,2.0,2.0,2.0
+2026-06-15,itviec,Japanese,4,0.0,0.0,0.0
+2026-06-15,itviec,Java,38,4.0,0.0,10.0
+2026-06-15,itviec,JavaScript,28,3.5,0.0,10.0
+2026-06-15,itviec,Jira,3,1.0,1.0,2.0
+2026-06-15,itviec,Jmeter,1,2.0,2.0,2.0
+2026-06-15,itviec,Kafka,4,5.0,2.0,8.0
+2026-06-15,itviec,Kotlin,9,5.0,1.0,7.0
+2026-06-15,itviec,Kubernetes,25,4.0,0.0,8.0
+2026-06-15,itviec,LLM,13,3.0,1.0,5.0
+2026-06-15,itviec,Laravel,2,4.5,4.0,5.0
+2026-06-15,itviec,Leadership,9,5.0,4.0,15.0
+2026-06-15,itviec,Linux,5,3.0,2.0,5.0
+2026-06-15,itviec,MLOps,4,4.0,3.0,5.0
+2026-06-15,itviec,MVVM,2,5.0,5.0,5.0
+2026-06-15,itviec,Machine Learning,20,2.5,1.0,5.0
+2026-06-15,itviec,Microservices,16,4.0,3.0,10.0
+2026-06-15,itviec,Microsoft Dynamics 365,1,5.0,5.0,5.0
+2026-06-15,itviec,Miro,1,1.0,1.0,1.0
+2026-06-15,itviec,Mobile Apps,6,3.0,1.0,7.0
+2026-06-15,itviec,MongoDB,17,3.0,0.0,5.0
+2026-06-15,itviec,MySQL,15,3.0,0.0,7.0
+2026-06-15,itviec,NLP,7,2.0,1.0,5.0
+2026-06-15,itviec,NestJS,3,5.0,4.0,5.0
+2026-06-15,itviec,Networking,1,5.0,5.0,5.0
+2026-06-15,itviec,NextJS,2,4.0,4.0,4.0
+2026-06-15,itviec,NoSQL,2,1.0,1.0,1.0
+2026-06-15,itviec,Node.js,27,4.0,0.0,10.0
+2026-06-15,itviec,OCR,1,5.0,5.0,5.0
+2026-06-15,itviec,OOP,9,1.0,0.0,5.0
+2026-06-15,itviec,Odoo,2,2.0,2.0,2.0
+2026-06-15,itviec,OpenCV,2,0.0,0.0,0.0
+2026-06-15,itviec,Oracle,3,6.0,0.0,7.0
+2026-06-15,itviec,PHP,2,4.5,4.0,5.0
+2026-06-15,itviec,Penetration Testing,1,5.0,5.0,5.0
+2026-06-15,itviec,Playwright,5,2.0,1.0,5.0
+2026-06-15,itviec,PostgreSQL,38,3.0,0.0,7.0
+2026-06-15,itviec,Postman,4,2.0,1.0,3.0
+2026-06-15,itviec,Presale,2,4.0,3.0,5.0
+2026-06-15,itviec,Product Management,7,5.0,1.0,7.0
+2026-06-15,itviec,Product Owner,4,2.0,1.0,5.0
+2026-06-15,itviec,Product roadmap,1,1.0,1.0,1.0
+2026-06-15,itviec,Product strategy,1,2.0,2.0,2.0
+2026-06-15,itviec,Project Management,4,3.5,1.0,7.0
+2026-06-15,itviec,Prompt Engineering,1,3.0,3.0,3.0
+2026-06-15,itviec,PyTorch,4,3.0,1.0,5.0
+2026-06-15,itviec,Python,70,3.0,0.0,7.0
+2026-06-15,itviec,QA,15,2.0,1.0,7.0
+2026-06-15,itviec,QA QC,6,2.5,1.0,5.0
+2026-06-15,itviec,React,30,4.0,0.0,10.0
+2026-06-15,itviec,React Native,3,5.0,3.0,7.0
+2026-06-15,itviec,Redis,12,2.5,2.0,5.0
+2026-06-15,itviec,Redux,1,4.0,4.0,4.0
+2026-06-15,itviec,Risk Management,1,3.0,3.0,3.0
+2026-06-15,itviec,Robot Framework,2,5.0,5.0,5.0
+2026-06-15,itviec,SAP,1,1.0,1.0,1.0
+2026-06-15,itviec,SOLID Principles,2,4.5,4.0,5.0
+2026-06-15,itviec,SQL,46,3.5,0.0,8.0
+2026-06-15,itviec,Salesforce,1,2.0,2.0,2.0
+2026-06-15,itviec,Scrum,3,2.0,1.0,2.0
+2026-06-15,itviec,Security,4,5.0,2.0,10.0
+2026-06-15,itviec,Selenium,5,2.0,1.0,3.0
+2026-06-15,itviec,Software Architecture,7,5.0,3.0,10.0
+2026-06-15,itviec,Solution Architecture,6,3.5,2.0,15.0
+2026-06-15,itviec,Spring,6,4.5,0.0,8.0
+2026-06-15,itviec,Spring Boot,14,4.5,0.0,8.0
+2026-06-15,itviec,Stakeholder management,4,4.5,3.0,15.0
+2026-06-15,itviec,Swift,4,5.5,5.0,7.0
+2026-06-15,itviec,System Admin,4,4.0,3.0,6.0
+2026-06-15,itviec,System Architecture,3,5.0,2.0,5.0
+2026-06-15,itviec,Team Management,3,6.0,2.0,7.0
+2026-06-15,itviec,TensorFlow,4,1.0,1.0,1.0
+2026-06-15,itviec,Terraform,2,4.0,3.0,5.0
+2026-06-15,itviec,Tester,9,2.0,1.0,5.0
+2026-06-15,itviec,TypeScript,19,4.0,0.0,10.0
+2026-06-15,itviec,UI-UX,2,3.0,2.0,4.0
+2026-06-15,itviec,Unit test,1,4.0,4.0,4.0
+2026-06-15,itviec,User flows,1,1.0,1.0,1.0
+2026-06-15,itviec,VMware,2,3.0,3.0,3.0
+2026-06-15,itviec,Vue,7,5.0,0.0,6.0
+2026-06-15,itviec,VueJS,3,3.0,2.0,5.0
+2026-06-15,itviec,Windows,2,0.0,0.0,0.0
+2026-06-15,itviec,XML,1,3.0,3.0,3.0
+2026-06-15,itviec,iOS,7,5.0,2.0,7.0
+2026-06-15,itviec,kotlinx.coroutines,2,4.0,3.0,5.0
+2026-06-15,topcv,(unknown),25,2.0,0.0,3.0
+2026-06-15,topcv,.NET,7,2.0,1.0,3.0
+2026-06-15,topcv,.NET Compact Framework,1,2.0,2.0,2.0
+2026-06-15,topcv,.NET Framework,2,1.5,1.0,2.0
+2026-06-15,topcv,.net core,1,1.0,1.0,1.0
+2026-06-15,topcv,A/B Testing,1,3.0,3.0,3.0
+2026-06-15,topcv,AI,5,1.0,0.0,2.0
+2026-06-15,topcv,AI-assisted development tools,1,3.0,3.0,3.0
+2026-06-15,topcv,API,2,2.0,2.0,2.0
+2026-06-15,topcv,ASP.NET,1,2.0,2.0,2.0
+2026-06-15,topcv,AWS,6,4.0,1.0,5.0
+2026-06-15,topcv,Agile,2,3.5,3.0,4.0
+2026-06-15,topcv,Agile Scrum,1,1.0,1.0,1.0
+2026-06-15,topcv,Ajax,1,2.0,2.0,2.0
+2026-06-15,topcv,Alibaba,1,3.0,3.0,3.0
+2026-06-15,topcv,Am Hiểu Về Sản Phẩm It Laptop,1,1.0,1.0,1.0
+2026-06-15,topcv,Am hiểu RESTful API,2,2.0,2.0,2.0
+2026-06-15,topcv,Amazon,1,3.0,3.0,3.0
+2026-06-15,topcv,Android,6,2.0,1.0,5.0
+2026-06-15,topcv,Android HAL,1,2.0,2.0,2.0
+2026-06-15,topcv,Android kotlin,2,2.0,2.0,2.0
+2026-06-15,topcv,Angular,5,3.0,1.0,5.0
+2026-06-15,topcv,Angular JS,1,1.0,1.0,1.0
+2026-06-15,topcv,Angular),1,2.0,2.0,2.0
+2026-06-15,topcv,Ansible,1,3.0,3.0,3.0
+2026-06-15,topcv,Apex programming,1,2.0,2.0,2.0
+2026-06-15,topcv,Aura Components,1,2.0,2.0,2.0
+2026-06-15,topcv,AutoCAD,2,1.0,1.0,1.0
+2026-06-15,topcv,Azure,5,2.0,1.0,5.0
+2026-06-15,topcv,Backend Development,1,4.0,4.0,4.0
+2026-06-15,topcv,Backend development (Node.js,1,2.0,2.0,2.0
+2026-06-15,topcv,Biết sử dụng SQL để khai thác và phân tích dữ liệu,1,3.0,3.0,3.0
+2026-06-15,topcv,Blockchain,1,1.0,1.0,1.0
+2026-06-15,topcv,Bootstrap,1,2.0,2.0,2.0
+2026-06-15,topcv,Bán Hàng,1,1.0,1.0,1.0
+2026-06-15,topcv,Bán Hàng (sales),1,3.0,3.0,3.0
+2026-06-15,topcv,Bán Hàng B2b,1,1.0,1.0,1.0
+2026-06-15,topcv,Bảo Mật,1,0.0,0.0,0.0
+2026-06-15,topcv,C#,2,1.0,1.0,1.0
+2026-06-15,topcv,C/C++,2,2.0,2.0,2.0
+2026-06-15,topcv,CA,1,3.0,3.0,3.0
+2026-06-15,topcv,CI/CD,3,2.0,2.0,3.0
+2026-06-15,topcv,CI/CD deployment,1,2.0,2.0,2.0
+2026-06-15,topcv,CLM,1,3.0,3.0,3.0
+2026-06-15,topcv,CMMI,1,1.0,1.0,1.0
+2026-06-15,topcv,CMS deployment (WordPress,1,2.0,2.0,2.0
+2026-06-15,topcv,COBOL,1,3.0,3.0,3.0
+2026-06-15,topcv,CRM,1,3.0,3.0,3.0
+2026-06-15,topcv,CSS,4,0.5,0.0,3.0
+2026-06-15,topcv,Chăm Sóc Khách Hàng,2,1.0,1.0,1.0
+2026-06-15,topcv,Chốt Sales,1,1.0,1.0,1.0
+2026-06-15,topcv,Chứng chỉ PMI-ACP,1,3.0,3.0,3.0
+2026-06-15,topcv,Chứng chỉ PMP,1,3.0,3.0,3.0
+2026-06-15,topcv,Chứng chỉ PSM/CSM,1,3.0,3.0,3.0
+2026-06-15,topcv,Chứng chỉ liên quan của UBCK,1,1.0,1.0,1.0
+2026-06-15,topcv,Chứng chỉ tiếng Anh,2,1.0,1.0,1.0
+2026-06-15,topcv,Chứng chỉ về network,2,1.0,1.0,1.0
+2026-06-15,topcv,ClickUp,1,3.0,3.0,3.0
+2026-06-15,topcv,Cloud Services,1,3.0,3.0,3.0
+2026-06-15,topcv,Code Signing,1,3.0,3.0,3.0
+2026-06-15,topcv,Communication,1,3.0,3.0,3.0
+2026-06-15,topcv,Component sharing,1,3.0,3.0,3.0
+2026-06-15,topcv,Computer Vision,2,2.0,2.0,2.0
+2026-06-15,topcv,Confluence,1,3.0,3.0,3.0
+2026-06-15,topcv,Container hóa,1,3.0,3.0,3.0
+2026-06-15,topcv,Crystal Report,1,1.0,1.0,1.0
+2026-06-15,topcv,Css,1,0.0,0.0,0.0
+2026-06-15,topcv,Css3,2,0.0,0.0,0.0
+2026-06-15,topcv,Cài Đặt Phần Cứng Và Phần Mềm,2,2.0,2.0,2.0
+2026-06-15,topcv,Các công cụ trực quan hóa dữ liệu (Tableau,1,1.0,1.0,1.0
+2026-06-15,topcv,Cấu hình và thiết lập Workflows,2,2.0,2.0,2.0
+2026-06-15,topcv,Cẩn thận,1,2.0,2.0,2.0
+2026-06-15,topcv,Data Migration,1,2.0,2.0,2.0
+2026-06-15,topcv,Data crawling systems,1,3.0,3.0,3.0
+2026-06-15,topcv,Data warehouse,1,1.0,1.0,1.0
+2026-06-15,topcv,Database management (MySQL,1,2.0,2.0,2.0
+2026-06-15,topcv,Database trên các nền tảng SaaS nội bộ như Larksuite,2,2.0,2.0,2.0
+2026-06-15,topcv,DevOps,3,5.0,2.0,5.0
+2026-06-15,topcv,Digital Signature,1,3.0,3.0,3.0
+2026-06-15,topcv,Digital Trust,1,3.0,3.0,3.0
+2026-06-15,topcv,Docker,7,3.0,2.0,4.0
+2026-06-15,topcv,Document,1,2.0,2.0,2.0
+2026-06-15,topcv,Drupal),1,2.0,2.0,2.0
+2026-06-15,topcv,ECS,1,3.0,3.0,3.0
+2026-06-15,topcv,ETL pipelines,1,3.0,3.0,3.0
+2026-06-15,topcv,Email,2,1.0,1.0,1.0
+2026-06-15,topcv,Email Marketing,1,3.0,3.0,3.0
+2026-06-15,topcv,English Communication,1,3.0,3.0,3.0
+2026-06-15,topcv,Etsy,1,3.0,3.0,3.0
+2026-06-15,topcv,Excel,2,1.0,1.0,1.0
+2026-06-15,topcv,Excel),1,2.0,2.0,2.0
+2026-06-15,topcv,Experience in Japanese projects,1,3.0,3.0,3.0
+2026-06-15,topcv,FAAS,1,3.0,3.0,3.0
+2026-06-15,topcv,Figma,1,3.0,3.0,3.0
+2026-06-15,topcv,Frontend development (React,1,2.0,2.0,2.0
+2026-06-15,topcv,Full Stack,1,3.0,3.0,3.0
+2026-06-15,topcv,GCP,4,3.0,1.0,5.0
+2026-06-15,topcv,Giao thức truyền thông IoT,2,2.0,2.0,2.0
+2026-06-15,topcv,Giao tiếp,6,1.0,1.0,4.0
+2026-06-15,topcv,Giao tiếp tốt,1,2.0,2.0,2.0
+2026-06-15,topcv,Giao tiếp và làm việc với các bên liên quan,1,3.0,3.0,3.0
+2026-06-15,topcv,Git,5,2.0,2.0,3.0
+2026-06-15,topcv,Git Version Control,1,2.0,2.0,2.0
+2026-06-15,topcv,GitHub Copilot,1,3.0,3.0,3.0
+2026-06-15,topcv,Github,1,2.0,2.0,2.0
+2026-06-15,topcv,Giải quyết vấn đề,4,1.5,1.0,2.0
+2026-06-15,topcv,Go,8,3.0,1.0,4.0
+2026-06-15,topcv,Go (golang),2,3.0,3.0,3.0
+2026-06-15,topcv,Google Apps Script),2,2.0,2.0,2.0
+2026-06-15,topcv,Google Places,1,3.0,3.0,3.0
+2026-06-15,topcv,Google Workspace,2,2.0,2.0,2.0
+2026-06-15,topcv,Gradle,1,3.0,3.0,3.0
+2026-06-15,topcv,GraphQL APIs,1,3.0,3.0,3.0
+2026-06-15,topcv,HTML,3,0.0,0.0,3.0
+2026-06-15,topcv,Hibernate,1,3.0,3.0,3.0
+2026-06-15,topcv,Hiểu Biết Về Cntt (it),1,3.0,3.0,3.0
+2026-06-15,topcv,Hiểu Biết Về Quy Trình Kinh Doanh,1,1.0,1.0,1.0
+2026-06-15,topcv,Hiểu Biết Về Quy Trình Phát Triển Phần Mềm,1,1.0,1.0,1.0
+2026-06-15,topcv,Hiểu Biết Về Quản Lý Dự Án,2,1.0,1.0,1.0
+2026-06-15,topcv,Hiểu biết về các thiết bị mạng,2,1.0,1.0,1.0
+2026-06-15,topcv,Hiểu biết về thiết bị IT,2,1.0,1.0,1.0
+2026-06-15,topcv,Hiểu biết về thiết kế mạng,1,0.0,0.0,0.0
+2026-06-15,topcv,Hiểu rõ BPMN,2,2.0,2.0,2.0
+2026-06-15,topcv,Hiểu về ngành Chứng khoán và các nghiệp vụ liên quan đến Giao dịch Chứng khoán,1,1.0,1.0,1.0
+2026-06-15,topcv,Html5,2,0.0,0.0,0.0
+2026-06-15,topcv,Hỗ trợ kiểm thử và trực quan hóa dữ liệu,1,3.0,3.0,3.0
+2026-06-15,topcv,Hỗ trợ sau bán hàng,1,3.0,3.0,3.0
+2026-06-15,topcv,IAM,1,3.0,3.0,3.0
+2026-06-15,topcv,IIS,1,1.0,1.0,1.0
+2026-06-15,topcv,IT solutions,1,1.0,1.0,1.0
+2026-06-15,topcv,IoT PKI,1,3.0,3.0,3.0
+2026-06-15,topcv,It Sales,2,2.0,1.0,3.0
+2026-06-15,topcv,JQuery,1,2.0,2.0,2.0
+2026-06-15,topcv,JSON,2,2.0,2.0,2.0
+2026-06-15,topcv,Japanese document reading,1,3.0,3.0,3.0
+2026-06-15,topcv,Java,17,2.0,1.0,5.0
+2026-06-15,topcv,Java Core,3,2.0,2.0,3.0
+2026-06-15,topcv,Java Spring,3,2.0,2.0,5.0
+2026-06-15,topcv,Java Spring/Spring Boot,1,5.0,5.0,5.0
+2026-06-15,topcv,Java springboot,1,5.0,5.0,5.0
+2026-06-15,topcv,JavaScript,12,1.0,0.0,5.0
+2026-06-15,topcv,Javascript,2,2.0,1.0,3.0
+2026-06-15,topcv,Javascript Tùy Thuộc Vị Trí),1,0.0,0.0,0.0
+2026-06-15,topcv,Jenkins,1,3.0,3.0,3.0
+2026-06-15,topcv,Jetpack Compose,2,2.0,2.0,2.0
+2026-06-15,topcv,Jira,1,2.0,2.0,2.0
+2026-06-15,topcv,Khát vọng xây dựng giải pháp công nghệ vì cộng đồng,1,2.0,2.0,2.0
+2026-06-15,topcv,Khả Năng Chẩn Đoán Và Sửa Chữa Sự Cố,1,2.0,2.0,2.0
+2026-06-15,topcv,Kinh Nghiệm Làm Việc Với Nhà Thầu,2,1.0,1.0,1.0
+2026-06-15,topcv,Kinh nghiệm các dự án thực tế,2,2.0,2.0,2.0
+2026-06-15,topcv,Kinh nghiệm domain AI,1,3.0,3.0,3.0
+2026-06-15,topcv,Kinh nghiệm domain E-commerce,1,3.0,3.0,3.0
+2026-06-15,topcv,Kinh nghiệm domain Fintech,1,3.0,3.0,3.0
+2026-06-15,topcv,Kinh nghiệm làm việc với chủ đầu tư Bất Động Sản,2,1.0,1.0,1.0
+2026-06-15,topcv,Kinh nghiệm làm việc với công ty CNTT,2,1.0,1.0,1.0
+2026-06-15,topcv,Kinh nghiệm trong mảng cho vay ký quỹ margin,1,1.0,1.0,1.0
+2026-06-15,topcv,Kinh nghiệm với các sản phẩm giáo dục hoặc liên quan giáo dục,1,3.0,3.0,3.0
+2026-06-15,topcv,Kiến Thức Cơ Bản Về Thiết Kế Web,1,0.0,0.0,0.0
+2026-06-15,topcv,Kiến Thức Về Erp,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiến Thức Về Hệ Điều Hành,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiến Thức Về It Telecom,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiến Thức Về Phần Cứng Máy Tính,1,2.0,2.0,2.0
+2026-06-15,topcv,Kiến Thức Về Phần Mềm Máy Tính,1,2.0,2.0,2.0
+2026-06-15,topcv,Kiến Thức Về Testing,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiến thức cơ bản về dữ liệu và truy vấn dữ liệu,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiến thức về các giải pháp CNTT,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiến trúc phần mềm phức tạp,1,3.0,3.0,3.0
+2026-06-15,topcv,Kiểm Thử Hộp Trắng,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiểm Thử Hộp Đen,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiểm Thử Xâm Nhập Mạng,1,1.0,1.0,1.0
+2026-06-15,topcv,Kiểm Thử Xâm Nhập Ứng Dụng Web,1,1.0,1.0,1.0
+2026-06-15,topcv,Kotlin,4,3.5,2.0,5.0
+2026-06-15,topcv,Kubernetes,3,3.0,2.0,4.0
+2026-06-15,topcv,Kĩ năng phân tích tổng hợp,2,3.0,3.0,3.0
+2026-06-15,topcv,Kỹ Năng Demo Sản Phẩm,1,1.0,1.0,1.0
+2026-06-15,topcv,Kỹ Năng Sử Dụng Các Công Cụ Thiết Kế Web (html,1,0.0,0.0,0.0
+2026-06-15,topcv,Kỹ Năng Xây Dựng Giải Pháp,2,1.0,1.0,1.0
+2026-06-15,topcv,Kỹ năng giao tiếp,5,1.0,1.0,3.0
+2026-06-15,topcv,Kỹ năng giao tiếp tốt với team Business và team Tech (Dev),2,2.0,2.0,2.0
+2026-06-15,topcv,Kỹ năng giải quyết vấn đề,2,2.5,2.0,3.0
+2026-06-15,topcv,Kỹ năng kiểm thử sản phẩm phần mềm,1,1.0,1.0,1.0
+2026-06-15,topcv,Kỹ năng mềm (excel,1,1.0,1.0,1.0
+2026-06-15,topcv,Kỹ năng quản lý công việc và quản lý dự án,1,2.0,2.0,2.0
+2026-06-15,topcv,Kỹ năng đàm phán,5,1.0,1.0,1.0
+2026-06-15,topcv,LAN,1,3.0,3.0,3.0
+2026-06-15,topcv,Laravel,3,3.0,3.0,3.0
+2026-06-15,topcv,Lerna,1,3.0,3.0,3.0
+2026-06-15,topcv,Lightning Web Components,1,2.0,2.0,2.0
+2026-06-15,topcv,Linux Embedded,1,2.0,2.0,2.0
+2026-06-15,topcv,Low-Level Design,1,2.0,2.0,2.0
+2026-06-15,topcv,Làm Báo Cáo,1,0.0,0.0,0.0
+2026-06-15,topcv,Làm Việc Độc Lập Và Nhóm,2,2.0,2.0,2.0
+2026-06-15,topcv,Làm việc nhóm,3,2.0,1.0,4.0
+2026-06-15,topcv,Làm việc độc lập,1,0.0,0.0,0.0
+2026-06-15,topcv,Lãnh đạo,1,2.0,2.0,2.0
+2026-06-15,topcv,Lập Kế Hoạch Dự Án,1,3.0,3.0,3.0
+2026-06-15,topcv,Lập Trình Nhúng,2,2.0,2.0,2.0
+2026-06-15,topcv,Lập trình kịch bản (Python,2,2.0,2.0,2.0
+2026-06-15,topcv,MS Project,1,2.0,2.0,2.0
+2026-06-15,topcv,MS SQL,1,2.0,2.0,2.0
+2026-06-15,topcv,MVC,1,2.0,2.0,2.0
+2026-06-15,topcv,Machine Identity Management,1,3.0,3.0,3.0
+2026-06-15,topcv,Machine Learning,2,2.0,2.0,2.0
+2026-06-15,topcv,Make (Integromat),2,2.0,2.0,2.0
+2026-06-15,topcv,Micro Front-end,1,3.0,3.0,3.0
+2026-06-15,topcv,Micro Service,1,1.0,1.0,1.0
+2026-06-15,topcv,Microservice,2,3.0,3.0,3.0
+2026-06-15,topcv,Microsoft 365,1,3.0,3.0,3.0
+2026-06-15,topcv,Microsoft Dynamics 365 / Power Platform,2,2.0,2.0,2.0
+2026-06-15,topcv,Microsoft Excel,2,1.0,1.0,1.0
+2026-06-15,topcv,Microsoft Office,2,1.0,1.0,1.0
+2026-06-15,topcv,Microsoft Office (Power Point nâng cao,1,2.0,2.0,2.0
+2026-06-15,topcv,"Mindset ""Làm biếng thông minh""",2,2.0,2.0,2.0
+2026-06-15,topcv,MongoDB,5,3.0,2.0,3.0
+2026-06-15,topcv,Ms SQL Server,1,1.0,1.0,1.0
+2026-06-15,topcv,MySQL,6,3.0,3.0,4.0
+2026-06-15,topcv,NPM,1,3.0,3.0,3.0
+2026-06-15,topcv,Next.js,1,3.0,3.0,3.0
+2026-06-15,topcv,NextJS,1,1.0,1.0,1.0
+2026-06-15,topcv,Nghiên Cứu Khoa Học,1,2.0,2.0,2.0
+2026-06-15,topcv,Ngoại Ngữ (tiếng Anh),1,3.0,3.0,3.0
+2026-06-15,topcv,Ngôn ngữ lập trình (Python/R),1,1.0,1.0,1.0
+2026-06-15,topcv,NoSQL,2,2.0,2.0,2.0
+2026-06-15,topcv,NoSQL),1,2.0,2.0,2.0
+2026-06-15,topcv,Node.js,4,3.0,3.0,3.0
+2026-06-15,topcv,Nosql Databases,1,3.0,3.0,3.0
+2026-06-15,topcv,Notion AI,1,3.0,3.0,3.0
+2026-06-15,topcv,Năng lực giải quyết vấn đề,1,2.0,2.0,2.0
+2026-06-15,topcv,Nắm bắt được thông tin hãng/ sản phẩm cạnh tranh,2,1.0,1.0,1.0
+2026-06-15,topcv,OOP,3,2.0,2.0,3.0
+2026-06-15,topcv,Oracle,1,3.0,3.0,3.0
+2026-06-15,topcv,Oracle Database,1,1.0,1.0,1.0
+2026-06-15,topcv,PHP,4,3.0,0.0,3.0
+2026-06-15,topcv,PHP),1,2.0,2.0,2.0
+2026-06-15,topcv,Performance Optimization,2,2.5,2.0,3.0
+2026-06-15,topcv,Phát triển backend Java,1,3.0,3.0,3.0
+2026-06-15,topcv,Phân Tích Lỗ Hổng Bảo Mật,1,1.0,1.0,1.0
+2026-06-15,topcv,Phân Tích Nghiệp Vụ,1,1.0,1.0,1.0
+2026-06-15,topcv,Phân Tích Yêu Cầu Nghiệp Vụ,1,3.0,3.0,3.0
+2026-06-15,topcv,Phân tích,1,2.0,2.0,2.0
+2026-06-15,topcv,Phân tích dữ liệu,1,3.0,3.0,3.0
+2026-06-15,topcv,Phân tích hệ thống phần mềm,1,0.0,0.0,0.0
+2026-06-15,topcv,Phân tích và giải quyết vấn đề,3,1.0,1.0,3.0
+2026-06-15,topcv,Phân tích đối thủ cạnh tranh,1,1.0,1.0,1.0
+2026-06-15,topcv,Phỏng vấn/viết giải pháp kỹ thuật,1,0.0,0.0,0.0
+2026-06-15,topcv,PostgreSQL,11,3.0,2.0,4.0
+2026-06-15,topcv,Power BI),1,1.0,1.0,1.0
+2026-06-15,topcv,PowerPoint,2,1.0,1.0,1.0
+2026-06-15,topcv,Problem-solving,1,3.0,3.0,3.0
+2026-06-15,topcv,Python,17,2.0,1.0,4.0
+2026-06-15,topcv,QA,5,3.0,1.0,4.0
+2026-06-15,topcv,Quản Lý Dự Án,1,3.0,3.0,3.0
+2026-06-15,topcv,Quản Lý Dự Án Phần Mềm,1,3.0,3.0,3.0
+2026-06-15,topcv,Quản Lý Rủi Ro,1,3.0,3.0,3.0
+2026-06-15,topcv,Quản Trị Active Directory,2,2.0,2.0,2.0
+2026-06-15,topcv,Quản Trị Mạng Cơ Bản,2,2.0,2.0,2.0
+2026-06-15,topcv,Quản lý thời gian,1,2.0,2.0,2.0
+2026-06-15,topcv,REST API,1,4.0,4.0,4.0
+2026-06-15,topcv,REST APIs,1,3.0,3.0,3.0
+2026-06-15,topcv,RESTful APIs,3,3.0,3.0,3.0
+2026-06-15,topcv,RabbitMQ,2,2.5,2.0,3.0
+2026-06-15,topcv,React,10,1.5,0.0,5.0
+2026-06-15,topcv,React Native,1,0.0,0.0,0.0
+2026-06-15,topcv,Redis,4,3.0,3.0,4.0
+2026-06-15,topcv,Relational databases,1,3.0,3.0,3.0
+2026-06-15,topcv,Rest Api Integration,1,2.0,2.0,2.0
+2026-06-15,topcv,RestEasy,1,3.0,3.0,3.0
+2026-06-15,topcv,Restful,2,2.0,2.0,2.0
+2026-06-15,topcv,SCRUM,1,3.0,3.0,3.0
+2026-06-15,topcv,SOW,2,2.0,2.0,2.0
+2026-06-15,topcv,SQL,18,3.0,0.0,5.0
+2026-06-15,topcv,SQL Server,1,2.0,2.0,2.0
+2026-06-15,topcv,SQL databases,1,3.0,3.0,3.0
+2026-06-15,topcv,Sales B2b,1,1.0,1.0,1.0
+2026-06-15,topcv,Salesforce Configuration,1,2.0,2.0,2.0
+2026-06-15,topcv,Security Compliance,1,2.0,2.0,2.0
+2026-06-15,topcv,Shopify APIs,1,3.0,3.0,3.0
+2026-06-15,topcv,Shopify App Development,1,3.0,3.0,3.0
+2026-06-15,topcv,Single-SPA,1,3.0,3.0,3.0
+2026-06-15,topcv,Spring,1,5.0,5.0,5.0
+2026-06-15,topcv,Spring Boot,3,3.0,3.0,5.0
+2026-06-15,topcv,Spring Security,1,3.0,3.0,3.0
+2026-06-15,topcv,State sharing,1,3.0,3.0,3.0
+2026-06-15,topcv,Swift,1,18.0,18.0,18.0
+2026-06-15,topcv,Sử Dụng Các Công Cụ Quản Lý Dự Án (jira,1,1.0,1.0,1.0
+2026-06-15,topcv,Sử Dụng Công Cụ Hỗ Trợ Từ Xa,2,2.0,2.0,2.0
+2026-06-15,topcv,Sử dụng Jira,1,3.0,3.0,3.0
+2026-06-15,topcv,Sử dụng công cụ AI ChatGPT,1,3.0,3.0,3.0
+2026-06-15,topcv,Sử dụng công cụ quản lý Jira,1,3.0,3.0,3.0
+2026-06-15,topcv,Sử dụng nền tảng xã hội như tiktok,2,1.0,1.0,1.0
+2026-06-15,topcv,Sử dụng phần mềm Java/Confluence hoặc các công cụ tương tự trong quản lý Dự Án,1,1.0,1.0,1.0
+2026-06-15,topcv,Tailwind Css,1,3.0,3.0,3.0
+2026-06-15,topcv,Tailwindcss,2,0.0,0.0,0.0
+2026-06-15,topcv,Teamwork,2,3.5,3.0,4.0
+2026-06-15,topcv,Teamwork Skills,1,2.0,2.0,2.0
+2026-06-15,topcv,Technical Documentation,1,2.0,2.0,2.0
+2026-06-15,topcv,Tester,8,1.5,0.0,3.0
+2026-06-15,topcv,Thiết Kế Hệ Thống Phần Mềm,1,0.0,0.0,0.0
+2026-06-15,topcv,Thiết Kế Website,1,0.0,0.0,0.0
+2026-06-15,topcv,Thiết kế giải pháp bảo mật,1,3.0,3.0,3.0
+2026-06-15,topcv,Thu Thập Yêu Cầu,2,2.5,1.0,4.0
+2026-06-15,topcv,Thuyết trình,1,1.0,1.0,1.0
+2026-06-15,topcv,Thành thạo Visio / Draw.io / BPMN / UML,1,3.0,3.0,3.0
+2026-06-15,topcv,Tiếng Anh,2,0.0,0.0,0.0
+2026-06-15,topcv,Tiếng Anh cơ bản,2,1.0,1.0,1.0
+2026-06-15,topcv,Tiếp Thị Kỹ Thuật Số (digital Marketing),1,3.0,3.0,3.0
+2026-06-15,topcv,Trello,1,3.0,3.0,3.0
+2026-06-15,topcv,Trello),1,1.0,1.0,1.0
+2026-06-15,topcv,Triển khai PoC,1,3.0,3.0,3.0
+2026-06-15,topcv,Triển khai các công cụ tích hợp tự động hóa như n8n,2,2.0,2.0,2.0
+2026-06-15,topcv,Triển khai dự án PKI,1,3.0,3.0,3.0
+2026-06-15,topcv,Trí tuệ nhân tạo,1,1.0,1.0,1.0
+2026-06-15,topcv,Turborepo,1,3.0,3.0,3.0
+2026-06-15,topcv,TypeScript,7,0.0,0.0,4.0
+2026-06-15,topcv,Tìm hiểu/ hiểu biết về hệ thống đại lý,2,1.0,1.0,1.0
+2026-06-15,topcv,Tư Duy Logic Và Phản Biện,1,2.0,2.0,2.0
+2026-06-15,topcv,Tư Vấn Dịch Vụ,2,1.0,1.0,1.0
+2026-06-15,topcv,Tư duy,1,1.0,1.0,1.0
+2026-06-15,topcv,Tư duy logic,3,2.0,1.0,2.0
+2026-06-15,topcv,Tư duy mở,1,1.0,1.0,1.0
+2026-06-15,topcv,Tư vấn giải pháp PKI,1,3.0,3.0,3.0
+2026-06-15,topcv,Tận tụy,1,2.0,2.0,2.0
+2026-06-15,topcv,Tối Ưu Hóa Hiệu Năng,1,3.0,3.0,3.0
+2026-06-15,topcv,Tự Động Hóa Công Nghiệp,1,2.0,2.0,2.0
+2026-06-15,topcv,UI/UX principles,1,3.0,3.0,3.0
+2026-06-15,topcv,UIPath/RPA,2,2.0,2.0,2.0
+2026-06-15,topcv,Unit Testing,1,2.0,2.0,2.0
+2026-06-15,topcv,Visual Studio Code,1,1.0,1.0,1.0
+2026-06-15,topcv,Visual Studio.NET,1,1.0,1.0,1.0
+2026-06-15,topcv,Viết tài liệu,1,4.0,4.0,4.0
+2026-06-15,topcv,Viết tài liệu hệ thống,1,3.0,3.0,3.0
+2026-06-15,topcv,Vue,3,5.0,2.0,5.0
+2026-06-15,topcv,Vue.js,2,0.0,0.0,0.0
+2026-06-15,topcv,VueJS,1,1.0,1.0,1.0
+2026-06-15,topcv,Vận Hành Máy Tiện Cnc,1,2.0,2.0,2.0
+2026-06-15,topcv,Waterfall,1,1.0,1.0,1.0
+2026-06-15,topcv,Web/Cloud,1,3.0,3.0,3.0
+2026-06-15,topcv,Webhook,2,2.0,2.0,2.0
+2026-06-15,topcv,Webpack Module Federation,1,3.0,3.0,3.0
+2026-06-15,topcv,Woocommerce,1,3.0,3.0,3.0
+2026-06-15,topcv,Word,2,1.0,1.0,1.0
+2026-06-15,topcv,Xử Lý Sự Cố Kỹ Thuật,2,2.0,2.0,2.0
+2026-06-15,topcv,Xử lý khó khăn,1,2.0,2.0,2.0
+2026-06-15,topcv,Xử lý tình huống,2,1.0,1.0,1.0
+2026-06-15,topcv,Zapier,2,2.0,2.0,2.0
+2026-06-15,topcv,algorithms,2,2.0,2.0,2.0
+2026-06-15,topcv,an toàn thông tin,1,0.0,0.0,0.0
+2026-06-15,topcv,aws lambda,1,3.0,3.0,3.0
+2026-06-15,topcv,azure,1,3.0,3.0,3.0
+2026-06-15,topcv,caching mechanisms,1,3.0,3.0,3.0
+2026-06-15,topcv,facebook,2,1.0,1.0,1.0
+2026-06-15,topcv,hsm,1,3.0,3.0,3.0
+2026-06-15,topcv,iOS,2,9.5,1.0,18.0
+2026-06-15,topcv,kafka,1,2.0,2.0,2.0
+2026-06-15,topcv,kỹ năng chăm sóc khách hàng,2,1.0,1.0,1.0
+2026-06-15,topcv,kỹ năng phân tích,1,2.0,2.0,2.0
+2026-06-15,topcv,ma trận phân quyền RACI,2,2.0,2.0,2.0
+2026-06-15,topcv,nx,1,3.0,3.0,3.0
+2026-06-15,topcv,phân tích yêu cầu,1,3.0,3.0,3.0
+2026-06-15,topcv,powerpoit...),1,1.0,1.0,1.0
+2026-06-15,topcv,youtube,2,1.0,1.0,1.0
+2026-06-15,topcv,Áp dụng Agile/Scrum,1,3.0,3.0,3.0
+2026-06-15,topcv,áp lực cao,1,2.0,2.0,2.0
+2026-06-15,topcv,Đam mê công nghệ,1,2.0,2.0,2.0
+2026-06-15,topcv,Điều phối đội nhóm,1,3.0,3.0,3.0
+2026-06-15,topcv,Đàm phán,2,1.0,1.0,1.0
+2026-06-15,topcv,Đánh giá rủi ro,1,2.0,2.0,2.0
+2026-06-15,topcv,Đọc Hiểu Tài Liệu Kỹ Thuật Tiếng Anh,2,2.0,2.0,2.0
+2026-06-15,topcv,đưa ra quyết định,1,2.0,2.0,2.0
+2026-06-22,itviec,.NET,10,4.0,1.0,5.0
+2026-06-22,itviec,.Net Core,1,4.0,4.0,4.0
+2026-06-22,itviec,3ds Max,1,5.0,5.0,5.0
+2026-06-22,itviec,A/B testing,1,5.0,5.0,5.0
+2026-06-22,itviec,AI,27,4.0,0.0,12.0
+2026-06-22,itviec,API,14,3.5,0.0,6.0
+2026-06-22,itviec,ASP.NET,1,4.0,4.0,4.0
+2026-06-22,itviec,AWS,45,5.0,0.0,12.0
+2026-06-22,itviec,AWS CloudFormation,1,4.0,4.0,4.0
+2026-06-22,itviec,Adobe Illustrator,1,0.0,0.0,0.0
+2026-06-22,itviec,Adobe Photoshop,1,0.0,0.0,0.0
+2026-06-22,itviec,Agile,17,3.0,0.0,7.0
+2026-06-22,itviec,Algorithms,1,8.0,8.0,8.0
+2026-06-22,itviec,Android,12,3.0,1.0,7.0
+2026-06-22,itviec,Angular,11,4.0,2.0,5.0
+2026-06-22,itviec,Automation Test,6,3.5,3.0,5.0
+2026-06-22,itviec,Azure,25,4.0,0.0,7.0
+2026-06-22,itviec,BPMN,2,3.0,2.0,4.0
+2026-06-22,itviec,BRD,1,2.0,2.0,2.0
+2026-06-22,itviec,Big Data,4,4.0,3.0,5.0
+2026-06-22,itviec,Blazor,1,5.0,5.0,5.0
+2026-06-22,itviec,Blender,1,5.0,5.0,5.0
+2026-06-22,itviec,Blockchain,1,0.0,0.0,0.0
+2026-06-22,itviec,Business Analysis,11,3.0,0.0,6.0
+2026-06-22,itviec,C language,2,3.0,2.0,4.0
+2026-06-22,itviec,C#,12,3.0,1.0,5.0
+2026-06-22,itviec,C++,1,2.0,2.0,2.0
+2026-06-22,itviec,CI/CD,15,4.0,2.0,8.0
+2026-06-22,itviec,CRM,1,4.0,4.0,4.0
+2026-06-22,itviec,CSS,3,5.0,2.0,5.0
+2026-06-22,itviec,Cisco,1,5.0,5.0,5.0
+2026-06-22,itviec,Clean Architecture,1,2.0,2.0,2.0
+2026-06-22,itviec,Cloud,11,4.0,1.0,12.0
+2026-06-22,itviec,Computer Vision,2,2.0,2.0,2.0
+2026-06-22,itviec,Cryptography,2,3.5,0.0,7.0
+2026-06-22,itviec,Cybersecurity,4,4.5,3.0,5.0
+2026-06-22,itviec,Cypress,2,4.0,3.0,5.0
+2026-06-22,itviec,DBA,2,3.0,3.0,3.0
+2026-06-22,itviec,Dart,1,3.0,3.0,3.0
+2026-06-22,itviec,Data Analysis,9,3.0,1.0,5.0
+2026-06-22,itviec,Data Engineer,5,4.0,2.0,7.0
+2026-06-22,itviec,Data Privacy / Compliance,1,2.0,2.0,2.0
+2026-06-22,itviec,Data Science,1,2.0,2.0,2.0
+2026-06-22,itviec,Data Warehousing,1,4.0,4.0,4.0
+2026-06-22,itviec,Data cleaning,1,1.0,1.0,1.0
+2026-06-22,itviec,Data modeling,2,4.5,4.0,5.0
+2026-06-22,itviec,Data-driven,1,1.0,1.0,1.0
+2026-06-22,itviec,Database,12,4.5,0.0,8.0
+2026-06-22,itviec,Design,1,0.0,0.0,0.0
+2026-06-22,itviec,Design Systems,4,5.0,2.0,8.0
+2026-06-22,itviec,DevOps,24,3.0,0.0,12.0
+2026-06-22,itviec,DevSecOps,1,5.0,5.0,5.0
+2026-06-22,itviec,Digital Forensics,1,5.0,5.0,5.0
+2026-06-22,itviec,Django,4,5.0,4.0,6.0
+2026-06-22,itviec,Docker,32,3.5,1.0,8.0
+2026-06-22,itviec,ERP,3,3.0,2.0,4.0
+2026-06-22,itviec,ETL,2,4.0,4.0,4.0
+2026-06-22,itviec,Embedded,2,4.5,2.0,7.0
+2026-06-22,itviec,Embedded Android,1,7.0,7.0,7.0
+2026-06-22,itviec,Embedded C,1,7.0,7.0,7.0
+2026-06-22,itviec,English,32,4.0,0.0,12.0
+2026-06-22,itviec,Enterprise Architecture,1,3.0,3.0,3.0
+2026-06-22,itviec,FastAPI,2,4.0,4.0,4.0
+2026-06-22,itviec,Figma,3,2.0,0.0,7.0
+2026-06-22,itviec,Firebase,1,2.0,2.0,2.0
+2026-06-22,itviec,Firewall,3,4.0,3.0,5.0
+2026-06-22,itviec,Flutter,2,3.0,3.0,3.0
+2026-06-22,itviec,Fresher Accepted,3,0.0,0.0,2.0
+2026-06-22,itviec,Fullstack,10,3.0,1.0,7.0
+2026-06-22,itviec,GCP,20,5.0,1.0,7.0
+2026-06-22,itviec,Games,3,3.0,2.0,5.0
+2026-06-22,itviec,Generative AI,3,3.0,3.0,7.0
+2026-06-22,itviec,Gin,1,5.0,5.0,5.0
+2026-06-22,itviec,Git,4,2.0,2.0,3.0
+2026-06-22,itviec,GitHub Actions,1,3.0,3.0,3.0
+2026-06-22,itviec,Go,17,5.0,2.0,8.0
+2026-06-22,itviec,Governance,2,2.0,2.0,2.0
+2026-06-22,itviec,GraphQL,1,7.0,7.0,7.0
+2026-06-22,itviec,HTML,6,4.0,3.0,5.0
+2026-06-22,itviec,HTML5,2,2.0,2.0,2.0
+2026-06-22,itviec,Helm,2,6.0,4.0,8.0
+2026-06-22,itviec,Hibernate,1,5.0,5.0,5.0
+2026-06-22,itviec,ISO 27001,1,3.0,3.0,3.0
+2026-06-22,itviec,IT Audit,2,2.0,2.0,2.0
+2026-06-22,itviec,IT Governance,3,2.0,2.0,3.0
+2026-06-22,itviec,IT Support,3,4.0,4.0,5.0
+2026-06-22,itviec,ITIL Foundation,1,3.0,3.0,3.0
+2026-06-22,itviec,Incident Response,1,5.0,5.0,5.0
+2026-06-22,itviec,Information Security,1,5.0,5.0,5.0
+2026-06-22,itviec,Internship Accepted,3,0.0,0.0,0.0
+2026-06-22,itviec,JSON,2,2.0,2.0,2.0
+2026-06-22,itviec,Japanese,4,2.0,0.0,4.0
+2026-06-22,itviec,Japanese IT Communication,2,3.5,3.0,4.0
+2026-06-22,itviec,Java,43,4.0,2.0,12.0
+2026-06-22,itviec,JavaScript,21,3.0,1.0,7.0
+2026-06-22,itviec,Jira,5,3.0,2.0,4.0
+2026-06-22,itviec,Kafka,9,5.0,2.0,7.0
+2026-06-22,itviec,Kali Linux,1,5.0,5.0,5.0
+2026-06-22,itviec,Kanban,1,1.0,1.0,1.0
+2026-06-22,itviec,Kotlin,11,4.0,2.0,12.0
+2026-06-22,itviec,Kubernetes,27,4.0,0.0,12.0
+2026-06-22,itviec,LLM,9,5.0,3.0,12.0
+2026-06-22,itviec,Laravel,4,4.0,2.0,5.0
+2026-06-22,itviec,Leadership,1,5.0,5.0,5.0
+2026-06-22,itviec,Linux,4,3.0,2.0,5.0
+2026-06-22,itviec,MVVM,1,2.0,2.0,2.0
+2026-06-22,itviec,Machine Learning,5,5.0,2.0,5.0
+2026-06-22,itviec,Malware Analysis,1,5.0,5.0,5.0
+2026-06-22,itviec,Maya,1,5.0,5.0,5.0
+2026-06-22,itviec,Microservices,6,4.0,3.0,5.0
+2026-06-22,itviec,Microservices Architecture,2,3.5,3.0,4.0
+2026-06-22,itviec,Microsoft SQL Server,1,2.0,2.0,2.0
+2026-06-22,itviec,Middleware,1,7.0,7.0,7.0
+2026-06-22,itviec,Mobile Apps,3,3.0,2.0,5.0
+2026-06-22,itviec,MongoDB,11,3.0,0.0,5.0
+2026-06-22,itviec,MySQL,19,4.0,1.0,8.0
+2026-06-22,itviec,NLP,2,6.0,6.0,6.0
+2026-06-22,itviec,NestJS,2,1.5,1.0,2.0
+2026-06-22,itviec,Networking,3,3.0,3.0,5.0
+2026-06-22,itviec,NextJS,1,1.0,1.0,1.0
+2026-06-22,itviec,NoSQL,3,3.0,3.0,3.0
+2026-06-22,itviec,Node.js,16,3.0,1.0,8.0
+2026-06-22,itviec,OOP,1,4.0,4.0,4.0
+2026-06-22,itviec,Objective C,1,2.0,2.0,2.0
+2026-06-22,itviec,Oracle,7,2.0,2.0,5.0
+2026-06-22,itviec,PHP,11,4.0,1.0,5.0
+2026-06-22,itviec,Pandas,2,5.0,5.0,5.0
+2026-06-22,itviec,Playwright,2,4.0,3.0,5.0
+2026-06-22,itviec,PostgreSQL,29,3.0,0.0,8.0
+2026-06-22,itviec,Power BI,4,4.0,3.0,5.0
+2026-06-22,itviec,Presale,1,3.0,3.0,3.0
+2026-06-22,itviec,Product Design,1,7.0,7.0,7.0
+2026-06-22,itviec,Product Metrics,1,1.0,1.0,1.0
+2026-06-22,itviec,Product Owner,4,2.5,0.0,6.0
+2026-06-22,itviec,Product roadmap,1,6.0,6.0,6.0
+2026-06-22,itviec,Product strategy,1,6.0,6.0,6.0
+2026-06-22,itviec,Project Management,7,4.0,1.0,6.0
+2026-06-22,itviec,Prompt Engineering,2,5.0,5.0,5.0
+2026-06-22,itviec,Prototyping,2,4.5,2.0,7.0
+2026-06-22,itviec,PyTorch,1,3.0,3.0,3.0
+2026-06-22,itviec,Python,56,4.0,0.0,12.0
+2026-06-22,itviec,QA,16,3.0,2.0,8.0
+2026-06-22,itviec,QA QC,12,3.5,0.0,8.0
+2026-06-22,itviec,React,24,3.5,1.0,7.0
+2026-06-22,itviec,React Native,3,4.0,3.0,5.0
+2026-06-22,itviec,Redis,22,4.0,0.0,6.0
+2026-06-22,itviec,Risk & Compliance,2,2.0,2.0,2.0
+2026-06-22,itviec,Risk Management,3,2.0,2.0,5.0
+2026-06-22,itviec,Ruby,3,3.0,3.0,5.0
+2026-06-22,itviec,Ruby on Rails,2,4.0,3.0,5.0
+2026-06-22,itviec,Rust,4,4.5,4.0,7.0
+2026-06-22,itviec,RxJS,1,3.0,3.0,3.0
+2026-06-22,itviec,SAP,2,4.0,3.0,5.0
+2026-06-22,itviec,SIEM,2,4.5,4.0,5.0
+2026-06-22,itviec,SQL,46,3.5,0.0,7.0
+2026-06-22,itviec,SQLite,1,2.0,2.0,2.0
+2026-06-22,itviec,Scrum,8,2.5,1.0,7.0
+2026-06-22,itviec,Security,8,3.0,1.0,7.0
+2026-06-22,itviec,Selenium,1,5.0,5.0,5.0
+2026-06-22,itviec,Software Architecture,6,3.5,0.0,6.0
+2026-06-22,itviec,Solution Architecture,1,2.0,2.0,2.0
+2026-06-22,itviec,Spark,2,7.0,7.0,7.0
+2026-06-22,itviec,Spring,4,5.0,4.0,5.0
+2026-06-22,itviec,Spring Boot,7,4.0,2.0,5.0
+2026-06-22,itviec,Stakeholder management,2,3.5,1.0,6.0
+2026-06-22,itviec,Statistical Analysis,1,5.0,5.0,5.0
+2026-06-22,itviec,Strategy planning,1,6.0,6.0,6.0
+2026-06-22,itviec,Swift,5,3.0,2.0,5.0
+2026-06-22,itviec,System Admin,4,4.0,2.0,5.0
+2026-06-22,itviec,System Architecture,3,2.0,2.0,5.0
+2026-06-22,itviec,Tailwind,1,2.0,2.0,2.0
+2026-06-22,itviec,Team Management,4,3.5,2.0,8.0
+2026-06-22,itviec,Technical Writing,2,3.0,2.0,4.0
+2026-06-22,itviec,TensorFlow,1,3.0,3.0,3.0
+2026-06-22,itviec,Terraform,3,3.0,1.0,5.0
+2026-06-22,itviec,Tester,12,3.0,0.0,8.0
+2026-06-22,itviec,Trello,1,3.0,3.0,3.0
+2026-06-22,itviec,TypeScript,21,3.0,0.0,8.0
+2026-06-22,itviec,UI-UX,2,3.5,0.0,7.0
+2026-06-22,itviec,UML,1,3.0,3.0,3.0
+2026-06-22,itviec,Unit test,1,5.0,5.0,5.0
+2026-06-22,itviec,Unity,3,3.0,2.0,5.0
+2026-06-22,itviec,User flows,1,0.0,0.0,0.0
+2026-06-22,itviec,User story,1,2.0,2.0,2.0
+2026-06-22,itviec,VBA,2,3.0,3.0,3.0
+2026-06-22,itviec,VMware,2,5.0,5.0,5.0
+2026-06-22,itviec,Vue,6,3.0,2.0,5.0
+2026-06-22,itviec,VueJS,2,3.5,2.0,5.0
+2026-06-22,itviec,Web API,2,3.0,2.0,4.0
+2026-06-22,itviec,Windows,1,4.0,4.0,4.0
+2026-06-22,itviec,Windows Server,1,3.0,3.0,3.0
+2026-06-22,itviec,iOS,7,3.0,2.0,4.0
+2026-06-22,topcv,(unknown),39,2.0,0.0,5.0
+2026-06-22,topcv,- Làm việc nhóm,1,1.0,1.0,1.0
+2026-06-22,topcv,...),2,2.0,2.0,2.0
+2026-06-22,topcv,.NET,11,3.0,0.0,5.0
+2026-06-22,topcv,3-D Secure,1,2.0,2.0,2.0
+2026-06-22,topcv,3D Max,2,2.5,2.0,3.0
+2026-06-22,topcv,3D Modeling,1,3.0,3.0,3.0
+2026-06-22,topcv,AI,5,3.0,0.0,5.0
+2026-06-22,topcv,AI (ChatGPT,1,2.0,2.0,2.0
+2026-06-22,topcv,AI Agents,2,0.0,0.0,0.0
+2026-06-22,topcv,AI Services (OpenAI,2,1.0,1.0,1.0
+2026-06-22,topcv,AI tools,1,1.0,1.0,1.0
+2026-06-22,topcv,AI-assisted development,1,2.0,2.0,2.0
+2026-06-22,topcv,AI-powered workflow automation,1,1.0,1.0,1.0
+2026-06-22,topcv,API,2,2.0,2.0,2.0
+2026-06-22,topcv,API Services,1,0.0,0.0,0.0
+2026-06-22,topcv,API Testing,1,5.0,5.0,5.0
+2026-06-22,topcv,API backend,1,2.0,2.0,2.0
+2026-06-22,topcv,ASP,1,3.0,3.0,3.0
+2026-06-22,topcv,AWS,16,2.0,1.0,5.0
+2026-06-22,topcv,AWS Cloud,1,5.0,5.0,5.0
+2026-06-22,topcv,Active Directory,1,1.0,1.0,1.0
+2026-06-22,topcv,Agile,3,4.0,4.0,4.0
+2026-06-22,topcv,Agile BA,1,2.0,2.0,2.0
+2026-06-22,topcv,Agile Development,2,2.0,2.0,2.0
+2026-06-22,topcv,Agile coaching,1,4.0,4.0,4.0
+2026-06-22,topcv,Agile/Scrum,2,1.5,1.0,2.0
+2026-06-22,topcv,Allen Bradley,1,2.0,2.0,2.0
+2026-06-22,topcv,Am hiểu EMV,1,2.0,2.0,2.0
+2026-06-22,topcv,Am hiểu ISO 8583,1,2.0,2.0,2.0
+2026-06-22,topcv,Am hiểu PCI-DSS,1,2.0,2.0,2.0
+2026-06-22,topcv,An Ninh Thông Tin,1,2.0,2.0,2.0
+2026-06-22,topcv,Analytical Skills,1,5.0,5.0,5.0
+2026-06-22,topcv,Android,8,2.0,2.0,5.0
+2026-06-22,topcv,Angular,5,5.0,3.0,5.0
+2026-06-22,topcv,Ansible,1,1.0,1.0,1.0
+2026-06-22,topcv,Apache Solr,1,0.0,0.0,0.0
+2026-06-22,topcv,Application Security,1,1.0,1.0,1.0
+2026-06-22,topcv,Ar Vr Development,1,3.0,3.0,3.0
+2026-06-22,topcv,Assembly),1,1.0,1.0,1.0
+2026-06-22,topcv,Authentication,2,0.0,0.0,0.0
+2026-06-22,topcv,Authorization,2,0.0,0.0,0.0
+2026-06-22,topcv,Automation Test,2,2.0,2.0,2.0
+2026-06-22,topcv,Azure,9,2.0,1.0,4.0
+2026-06-22,topcv,Azure AI),2,1.0,1.0,1.0
+2026-06-22,topcv,Bash,1,1.0,1.0,1.0
+2026-06-22,topcv,Bootstrap,1,3.0,3.0,3.0
+2026-06-22,topcv,Business Analyst,1,1.0,1.0,1.0
+2026-06-22,topcv,Business Intelligence,1,5.0,5.0,5.0
+2026-06-22,topcv,Bán Lẻ,1,5.0,5.0,5.0
+2026-06-22,topcv,Báo Cáo Lỗi (bug Reporting),2,0.0,0.0,0.0
+2026-06-22,topcv,Báo Cáo Tài Chính,1,3.0,3.0,3.0
+2026-06-22,topcv,Bảo Mật Hệ Thống,1,2.0,2.0,2.0
+2026-06-22,topcv,Bảo Mật Mạng,1,2.0,2.0,2.0
+2026-06-22,topcv,C#,14,2.5,0.0,5.0
+2026-06-22,topcv,C# .Net core,1,0.0,0.0,0.0
+2026-06-22,topcv,C# Programming,1,2.0,2.0,2.0
+2026-06-22,topcv,C++,1,1.0,1.0,1.0
+2026-06-22,topcv,CCIE hoặc tương đương,1,2.0,2.0,2.0
+2026-06-22,topcv,CI-CD,1,5.0,5.0,5.0
+2026-06-22,topcv,CI/CD,7,2.0,1.0,3.0
+2026-06-22,topcv,CSDL,1,2.0,2.0,2.0
+2026-06-22,topcv,CSS3,3,4.0,3.0,4.0
+2026-06-22,topcv,Cache,1,3.0,3.0,3.0
+2026-06-22,topcv,Cache (Redis),1,3.0,3.0,3.0
+2026-06-22,topcv,Camera,1,1.0,1.0,1.0
+2026-06-22,topcv,ChatGPT API,2,0.0,0.0,0.0
+2026-06-22,topcv,Chính Xác,1,0.0,0.0,0.0
+2026-06-22,topcv,Chăm chỉ,1,1.0,1.0,1.0
+2026-06-22,topcv,Chủ đầu tư,1,2.0,2.0,2.0
+2026-06-22,topcv,Chứng Chỉ Scrum Master (csm,1,4.0,4.0,4.0
+2026-06-22,topcv,Chứng Khoán,1,1.0,1.0,1.0
+2026-06-22,topcv,Claude),1,2.0,2.0,2.0
+2026-06-22,topcv,Clean Architecture,2,2.0,2.0,2.0
+2026-06-22,topcv,ClickUp,1,4.0,4.0,4.0
+2026-06-22,topcv,Cloud,2,5.0,5.0,5.0
+2026-06-22,topcv,Cloud Architecture,1,3.0,3.0,3.0
+2026-06-22,topcv,Cloud Computing,1,3.0,3.0,3.0
+2026-06-22,topcv,Cloud Computing (aws,2,2.0,2.0,2.0
+2026-06-22,topcv,Cloud certification,1,1.0,1.0,1.0
+2026-06-22,topcv,Code phần mềm,1,2.0,2.0,2.0
+2026-06-22,topcv,Communication,2,1.0,1.0,1.0
+2026-06-22,topcv,CompTIA A+,1,1.0,1.0,1.0
+2026-06-22,topcv,Comunication English,2,4.0,4.0,4.0
+2026-06-22,topcv,Content Marketing,1,0.0,0.0,0.0
+2026-06-22,topcv,Css,4,1.5,1.0,2.0
+2026-06-22,topcv,Công Nghệ Thông Tin,1,1.0,1.0,1.0
+2026-06-22,topcv,Cấu Hình Và Tùy Chỉnh Sap,2,3.0,3.0,3.0
+2026-06-22,topcv,Cấu Trúc Dữ Liệu,2,1.0,1.0,1.0
+2026-06-22,topcv,Data,2,5.0,5.0,5.0
+2026-06-22,topcv,Data Analytics,1,5.0,5.0,5.0
+2026-06-22,topcv,Data Structures And Algorithms,2,2.0,2.0,2.0
+2026-06-22,topcv,Data visualization,1,5.0,5.0,5.0
+2026-06-22,topcv,Database,3,1.0,1.0,2.0
+2026-06-22,topcv,Database SQL,2,1.0,1.0,1.0
+2026-06-22,topcv,Databases (sql,2,2.0,2.0,2.0
+2026-06-22,topcv,Debug Và Test Phần Cứng Phần Mềm,1,1.0,1.0,1.0
+2026-06-22,topcv,Debugging And Troubleshooting,1,2.0,2.0,2.0
+2026-06-22,topcv,DevOps,10,2.5,0.0,5.0
+2026-06-22,topcv,Devops,4,2.0,1.0,5.0
+2026-06-22,topcv,Digital Marketing,1,0.0,0.0,0.0
+2026-06-22,topcv,Django,2,3.0,3.0,3.0
+2026-06-22,topcv,Docker,23,2.0,0.0,5.0
+2026-06-22,topcv,E-commerce,1,5.0,5.0,5.0
+2026-06-22,topcv,ERP,3,2.0,2.0,2.0
+2026-06-22,topcv,ERPNext Certified Professional,1,1.0,1.0,1.0
+2026-06-22,topcv,ERPNext implementation,1,1.0,1.0,1.0
+2026-06-22,topcv,ES6,1,3.0,3.0,3.0
+2026-06-22,topcv,ETL pipelines,1,5.0,5.0,5.0
+2026-06-22,topcv,Elasticsearch,1,0.0,0.0,0.0
+2026-06-22,topcv,Elasticsearch),2,1.0,1.0,1.0
+2026-06-22,topcv,Elk,1,1.0,1.0,1.0
+2026-06-22,topcv,Emo,2,2.0,2.0,2.0
+2026-06-22,topcv,Engineering,1,3.0,3.0,3.0
+2026-06-22,topcv,English,2,4.0,4.0,4.0
+2026-06-22,topcv,Excel,2,4.0,3.0,5.0
+2026-06-22,topcv,FCUBS Customize Framework,1,3.0,3.0,3.0
+2026-06-22,topcv,FLEXCUBE Development,1,3.0,3.0,3.0
+2026-06-22,topcv,FLEXCUBE Web Services,1,3.0,3.0,3.0
+2026-06-22,topcv,Fast Accounting),1,0.0,0.0,0.0
+2026-06-22,topcv,Fintech,4,3.0,1.0,5.0
+2026-06-22,topcv,Flexcube Development Workbench (DWB),1,3.0,3.0,3.0
+2026-06-22,topcv,Flutter,4,3.5,2.0,5.0
+2026-06-22,topcv,Frontend Technologies (html,2,2.0,2.0,2.0
+2026-06-22,topcv,Fullstack,1,1.0,1.0,1.0
+2026-06-22,topcv,GCP,5,1.0,1.0,5.0
+2026-06-22,topcv,GIS,1,1.0,1.0,1.0
+2026-06-22,topcv,Gatling,1,2.0,2.0,2.0
+2026-06-22,topcv,Gcp),2,2.0,2.0,2.0
+2026-06-22,topcv,Giao tiếp,10,2.5,1.0,10.0
+2026-06-22,topcv,Giao tiếp vendor & đội nghiệp vụ,1,2.0,2.0,2.0
+2026-06-22,topcv,Git,10,1.5,0.0,5.0
+2026-06-22,topcv,Github,2,2.0,2.0,2.0
+2026-06-22,topcv,Giám Sát Hiệu Suất Hệ Thống,1,2.0,2.0,2.0
+2026-06-22,topcv,Giải quyết vấn đề,9,2.0,1.0,10.0
+2026-06-22,topcv,Go,9,4.0,0.0,5.0
+2026-06-22,topcv,Google Sheets,1,5.0,5.0,5.0
+2026-06-22,topcv,GoogleCloud,1,5.0,5.0,5.0
+2026-06-22,topcv,Graylog,1,1.0,1.0,1.0
+2026-06-22,topcv,HRM/ERP,1,2.0,2.0,2.0
+2026-06-22,topcv,HTML5,3,4.0,3.0,4.0
+2026-06-22,topcv,Hibernate/Jpa,1,5.0,5.0,5.0
+2026-06-22,topcv,Hiểu Biết Về Agile Scrum,1,3.0,3.0,3.0
+2026-06-22,topcv,Hiểu Biết Về Bố Cục,1,1.0,1.0,1.0
+2026-06-22,topcv,Hiểu Biết Về Các Phương Pháp Kiểm Thử Phần Mềm (test Cases,1,0.0,0.0,0.0
+2026-06-22,topcv,Hiểu Biết Về Các Phương Pháp Quản Lý Chiến Lược,1,3.0,3.0,3.0
+2026-06-22,topcv,Hiểu Biết Về Các Tiêu Chuẩn Kỹ Thuật,1,0.0,0.0,0.0
+2026-06-22,topcv,Hiểu Biết Về Sdlc,1,2.0,2.0,2.0
+2026-06-22,topcv,Hiểu Biết Về Văn Hóa Nhật Bản,1,3.0,3.0,3.0
+2026-06-22,topcv,Hiểu biết hệ thống mạng LAN/WAN,1,1.0,1.0,1.0
+2026-06-22,topcv,Hiểu biết về các phương pháp phát triển phần mềm,1,2.0,2.0,2.0
+2026-06-22,topcv,Hiểu biết về mô hình kinh doanh,1,3.0,3.0,3.0
+2026-06-22,topcv,Html,2,1.0,1.0,1.0
+2026-06-22,topcv,Hạch Toán,1,3.0,3.0,3.0
+2026-06-22,topcv,Hệ thống server,1,1.0,1.0,1.0
+2026-06-22,topcv,Hệ Điều Hành Thời Gian Thực (rtos),1,1.0,1.0,1.0
+2026-06-22,topcv,Hỗ Trợ Người Dùng,2,1.0,1.0,1.0
+2026-06-22,topcv,IT Project Management,2,1.0,1.0,1.0
+2026-06-22,topcv,IT helpdesk support,1,1.0,1.0,1.0
+2026-06-22,topcv,IT system,1,5.0,5.0,5.0
+2026-06-22,topcv,Infrastructure As Code (iac),2,2.0,2.0,2.0
+2026-06-22,topcv,Infrastructure Management,1,5.0,5.0,5.0
+2026-06-22,topcv,Infrastructure Monitoring,1,5.0,5.0,5.0
+2026-06-22,topcv,Inshot,1,1.0,1.0,1.0
+2026-06-22,topcv,JMS/Kafka,1,2.0,2.0,2.0
+2026-06-22,topcv,JNCIE hoặc tương đương,1,2.0,2.0,2.0
+2026-06-22,topcv,Java,25,3.0,0.0,10.0
+2026-06-22,topcv,Java 17 / 21,1,3.0,3.0,3.0
+2026-06-22,topcv,Java 8+,1,3.0,3.0,3.0
+2026-06-22,topcv,Java Core,1,3.0,3.0,3.0
+2026-06-22,topcv,Java/Kotlin,2,2.0,2.0,2.0
+2026-06-22,topcv,JavaScript,12,3.0,0.0,5.0
+2026-06-22,topcv,Javascript,8,2.0,0.0,4.0
+2026-06-22,topcv,Javascript),2,2.0,2.0,2.0
+2026-06-22,topcv,Jetpack Compose,2,2.0,2.0,2.0
+2026-06-22,topcv,Jira,1,4.0,4.0,4.0
+2026-06-22,topcv,K6,1,2.0,2.0,2.0
+2026-06-22,topcv,Key member dự án,1,5.0,5.0,5.0
+2026-06-22,topcv,Khả Năng Chịu Áp Lực,2,2.0,2.0,2.0
+2026-06-22,topcv,Khả Năng Giải Quyết Vấn Đề Và Xử Lý Sự Cố,2,3.0,3.0,3.0
+2026-06-22,topcv,Khả Năng Giải Đáp Thắc Mắc Và Hỗ Trợ Học Viên,1,1.0,1.0,1.0
+2026-06-22,topcv,Khả Năng Học Hỏi Nhanh,1,0.0,0.0,0.0
+2026-06-22,topcv,Khả Năng Khắc Phục Sự Cố Phần Cứng,2,2.0,2.0,2.0
+2026-06-22,topcv,Khả Năng Làm Việc Nhóm,3,1.0,0.0,3.0
+2026-06-22,topcv,Khả Năng Quản Lý Lớp Học Và Thời Gian,1,1.0,1.0,1.0
+2026-06-22,topcv,Khả Năng Sửa Chữa Phần Cứng,2,2.0,2.0,2.0
+2026-06-22,topcv,Khả Năng Thiết Kế Bài Giảng Và Giáo Án,1,1.0,1.0,1.0
+2026-06-22,topcv,Khả năng giải quyết vấn đề,3,2.0,1.0,2.0
+2026-06-22,topcv,Khả năng ứng biến giải quyết vấn đề,1,1.0,1.0,1.0
+2026-06-22,topcv,Khắc Phục Sự Cố Máy Tính,1,1.0,1.0,1.0
+2026-06-22,topcv,Kinemaster),1,1.0,1.0,1.0
+2026-06-22,topcv,Kinh Nghiệm Hỗ Trợ Kỹ Thuật,1,1.0,1.0,1.0
+2026-06-22,topcv,Kinh Nghiệm Làm Việc Trong Lĩnh Vực It,1,3.0,3.0,3.0
+2026-06-22,topcv,Kinh Nghiệm Làm Việc Với Cơ Quan Nhà Nước,1,4.0,4.0,4.0
+2026-06-22,topcv,Kinh Nghiệm Làm Việc Với Khách Hàng Doanh Nghiệp Lớn,1,4.0,4.0,4.0
+2026-06-22,topcv,Kinh Nghiệm Triển Khai Dự Án Sap,2,3.0,3.0,3.0
+2026-06-22,topcv,Kinh Nghiệm Trong Ngành Liên Quan,2,2.0,1.0,3.0
+2026-06-22,topcv,Kinh Nghiệm Với Các Công Cụ Phát Triển Phần Mềm,1,1.0,1.0,1.0
+2026-06-22,topcv,Kinh Nghiệm Với Các Phương Pháp Phát Triển Phần Mềm (agile,1,1.0,1.0,1.0
+2026-06-22,topcv,Kinh nghiệm EdTech,1,2.0,2.0,2.0
+2026-06-22,topcv,Kinh nghiệm làm việc trên hệ thống kiểm soát lỗi phần mềm,1,2.0,2.0,2.0
+2026-06-22,topcv,Kinh nghiệm làm việc với API,1,2.0,2.0,2.0
+2026-06-22,topcv,Kiến Thức Chuyên Sâu Về Sql,1,1.0,1.0,1.0
+2026-06-22,topcv,Kiến Thức Cơ Bản Về Chu Trình Phát Triển Phần Mềm,1,0.0,0.0,0.0
+2026-06-22,topcv,Kiến Thức Kế Toán Cơ Bản,1,0.0,0.0,0.0
+2026-06-22,topcv,Kiến Thức Sâu Rộng Về Sap Fico,1,3.0,3.0,3.0
+2026-06-22,topcv,Kiến Thức Về Bảo Mật Thông Tin,2,2.0,2.0,2.0
+2026-06-22,topcv,Kiến Thức Về Các Loại Plc (siemens,1,2.0,2.0,2.0
+2026-06-22,topcv,Kiến Thức Về Hệ Điều Hành Windows Và Hoặc Macos,1,1.0,1.0,1.0
+2026-06-22,topcv,Kiến Thức Về It (các Thuật Ngữ,1,3.0,3.0,3.0
+2026-06-22,topcv,Kiến Thức Về Mạng Máy Tính,4,1.5,1.0,2.0
+2026-06-22,topcv,Kiến Thức Về Phần Cứng Máy Tính,1,1.0,1.0,1.0
+2026-06-22,topcv,Kiến Thức Về Phần Cứng Và Phần Mềm Máy Tính,2,2.0,2.0,2.0
+2026-06-22,topcv,Kiến Thức Về Phần Mềm,1,1.0,1.0,1.0
+2026-06-22,topcv,Kiến Trúc Etl,2,3.0,3.0,3.0
+2026-06-22,topcv,Kiến Trúc Microservices,2,1.0,1.0,1.0
+2026-06-22,topcv,Kiến Trúc Vi Điều Khiển Vi Xử Lý,1,1.0,1.0,1.0
+2026-06-22,topcv,Kiến thức kiểm thử,1,2.0,2.0,2.0
+2026-06-22,topcv,Kiến thức quy trình kiểm thử phần mềm,1,5.0,5.0,5.0
+2026-06-22,topcv,Kiểm Toán,1,3.0,3.0,3.0
+2026-06-22,topcv,Kiểm Tra Và Sửa Chữa Hệ Thống Điện,1,2.0,2.0,2.0
+2026-06-22,topcv,Kiểm soát rủi ro,1,4.0,4.0,4.0
+2026-06-22,topcv,Kiểm thử App/Web,1,5.0,5.0,5.0
+2026-06-22,topcv,Kiểm thử phần mềm,4,1.5,0.0,3.0
+2026-06-22,topcv,Kiểm thử phần mềm web,1,2.0,2.0,2.0
+2026-06-22,topcv,Kotlin,3,2.0,2.0,5.0
+2026-06-22,topcv,Kubernetes,10,3.0,1.0,5.0
+2026-06-22,topcv,Kế Toán,1,3.0,3.0,3.0
+2026-06-22,topcv,Kỹ Năng Báo Cáo Lỗi (bug Reporting) Rõ Ràng,1,0.0,0.0,0.0
+2026-06-22,topcv,Kỹ Năng Chỉnh Sửa Âm Thanh,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Dịch Thuật (nhật Việt Và Việt Nhật),1,3.0,3.0,3.0
+2026-06-22,topcv,Kỹ Năng Dựng Phim,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Giao Tiếp (nói Và Viết) Xuất Sắc,1,3.0,3.0,3.0
+2026-06-22,topcv,Kỹ Năng Giảng Dạy Và Truyền Đạt Kiến Thức,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Lập Kế Hoạch,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Lập Kế Hoạch Và Thực Hiện Các Bài Kiểm Thử,1,0.0,0.0,0.0
+2026-06-22,topcv,Kỹ Năng Quản Lý Dự Án,1,3.0,3.0,3.0
+2026-06-22,topcv,Kỹ Năng Sử Dụng Các Công Cụ Hỗ Trợ Từ Xa,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Thiết Kế Đồ Họa Cơ Bản,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Viết Báo Cáo,1,3.0,3.0,3.0
+2026-06-22,topcv,Kỹ Năng Viết Kịch Bản Video,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ Năng Đào Tạo Người Dùng,2,2.0,2.0,2.0
+2026-06-22,topcv,Kỹ năng giao tiếp,3,2.0,1.0,2.0
+2026-06-22,topcv,Kỹ năng làm việc nhóm,5,2.0,0.0,2.0
+2026-06-22,topcv,Kỹ năng làm việc độc lập,1,2.0,2.0,2.0
+2026-06-22,topcv,Kỹ năng lập báo cáo,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ năng lắng nghe,1,1.0,1.0,1.0
+2026-06-22,topcv,Kỹ năng đàm phán,1,3.0,3.0,3.0
+2026-06-22,topcv,Kỹ thuật test,1,5.0,5.0,5.0
+2026-06-22,topcv,LLM,4,0.5,0.0,1.0
+2026-06-22,topcv,Laravel,1,3.0,3.0,3.0
+2026-06-22,topcv,Linux,2,2.0,2.0,2.0
+2026-06-22,topcv,Linux Server,1,1.0,1.0,1.0
+2026-06-22,topcv,Load Balancing,1,2.0,2.0,2.0
+2026-06-22,topcv,Load Testing,1,2.0,2.0,2.0
+2026-06-22,topcv,Loadrunner,1,2.0,2.0,2.0
+2026-06-22,topcv,Làm việc nhóm,2,3.0,3.0,3.0
+2026-06-22,topcv,Làm việc độc lập,1,5.0,5.0,5.0
+2026-06-22,topcv,Lập Kế Hoạch,5,4.0,3.0,10.0
+2026-06-22,topcv,Lập Kế Hoạch Dự Án,2,2.5,2.0,3.0
+2026-06-22,topcv,Lập Trình,3,1.0,1.0,2.0
+2026-06-22,topcv,Lập Trình Hướng Đối Tượng (oop),2,1.0,1.0,1.0
+2026-06-22,topcv,Lập Trình Máy Phay Cnc,1,1.0,1.0,1.0
+2026-06-22,topcv,Lập Trình Plc,1,2.0,2.0,2.0
+2026-06-22,topcv,Lập trình C#/.NET,2,1.0,1.0,1.0
+2026-06-22,topcv,Lập trình core thẻ ngân hàng,1,2.0,2.0,2.0
+2026-06-22,topcv,MS Project,2,1.0,1.0,1.0
+2026-06-22,topcv,Manual Testing,1,2.0,2.0,2.0
+2026-06-22,topcv,Message Queue,3,1.0,0.0,1.0
+2026-06-22,topcv,Microservice,1,2.0,2.0,2.0
+2026-06-22,topcv,Microservices,5,0.0,0.0,3.0
+2026-06-22,topcv,Microservices Architecture,2,2.0,2.0,2.0
+2026-06-22,topcv,Microsoft Dynamics 365 Fundamentals,1,1.0,1.0,1.0
+2026-06-22,topcv,Mitsubishi,1,2.0,2.0,2.0
+2026-06-22,topcv,Modbus RTU/TCP,2,1.0,1.0,1.0
+2026-06-22,topcv,MongoDB,9,2.0,0.0,5.0
+2026-06-22,topcv,Monitoring And Logging,2,2.0,2.0,2.0
+2026-06-22,topcv,Multithreading,1,3.0,3.0,3.0
+2026-06-22,topcv,MySQL,18,1.5,0.0,5.0
+2026-06-22,topcv,MySQL 8,1,3.0,3.0,3.0
+2026-06-22,topcv,Màu Sắc,1,1.0,1.0,1.0
+2026-06-22,topcv,Nestjs,2,0.0,0.0,0.0
+2026-06-22,topcv,Network,1,5.0,5.0,5.0
+2026-06-22,topcv,Network infrastructure,1,5.0,5.0,5.0
+2026-06-22,topcv,Network+,1,1.0,1.0,1.0
+2026-06-22,topcv,Next.js,1,5.0,5.0,5.0
+2026-06-22,topcv,NextJS,3,0.0,0.0,3.0
+2026-06-22,topcv,Nghiên Cứu Thị Trường,1,3.0,3.0,3.0
+2026-06-22,topcv,Nghiên cứu,1,1.0,1.0,1.0
+2026-06-22,topcv,Ngân hàng số,2,5.0,5.0,5.0
+2026-06-22,topcv,Ngôn Ngữ Lập Trình Nhúng (c,1,1.0,1.0,1.0
+2026-06-22,topcv,Node.js,11,1.0,0.0,5.0
+2026-06-22,topcv,Nosql),2,2.0,2.0,2.0
+2026-06-22,topcv,Notion,1,4.0,4.0,4.0
+2026-06-22,topcv,OBDX,1,3.0,3.0,3.0
+2026-06-22,topcv,OBIEE,1,3.0,3.0,3.0
+2026-06-22,topcv,OFSAA,1,3.0,3.0,3.0
+2026-06-22,topcv,Object Oriented Programming (oop),1,2.0,2.0,2.0
+2026-06-22,topcv,Open Banking,2,5.0,5.0,5.0
+2026-06-22,topcv,OpenAI API,2,0.0,0.0,0.0
+2026-06-22,topcv,Operations Performance,1,5.0,5.0,5.0
+2026-06-22,topcv,Oracle FLEXCUBE certification,1,3.0,3.0,3.0
+2026-06-22,topcv,Oracle Forms/Reports,1,3.0,3.0,3.0
+2026-06-22,topcv,PHP,3,3.0,0.0,5.0
+2026-06-22,topcv,PL/SQL,1,3.0,3.0,3.0
+2026-06-22,topcv,PM,2,1.0,1.0,1.0
+2026-06-22,topcv,PMI-ACP,1,4.0,4.0,4.0
+2026-06-22,topcv,PMP,1,4.0,4.0,4.0
+2026-06-22,topcv,PWA,1,3.0,3.0,3.0
+2026-06-22,topcv,PaaS,1,3.0,3.0,3.0
+2026-06-22,topcv,Phiên dịch nói,1,1.0,1.0,1.0
+2026-06-22,topcv,Phân Tích Nghiệp Vụ,5,1.0,1.0,3.0
+2026-06-22,topcv,Phân Tích Nghiệp Vụ Và Thiết Kế Giải Pháp Sap,2,3.0,3.0,3.0
+2026-06-22,topcv,Phân Tích Tài Chính,2,3.0,3.0,3.0
+2026-06-22,topcv,Phân tích,2,7.5,5.0,10.0
+2026-06-22,topcv,Phân tích dữ liệu,6,3.0,2.0,3.0
+2026-06-22,topcv,Phân tích truy vấn,1,2.0,2.0,2.0
+2026-06-22,topcv,Phương pháp,1,5.0,5.0,5.0
+2026-06-22,topcv,Phần Cứng Máy Tính,1,1.0,1.0,1.0
+2026-06-22,topcv,Phần Mềm Kế Toán (ví Dụ: Misa,1,0.0,0.0,0.0
+2026-06-22,topcv,Phần mềm ERP,1,1.0,1.0,1.0
+2026-06-22,topcv,Phần mềm ứng dụng quản lý doanh nghiệp,1,2.0,2.0,2.0
+2026-06-22,topcv,PostgreSQL,14,1.5,0.0,5.0
+2026-06-22,topcv,Postman,1,1.0,1.0,1.0
+2026-06-22,topcv,Powerpoint,1,3.0,3.0,3.0
+2026-06-22,topcv,Pricing,1,2.0,2.0,2.0
+2026-06-22,topcv,Problem Solving,6,2.0,2.0,4.0
+2026-06-22,topcv,Problem-solving,1,5.0,5.0,5.0
+2026-06-22,topcv,Product và Engineering,1,4.0,4.0,4.0
+2026-06-22,topcv,Project Management,4,1.0,1.0,1.0
+2026-06-22,topcv,Project Management Skills,2,1.0,1.0,1.0
+2026-06-22,topcv,Prometheus,1,1.0,1.0,1.0
+2026-06-22,topcv,Prompt Engineering,2,0.0,0.0,0.0
+2026-06-22,topcv,Psm),1,4.0,4.0,4.0
+2026-06-22,topcv,Python,24,3.0,0.0,5.0
+2026-06-22,topcv,Python (Django/FastAPI/Flask) hoặc Java/Node.js,2,1.0,1.0,1.0
+2026-06-22,topcv,Python Hoặc Java,2,3.0,3.0,3.0
+2026-06-22,topcv,QA,7,1.0,0.0,3.0
+2026-06-22,topcv,Quality Control,2,1.0,1.0,1.0
+2026-06-22,topcv,Quan Hệ Chính Phủ,2,5.0,5.0,5.0
+2026-06-22,topcv,Quy Trình Phát Triển Phần Mềm),1,3.0,3.0,3.0
+2026-06-22,topcv,Quản Lý Chất Lượng,1,2.0,2.0,2.0
+2026-06-22,topcv,Quản Lý Dự Án,10,2.5,1.0,10.0
+2026-06-22,topcv,Quản Lý Dự Án (agile,1,2.0,2.0,2.0
+2026-06-22,topcv,Quản Lý Hệ Thống,1,2.0,2.0,2.0
+2026-06-22,topcv,Quản Lý Ngân Sách,3,5.0,2.0,10.0
+2026-06-22,topcv,Quản Lý Nội Dung,1,0.0,0.0,0.0
+2026-06-22,topcv,Quản Lý Phiên Bản (git),2,3.0,3.0,3.0
+2026-06-22,topcv,Quản Lý Rủi Ro,2,2.0,2.0,2.0
+2026-06-22,topcv,Quản Lý Rủi Ro Dự Án,1,4.0,4.0,4.0
+2026-06-22,topcv,Quản Lý Stakeholder,1,4.0,4.0,4.0
+2026-06-22,topcv,Quản Lý Sổ Sách Kế Toán,1,3.0,3.0,3.0
+2026-06-22,topcv,Quản Lý Tiến Độ,4,3.0,2.0,4.0
+2026-06-22,topcv,Quản Lý Tài Chính Dự Án,1,4.0,4.0,4.0
+2026-06-22,topcv,Quản Lý Tài Sản Cntt,1,1.0,1.0,1.0
+2026-06-22,topcv,Quản Lý Đội Nhóm,3,5.0,2.0,10.0
+2026-06-22,topcv,Quản Trị Hệ Thống Lưu Trữ (storage),2,2.0,2.0,2.0
+2026-06-22,topcv,Quản Trị Hệ Thống Mạng,1,2.0,2.0,2.0
+2026-06-22,topcv,Quản Trị Mạng,1,2.0,2.0,2.0
+2026-06-22,topcv,Quản lý thời gian,3,3.0,2.0,5.0
+2026-06-22,topcv,Quản trị hệ thống nội bộ,1,1.0,1.0,1.0
+2026-06-22,topcv,R),1,3.0,3.0,3.0
+2026-06-22,topcv,RAG,2,0.0,0.0,0.0
+2026-06-22,topcv,REST API,2,0.0,0.0,0.0
+2026-06-22,topcv,RESTful API,2,4.0,3.0,5.0
+2026-06-22,topcv,Ra Quyết Định,2,7.5,5.0,10.0
+2026-06-22,topcv,RabbitMQ,4,0.0,0.0,3.0
+2026-06-22,topcv,React,13,3.0,0.0,6.0
+2026-06-22,topcv,React Native,1,3.0,3.0,3.0
+2026-06-22,topcv,Reactjs Hoặc Vuejs,2,1.0,1.0,1.0
+2026-06-22,topcv,Redis,9,3.0,0.0,5.0
+2026-06-22,topcv,Redux,1,3.0,3.0,3.0
+2026-06-22,topcv,Report,2,4.0,4.0,4.0
+2026-06-22,topcv,SAP,1,1.0,1.0,1.0
+2026-06-22,topcv,SAP Fiori,2,4.0,4.0,4.0
+2026-06-22,topcv,SAP Fiori/UI5,2,4.0,4.0,4.0
+2026-06-22,topcv,SCRUM,1,4.0,4.0,4.0
+2026-06-22,topcv,SDLC,2,2.0,2.0,2.0
+2026-06-22,topcv,SQL,38,2.0,0.0,5.0
+2026-06-22,topcv,SQL (MySQL/PostgreSQL,2,1.0,1.0,1.0
+2026-06-22,topcv,SQL Server,2,0.0,0.0,0.0
+2026-06-22,topcv,SQL thuần,1,0.0,0.0,0.0
+2026-06-22,topcv,STLC,1,2.0,2.0,2.0
+2026-06-22,topcv,SaaS,1,3.0,3.0,3.0
+2026-06-22,topcv,Sale,1,2.0,2.0,2.0
+2026-06-22,topcv,Sao Lưu Và Phục Hồi Dữ Liệu,1,2.0,2.0,2.0
+2026-06-22,topcv,Sap Fiori Development,2,4.0,4.0,4.0
+2026-06-22,topcv,Scrum master,1,4.0,4.0,4.0
+2026-06-22,topcv,Scrum),1,1.0,1.0,1.0
+2026-06-22,topcv,Sd Hoặc Mm (tùy Thuộc Vào Chuyên Môn),1,3.0,3.0,3.0
+2026-06-22,topcv,Security+,1,1.0,1.0,1.0
+2026-06-22,topcv,ServiceWorker,1,3.0,3.0,3.0
+2026-06-22,topcv,Shader,1,3.0,3.0,3.0
+2026-06-22,topcv,Socket,1,3.0,3.0,3.0
+2026-06-22,topcv,Software Testing,2,1.0,1.0,1.0
+2026-06-22,topcv,Spring Boot,1,3.0,3.0,3.0
+2026-06-22,topcv,Spring Framework,1,5.0,5.0,5.0
+2026-06-22,topcv,Spring MVC,1,3.0,3.0,3.0
+2026-06-22,topcv,Spring Security,1,3.0,3.0,3.0
+2026-06-22,topcv,Stored Procedure,1,3.0,3.0,3.0
+2026-06-22,topcv,Swagger,1,1.0,1.0,1.0
+2026-06-22,topcv,Swagger hoặc tương đương,1,2.0,2.0,2.0
+2026-06-22,topcv,Swift,3,2.0,2.0,5.0
+2026-06-22,topcv,System/Infrastructure,1,5.0,5.0,5.0
+2026-06-22,topcv,Sáng tạo,1,3.0,3.0,3.0
+2026-06-22,topcv,Sáng tạo nội dung,1,0.0,0.0,0.0
+2026-06-22,topcv,Sử Dụng Các Công Cụ Phân Tích Dữ Liệu (sql,1,3.0,3.0,3.0
+2026-06-22,topcv,Sử Dụng Công Cụ Kiểm Thử Hiệu Năng (jmeter,1,2.0,2.0,2.0
+2026-06-22,topcv,Sử Dụng Phần Mềm Dựng Phim Trên Di Động (ví Dụ: Capcut,1,1.0,1.0,1.0
+2026-06-22,topcv,Sử Dụng Thành Thạo Excel,1,3.0,3.0,3.0
+2026-06-22,topcv,Sử dụng AI,1,1.0,1.0,1.0
+2026-06-22,topcv,Sử dụng công cụ Postman,1,2.0,2.0,2.0
+2026-06-22,topcv,Sử dụng phần mềm mastercam,1,1.0,1.0,1.0
+2026-06-22,topcv,Tailwind,1,3.0,3.0,3.0
+2026-06-22,topcv,Technical Seo,1,5.0,5.0,5.0
+2026-06-22,topcv,Terraform,1,1.0,1.0,1.0
+2026-06-22,topcv,Test Case,1,2.0,2.0,2.0
+2026-06-22,topcv,Test Scenarios),1,0.0,0.0,0.0
+2026-06-22,topcv,Test scenario,1,2.0,2.0,2.0
+2026-06-22,topcv,Tester,18,3.0,0.0,4.0
+2026-06-22,topcv,Testing,3,1.0,1.0,3.0
+2026-06-22,topcv,Theo Dõi Tiến Độ Dự Án,1,5.0,5.0,5.0
+2026-06-22,topcv,Thiết Kế,1,2.0,2.0,2.0
+2026-06-22,topcv,Thiết Kế Cơ Sở Dữ Liệu,2,3.0,3.0,3.0
+2026-06-22,topcv,Thiết Kế Mạch Điện Tử Cơ Bản,1,1.0,1.0,1.0
+2026-06-22,topcv,Thiết Kế Phần Mềm,1,1.0,1.0,1.0
+2026-06-22,topcv,Thiết Kế Điện,1,2.0,2.0,2.0
+2026-06-22,topcv,Thiết kế UI/UX,1,3.0,3.0,3.0
+2026-06-22,topcv,Thiết kế và làm việc với RESTful API,2,1.0,1.0,1.0
+2026-06-22,topcv,Thuyết trình,2,1.0,1.0,1.0
+2026-06-22,topcv,Thành Thạo Postgresql,1,2.0,2.0,2.0
+2026-06-22,topcv,Thành thạo Oracle,1,2.0,2.0,2.0
+2026-06-22,topcv,Thành thạo tin học văn phòng,1,1.0,1.0,1.0
+2026-06-22,topcv,Thị trường tài chính,1,1.0,1.0,1.0
+2026-06-22,topcv,Thực Hiện Test Case,2,0.0,0.0,0.0
+2026-06-22,topcv,Time-management skills,2,4.0,4.0,4.0
+2026-06-22,topcv,Tiếng Anh,1,3.0,3.0,3.0
+2026-06-22,topcv,Tiếng Anh chuyên ngành,1,1.0,1.0,1.0
+2026-06-22,topcv,Tiếng Anh thành thạo,1,0.0,0.0,0.0
+2026-06-22,topcv,Tiếng Anh đọc hiểu,1,2.0,2.0,2.0
+2026-06-22,topcv,Tiếng Hàn,1,1.0,1.0,1.0
+2026-06-22,topcv,Tiếng Nhật N2,1,3.0,3.0,3.0
+2026-06-22,topcv,Tokenization,1,2.0,2.0,2.0
+2026-06-22,topcv,Triển khai AI Agent,1,2.0,2.0,2.0
+2026-06-22,topcv,Triển khai phần mềm chuyển đổi số doanh nghiệp,1,2.0,2.0,2.0
+2026-06-22,topcv,Tuân Thủ Pháp Luật,1,3.0,3.0,3.0
+2026-06-22,topcv,TypeScript,6,2.0,0.0,3.0
+2026-06-22,topcv,Tài chính số,2,5.0,5.0,5.0
+2026-06-22,topcv,Tư duy chiến lược,1,3.0,3.0,3.0
+2026-06-22,topcv,Tư duy logic,1,2.0,2.0,2.0
+2026-06-22,topcv,Tư duy sử dụng AI (AI-First Mindset),2,1.0,1.0,1.0
+2026-06-22,topcv,Tư vấn triển khai Odoo ERP,2,1.0,1.0,1.0
+2026-06-22,topcv,Tư vấn triển khai Oracle EBS,2,1.0,1.0,1.0
+2026-06-22,topcv,Tối ưu chỉ mục,1,2.0,2.0,2.0
+2026-06-22,topcv,Tối ưu hiệu năng Website,1,3.0,3.0,3.0
+2026-06-22,topcv,Tối ưu transaction processing,1,2.0,2.0,2.0
+2026-06-22,topcv,Tổng Hợp Thông Tin,1,1.0,1.0,1.0
+2026-06-22,topcv,UI/UX,1,4.0,4.0,4.0
+2026-06-22,topcv,UI/UX responsive,1,5.0,5.0,5.0
+2026-06-22,topcv,Ui5/Fiori,2,4.0,4.0,4.0
+2026-06-22,topcv,UmiJS,1,3.0,3.0,3.0
+2026-06-22,topcv,Unity,1,3.0,3.0,3.0
+2026-06-22,topcv,Unity Engine (game Development),1,2.0,2.0,2.0
+2026-06-22,topcv,Vector Database,2,0.0,0.0,0.0
+2026-06-22,topcv,Version Control (git),1,2.0,2.0,2.0
+2026-06-22,topcv,Viết Code,2,3.0,3.0,3.0
+2026-06-22,topcv,Viết Nội Dung,1,0.0,0.0,0.0
+2026-06-22,topcv,Viết Testcase,2,0.0,0.0,0.0
+2026-06-22,topcv,Viết Tài Liệu Kỹ Thuật,1,0.0,0.0,0.0
+2026-06-22,topcv,Vn,1,1.0,1.0,1.0
+2026-06-22,topcv,Vue,7,5.0,0.0,6.0
+2026-06-22,topcv,Vue.js,1,5.0,5.0,5.0
+2026-06-22,topcv,Vận Hành Máy Phay Cnc,1,1.0,1.0,1.0
+2026-06-22,topcv,Vận hành CNC trong ngành trang sức/khuôn mẫu/chi tiết nhỏ,1,2.0,2.0,2.0
+2026-06-22,topcv,Waterfall,1,2.0,2.0,2.0
+2026-06-22,topcv,Waterfall),1,2.0,2.0,2.0
+2026-06-22,topcv,Waterfall.,1,4.0,4.0,4.0
+2026-06-22,topcv,Websocket,2,0.0,0.0,0.0
+2026-06-22,topcv,WinForms,2,1.0,1.0,1.0
+2026-06-22,topcv,Windows,3,2.0,1.0,2.0
+2026-06-22,topcv,Wordpress,2,4.0,3.0,5.0
+2026-06-22,topcv,Worker Services,1,0.0,0.0,0.0
+2026-06-22,topcv,XML/XSD,1,3.0,3.0,3.0
+2026-06-22,topcv,XSLT,1,3.0,3.0,3.0
+2026-06-22,topcv,Xây Dựng Mối Quan Hệ Khách Hàng,1,4.0,4.0,4.0
+2026-06-22,topcv,Xây Dựng Quan Hệ,2,5.0,5.0,5.0
+2026-06-22,topcv,Xây Dựng Và Triển Khai Hệ Thống,1,2.0,2.0,2.0
+2026-06-22,topcv,Xử lý sự cố phần cứng/phần mềm,1,1.0,1.0,1.0
+2026-06-22,topcv,Xử lý vấn đề,1,4.0,4.0,4.0
+2026-06-22,topcv,analytical,2,4.0,4.0,4.0
+2026-06-22,topcv,ant Design,1,3.0,3.0,3.0
+2026-06-22,topcv,azure,1,3.0,3.0,3.0
+2026-06-22,topcv,babel,1,3.0,3.0,3.0
+2026-06-22,topcv,business analysis,2,1.0,1.0,1.0
+2026-06-22,topcv,chứng chỉ ITPP,1,1.0,1.0,1.0
+2026-06-22,topcv,có trách nhiệm,1,1.0,1.0,1.0
+2026-06-22,topcv,công cụ test,1,5.0,5.0,5.0
+2026-06-22,topcv,công ty thiết kế - thi công,1,2.0,2.0,2.0
+2026-06-22,topcv,dashboard development,1,5.0,5.0,5.0
+2026-06-22,topcv,data architecture,1,5.0,5.0,5.0
+2026-06-22,topcv,data governance,1,5.0,5.0,5.0
+2026-06-22,topcv,dịch nói,1,1.0,1.0,1.0
+2026-06-22,topcv,dịch viết,1,1.0,1.0,1.0
+2026-06-22,topcv,full-stack web development,1,1.0,1.0,1.0
+2026-06-22,topcv,giám sát hiệu năng mạng,1,2.0,2.0,2.0
+2026-06-22,topcv,grafana,1,1.0,1.0,1.0
+2026-06-22,topcv,gỗ,1,5.0,5.0,5.0
+2026-06-22,topcv,hiểu biết quy trình phát triển sản phẩm phần mềm,1,4.0,4.0,4.0
+2026-06-22,topcv,host meeting,1,1.0,1.0,1.0
+2026-06-22,topcv,iOS,4,2.0,2.0,5.0
+2026-06-22,topcv,kafka,1,0.0,0.0,0.0
+2026-06-22,topcv,kinh nghiệm nội ngoại thất Interior,1,2.0,2.0,2.0
+2026-06-22,topcv,kỹ năng phân tích,1,1.0,1.0,1.0
+2026-06-22,topcv,làm việc nhóm,1,2.0,2.0,2.0
+2026-06-22,topcv,lên kế hoạch,1,1.0,1.0,1.0
+2026-06-22,topcv,mobile app,1,2.0,2.0,2.0
+2026-06-22,topcv,mô hình Agile/Scrum,1,4.0,4.0,4.0
+2026-06-22,topcv,mạng WAN truyền thống,1,2.0,2.0,2.0
+2026-06-22,topcv,nhà thầu tổng,1,2.0,2.0,2.0
+2026-06-22,topcv,phân tích yêu cầu,2,0.0,0.0,0.0
+2026-06-22,topcv,phần mềm,2,1.5,1.0,2.0
+2026-06-22,topcv,phần mềm kế toán,1,3.0,3.0,3.0
+2026-06-22,topcv,phối hợp nhóm Business,1,4.0,4.0,4.0
+2026-06-22,topcv,project documentation,2,1.0,1.0,1.0
+2026-06-22,topcv,quy trình tender,1,2.0,2.0,2.0
+2026-06-22,topcv,quản lý nhà xưởng,1,2.0,2.0,2.0
+2026-06-22,topcv,quản lý thầu phụ,1,2.0,2.0,2.0
+2026-06-22,topcv,rate limiting,1,1.0,1.0,1.0
+2026-06-22,topcv,reactnative,1,2.0,2.0,2.0
+2026-06-22,topcv,review code,1,0.0,0.0,0.0
+2026-06-22,topcv,review thuật ngữ CNTT,1,1.0,1.0,1.0
+2026-06-22,topcv,sử dụng thiết bị Firewall,1,2.0,2.0,2.0
+2026-06-22,topcv,teamlead,2,1.0,1.0,1.0
+2026-06-22,topcv,test,1,1.0,1.0,1.0
+2026-06-22,topcv,testing API,1,1.0,1.0,1.0
+2026-06-22,topcv,thi công,1,2.0,2.0,2.0
+2026-06-22,topcv,thiết bị văn phòng,1,1.0,1.0,1.0
+2026-06-22,topcv,thuế,1,3.0,3.0,3.0
+2026-06-22,topcv,thành thạo Jira,1,4.0,4.0,4.0
+2026-06-22,topcv,thúc đẩy tiến độ công việc,1,4.0,4.0,4.0
+2026-06-22,topcv,trang trí cảnh quan,1,2.0,2.0,2.0
+2026-06-22,topcv,translating/interpreting,2,1.0,1.0,1.0
+2026-06-22,topcv,tạo report,1,1.0,1.0,1.0
+2026-06-22,topcv,tự động hóa,1,2.0,2.0,2.0
+2026-06-22,topcv,vault,1,1.0,1.0,1.0
+2026-06-22,topcv,vòng đời phát triển sản phẩm,1,1.0,1.0,1.0
+2026-06-22,topcv,vận hành hệ thống mạng CORE,1,2.0,2.0,2.0
+2026-06-22,topcv,vận hành hệ thống mạng SDN,1,2.0,2.0,2.0
+2026-06-22,topcv,web,1,2.0,2.0,2.0
+2026-06-22,topcv,webpack,1,3.0,3.0,3.0
+2026-06-22,topcv,Âm Thanh Trong Video,1,1.0,1.0,1.0
+2026-06-22,topcv,Điều phối,1,4.0,4.0,4.0
+2026-06-22,topcv,Điều phối nhiều bên liên quan,1,4.0,4.0,4.0
+2026-06-22,topcv,Đàm phán B2B,1,1.0,1.0,1.0
+2026-06-22,topcv,Đọc Hiểu Bản Vẽ Kỹ Thuật,1,1.0,1.0,1.0
+2026-06-22,topcv,Đọc Hiểu Bản Vẽ Kỹ Thuật Điện,1,2.0,2.0,2.0
+2026-06-22,topcv,Đọc Hiểu Tài Liệu Kỹ Thuật Tiếng Anh,2,1.0,1.0,1.0
+2026-06-22,topcv,Đọc hiểu bản vẽ,1,2.0,2.0,2.0
+2026-06-22,topcv,Đọc hiểu bản vẽ 2D/3D,1,2.0,2.0,2.0
+2026-06-22,topcv,Ưu tiên ứng viên sinh sống gần công ty,1,1.0,1.0,1.0
+2026-06-29,itviec,.NET,8,3.0,1.0,10.0
+2026-06-29,itviec,.Net Core,1,5.0,5.0,5.0
+2026-06-29,itviec,AI,22,3.0,0.0,8.0
+2026-06-29,itviec,API,8,2.0,0.0,8.0
+2026-06-29,itviec,ASP.NET,1,5.0,5.0,5.0
+2026-06-29,itviec,AUTOSAR,1,5.0,5.0,5.0
+2026-06-29,itviec,AWS,41,4.0,1.0,12.0
+2026-06-29,itviec,Adobe Photoshop,1,0.0,0.0,0.0
+2026-06-29,itviec,Agile,13,3.0,0.0,10.0
+2026-06-29,itviec,Android,4,6.5,0.0,8.0
+2026-06-29,itviec,Angular,5,5.0,3.0,7.0
+2026-06-29,itviec,Application Security,1,2.0,2.0,2.0
+2026-06-29,itviec,Automation Test,5,5.0,0.0,5.0
+2026-06-29,itviec,Axure,1,2.0,2.0,2.0
+2026-06-29,itviec,Azure,30,3.0,1.0,12.0
+2026-06-29,itviec,Bash Shell,2,3.0,3.0,3.0
+2026-06-29,itviec,Business Analysis,8,2.0,1.0,3.0
+2026-06-29,itviec,Business Intelligence,1,2.0,2.0,2.0
+2026-06-29,itviec,C language,3,5.0,1.0,8.0
+2026-06-29,itviec,C#,5,5.0,1.0,5.0
+2026-06-29,itviec,C++,4,4.0,1.0,8.0
+2026-06-29,itviec,CI/CD,16,3.0,2.0,8.0
+2026-06-29,itviec,CSS,3,1.0,0.0,1.0
+2026-06-29,itviec,CSS 3,2,4.0,1.0,7.0
+2026-06-29,itviec,Change Management,1,3.0,3.0,3.0
+2026-06-29,itviec,Cloud,12,3.0,2.0,12.0
+2026-06-29,itviec,Cloud Security,3,3.0,2.0,5.0
+2026-06-29,itviec,CloudFormation,1,3.0,3.0,3.0
+2026-06-29,itviec,CompTIA Security+,2,2.0,2.0,2.0
+2026-06-29,itviec,Computer Vision,1,3.0,3.0,3.0
+2026-06-29,itviec,Cucumber,1,5.0,5.0,5.0
+2026-06-29,itviec,Cybersecurity,4,2.5,2.0,5.0
+2026-06-29,itviec,Data Analysis,5,2.0,1.0,3.0
+2026-06-29,itviec,Data Engineer,4,5.0,3.0,7.0
+2026-06-29,itviec,Data Lineage,1,5.0,5.0,5.0
+2026-06-29,itviec,Data Privacy / Compliance,1,5.0,5.0,5.0
+2026-06-29,itviec,Data Warehousing,3,1.0,1.0,3.0
+2026-06-29,itviec,Data modeling,3,2.0,2.0,3.0
+2026-06-29,itviec,Data-driven,1,10.0,10.0,10.0
+2026-06-29,itviec,Database,3,5.0,3.0,8.0
+2026-06-29,itviec,Design,1,0.0,0.0,0.0
+2026-06-29,itviec,DevOps,29,3.0,1.0,8.0
+2026-06-29,itviec,DevSecOps,2,3.5,2.0,5.0
+2026-06-29,itviec,Django,1,5.0,5.0,5.0
+2026-06-29,itviec,Docker,37,3.0,1.0,8.0
+2026-06-29,itviec,Domain-Driven Design,1,7.0,7.0,7.0
+2026-06-29,itviec,EDR,2,3.0,3.0,3.0
+2026-06-29,itviec,ERP,2,4.5,1.0,8.0
+2026-06-29,itviec,ETL,1,3.0,3.0,3.0
+2026-06-29,itviec,Embedded,3,3.0,1.0,5.0
+2026-06-29,itviec,Embedded C,1,3.0,3.0,3.0
+2026-06-29,itviec,English,23,3.0,0.0,12.0
+2026-06-29,itviec,Enterprise Architecture,2,8.0,4.0,12.0
+2026-06-29,itviec,ExpressJS,1,1.0,1.0,1.0
+2026-06-29,itviec,FastAPI,2,4.0,3.0,5.0
+2026-06-29,itviec,Figma,1,2.0,2.0,2.0
+2026-06-29,itviec,Firewall,1,2.0,2.0,2.0
+2026-06-29,itviec,Flutter,1,1.0,1.0,1.0
+2026-06-29,itviec,Fresher Accepted,2,0.5,0.0,1.0
+2026-06-29,itviec,Fullstack,1,1.0,1.0,1.0
+2026-06-29,itviec,GCP,19,4.0,1.0,12.0
+2026-06-29,itviec,Games,1,4.0,4.0,4.0
+2026-06-29,itviec,Generative AI,9,5.0,0.0,7.0
+2026-06-29,itviec,Git,3,1.0,1.0,8.0
+2026-06-29,itviec,Go,13,3.0,1.0,6.0
+2026-06-29,itviec,Governance,1,3.0,3.0,3.0
+2026-06-29,itviec,Grafana,1,5.0,5.0,5.0
+2026-06-29,itviec,GraphQL,1,7.0,7.0,7.0
+2026-06-29,itviec,HTML,4,1.0,0.0,2.0
+2026-06-29,itviec,HTML5,3,2.0,1.0,7.0
+2026-06-29,itviec,Hibernate,1,3.0,3.0,3.0
+2026-06-29,itviec,IDS/IPS,2,3.0,3.0,3.0
+2026-06-29,itviec,ISO 27001,3,2.0,2.0,3.0
+2026-06-29,itviec,Internship Accepted,6,0.0,0.0,0.0
+2026-06-29,itviec,JSON,1,5.0,5.0,5.0
+2026-06-29,itviec,JUnit,1,5.0,5.0,5.0
+2026-06-29,itviec,Japanese,1,3.0,3.0,3.0
+2026-06-29,itviec,Java,23,4.0,0.0,8.0
+2026-06-29,itviec,JavaScript,17,3.0,1.0,8.0
+2026-06-29,itviec,Jira,8,3.5,2.0,10.0
+2026-06-29,itviec,Kafka,3,3.0,1.0,5.0
+2026-06-29,itviec,Kotlin,2,3.0,0.0,6.0
+2026-06-29,itviec,Kubernetes,36,3.5,2.0,7.0
+2026-06-29,itviec,LLM,12,4.0,3.0,7.0
+2026-06-29,itviec,Laravel,2,3.0,3.0,3.0
+2026-06-29,itviec,Leadership,3,6.0,5.0,8.0
+2026-06-29,itviec,Less,1,4.0,4.0,4.0
+2026-06-29,itviec,Linux,6,3.0,1.0,8.0
+2026-06-29,itviec,MLOps,4,6.0,3.0,7.0
+2026-06-29,itviec,Machine Learning,8,5.0,3.0,7.0
+2026-06-29,itviec,Microservices,4,4.5,3.0,7.0
+2026-06-29,itviec,Microservices Architecture,2,1.0,1.0,1.0
+2026-06-29,itviec,Mobile Apps,1,0.0,0.0,0.0
+2026-06-29,itviec,Mockups,1,1.0,1.0,1.0
+2026-06-29,itviec,MongoDB,9,5.0,1.0,7.0
+2026-06-29,itviec,MySQL,16,4.0,1.0,7.0
+2026-06-29,itviec,NLP,4,4.5,4.0,5.0
+2026-06-29,itviec,NextJS,3,3.0,2.0,3.0
+2026-06-29,itviec,NoSQL,1,3.0,3.0,3.0
+2026-06-29,itviec,Node.js,9,3.0,1.0,10.0
+2026-06-29,itviec,OOP,1,0.0,0.0,0.0
+2026-06-29,itviec,OWASP,1,5.0,5.0,5.0
+2026-06-29,itviec,Odoo,1,8.0,8.0,8.0
+2026-06-29,itviec,Oracle,3,8.0,3.0,8.0
+2026-06-29,itviec,OutSystems,1,5.0,5.0,5.0
+2026-06-29,itviec,PHP,5,3.0,1.0,3.0
+2026-06-29,itviec,Pandas,1,5.0,5.0,5.0
+2026-06-29,itviec,Pentest,3,2.0,2.0,2.0
+2026-06-29,itviec,Playwright,1,5.0,5.0,5.0
+2026-06-29,itviec,PostgreSQL,15,5.0,1.0,8.0
+2026-06-29,itviec,Postman,1,0.0,0.0,0.0
+2026-06-29,itviec,Power BI,5,2.0,1.0,3.0
+2026-06-29,itviec,PowerShell,5,3.0,2.0,3.0
+2026-06-29,itviec,Predictive Analytics,1,5.0,5.0,5.0
+2026-06-29,itviec,Product Management,1,3.0,3.0,3.0
+2026-06-29,itviec,Product Owner,1,2.0,2.0,2.0
+2026-06-29,itviec,Project Management,10,3.0,0.0,10.0
+2026-06-29,itviec,Prompt Engineering,2,0.5,0.0,1.0
+2026-06-29,itviec,PyTorch,2,4.5,4.0,5.0
+2026-06-29,itviec,Python,49,3.0,0.0,8.0
+2026-06-29,itviec,QA,11,5.0,0.0,8.0
+2026-06-29,itviec,QA QC,9,5.0,0.0,8.0
+2026-06-29,itviec,RTOS,1,1.0,1.0,1.0
+2026-06-29,itviec,React,14,3.5,1.0,10.0
+2026-06-29,itviec,React Native,1,7.0,7.0,7.0
+2026-06-29,itviec,Redis,10,4.5,1.0,7.0
+2026-06-29,itviec,Redux,1,7.0,7.0,7.0
+2026-06-29,itviec,Risk & Compliance,1,3.0,3.0,3.0
+2026-06-29,itviec,Risk Management,1,3.0,3.0,3.0
+2026-06-29,itviec,SAP,1,8.0,8.0,8.0
+2026-06-29,itviec,SIEM,4,2.5,2.0,3.0
+2026-06-29,itviec,SOAR,1,2.0,2.0,2.0
+2026-06-29,itviec,SQL,35,3.0,0.0,8.0
+2026-06-29,itviec,SRS,1,3.0,3.0,3.0
+2026-06-29,itviec,Scala,1,7.0,7.0,7.0
+2026-06-29,itviec,Scrum,8,3.0,2.0,10.0
+2026-06-29,itviec,Security,9,2.0,2.0,3.0
+2026-06-29,itviec,Security Awareness Training,1,3.0,3.0,3.0
+2026-06-29,itviec,Selenium,1,5.0,5.0,5.0
+2026-06-29,itviec,Software Architecture,4,4.5,2.0,5.0
+2026-06-29,itviec,Solution Architecture,2,9.5,7.0,12.0
+2026-06-29,itviec,Spring,4,5.0,3.0,6.0
+2026-06-29,itviec,Spring Boot,5,3.0,1.0,6.0
+2026-06-29,itviec,Stakeholder management,2,11.0,10.0,12.0
+2026-06-29,itviec,Swift,2,4.5,3.0,6.0
+2026-06-29,itviec,System Admin,2,3.5,3.0,4.0
+2026-06-29,itviec,System Architecture,3,7.0,4.0,8.0
+2026-06-29,itviec,T-SQL,1,1.0,1.0,1.0
+2026-06-29,itviec,Team Management,6,4.0,2.0,8.0
+2026-06-29,itviec,TensorFlow,1,4.0,4.0,4.0
+2026-06-29,itviec,Terraform,6,3.0,2.0,5.0
+2026-06-29,itviec,Tester,9,5.0,0.0,8.0
+2026-06-29,itviec,Trello,1,2.0,2.0,2.0
+2026-06-29,itviec,TypeScript,12,3.0,1.0,7.0
+2026-06-29,itviec,Unit test,1,5.0,5.0,5.0
+2026-06-29,itviec,Unix,1,5.0,5.0,5.0
+2026-06-29,itviec,User story,2,2.5,2.0,3.0
+2026-06-29,itviec,VMware,1,3.0,3.0,3.0
+2026-06-29,itviec,Vue,2,5.5,5.0,6.0
+2026-06-29,itviec,VueJS,1,5.0,5.0,5.0
+2026-06-29,itviec,Windows,1,2.0,2.0,2.0
+2026-06-29,itviec,Windows Server,1,3.0,3.0,3.0
+2026-06-29,itviec,Wordpress,1,1.0,1.0,1.0
+2026-06-29,itviec,iOS,3,7.0,6.0,8.0
+2026-06-29,topcv,(unknown),37,2.0,0.0,5.0
+2026-06-29,topcv,...),1,0.0,0.0,0.0
+2026-06-29,topcv,.NET,18,1.0,0.0,5.0
+2026-06-29,topcv,.net (c#),1,1.0,1.0,1.0
+2026-06-29,topcv,.net core,1,2.0,2.0,2.0
+2026-06-29,topcv,A B Testing,1,1.0,1.0,1.0
+2026-06-29,topcv,AI Agent,1,2.0,2.0,2.0
+2026-06-29,topcv,AI BA,1,2.0,2.0,2.0
+2026-06-29,topcv,AI Product,1,2.0,2.0,2.0
+2026-06-29,topcv,AI tooling,1,1.0,1.0,1.0
+2026-06-29,topcv,AI-based solutions,1,3.0,3.0,3.0
+2026-06-29,topcv,AI/Computer Vision,1,3.0,3.0,3.0
+2026-06-29,topcv,API,4,2.0,2.0,5.0
+2026-06-29,topcv,API Testing,2,1.0,0.0,2.0
+2026-06-29,topcv,API design and data access patterns,1,6.0,6.0,6.0
+2026-06-29,topcv,API/basic technical flow,1,2.0,2.0,2.0
+2026-06-29,topcv,ASP. Net,1,0.0,0.0,0.0
+2026-06-29,topcv,ASP.NET,1,1.0,1.0,1.0
+2026-06-29,topcv,ASP.NET MVC,1,2.0,2.0,2.0
+2026-06-29,topcv,AWS,10,2.5,0.0,10.0
+2026-06-29,topcv,Ability to manage complexity and cross-system dependencies,1,3.0,3.0,3.0
+2026-06-29,topcv,Account strategy development,1,4.0,4.0,4.0
+2026-06-29,topcv,Ads Monetization,1,2.0,2.0,2.0
+2026-06-29,topcv,Ads monetization optimizer,1,2.0,2.0,2.0
+2026-06-29,topcv,Agile,3,3.0,1.0,3.0
+2026-06-29,topcv,Agile/Scrum,4,2.5,1.0,3.0
+2026-06-29,topcv,Agile/Scrum Delivery,1,3.0,3.0,3.0
+2026-06-29,topcv,Am hiểu công nghệ thông tin,1,1.0,1.0,1.0
+2026-06-29,topcv,Amplitude),1,1.0,1.0,1.0
+2026-06-29,topcv,An Ninh Mạng,1,2.0,2.0,2.0
+2026-06-29,topcv,Analysis,2,3.0,3.0,3.0
+2026-06-29,topcv,Analytical Skills,1,0.0,0.0,0.0
+2026-06-29,topcv,Android,8,2.0,0.0,3.0
+2026-06-29,topcv,Android),3,2.0,1.0,2.0
+2026-06-29,topcv,Angular,6,3.0,0.0,3.0
+2026-06-29,topcv,Api Integrations,1,6.0,6.0,6.0
+2026-06-29,topcv,App monetization,1,2.0,2.0,2.0
+2026-06-29,topcv,Asp.net Core,1,2.0,2.0,2.0
+2026-06-29,topcv,Asset Management (importing,1,2.0,2.0,2.0
+2026-06-29,topcv,Authentication,3,2.0,2.0,5.0
+2026-06-29,topcv,Automation Test,2,2.0,2.0,2.0
+2026-06-29,topcv,Automation Testing,2,1.0,0.0,2.0
+2026-06-29,topcv,Automation testing on web-based/mobile/API/desktop applications,1,1.0,1.0,1.0
+2026-06-29,topcv,Azure,2,4.5,3.0,6.0
+2026-06-29,topcv,BI,2,1.0,1.0,1.0
+2026-06-29,topcv,Backend,3,2.0,2.0,5.0
+2026-06-29,topcv,Banking,2,3.0,3.0,3.0
+2026-06-29,topcv,Bootstrap,1,2.0,2.0,2.0
+2026-06-29,topcv,Budget Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Business Analyst,3,3.0,2.0,3.0
+2026-06-29,topcv,Business acumen,1,4.0,4.0,4.0
+2026-06-29,topcv,Bảo Hiểm,1,3.0,3.0,3.0
+2026-06-29,topcv,Bảo Trì Máy Tiện,1,2.0,2.0,2.0
+2026-06-29,topcv,C#,23,1.0,0.0,4.0
+2026-06-29,topcv,C# Programming (unity),1,2.0,2.0,2.0
+2026-06-29,topcv,C++,2,0.5,0.0,1.0
+2026-06-29,topcv,C/C++,1,2.0,2.0,2.0
+2026-06-29,topcv,CCBA,1,2.0,2.0,2.0
+2026-06-29,topcv,CCTV systems,1,2.0,2.0,2.0
+2026-06-29,topcv,CI/CD,2,1.5,1.0,2.0
+2026-06-29,topcv,CI/CD pipelines,1,1.0,1.0,1.0
+2026-06-29,topcv,COBOL,1,3.0,3.0,3.0
+2026-06-29,topcv,CPT),1,6.0,6.0,6.0
+2026-06-29,topcv,CRM,2,2.5,2.0,3.0
+2026-06-29,topcv,CSS,4,1.5,0.0,2.0
+2026-06-29,topcv,Change Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Chatbot,1,2.0,2.0,2.0
+2026-06-29,topcv,Chụp Ảnh,1,3.0,3.0,3.0
+2026-06-29,topcv,Clear communication,1,3.0,3.0,3.0
+2026-06-29,topcv,Cloud Services,1,2.0,2.0,2.0
+2026-06-29,topcv,Cloud platforms (AWS),1,1.0,1.0,1.0
+2026-06-29,topcv,Cloud solutions,1,4.0,4.0,4.0
+2026-06-29,topcv,Cloud-native databases (Azure SQL),1,6.0,6.0,6.0
+2026-06-29,topcv,Collections),1,4.0,4.0,4.0
+2026-06-29,topcv,Communication,6,2.5,1.0,3.0
+2026-06-29,topcv,Communication Skills (written And Verbal),1,0.0,0.0,0.0
+2026-06-29,topcv,Competitive Analysis,1,1.0,1.0,1.0
+2026-06-29,topcv,Control printer and copier,2,1.0,1.0,1.0
+2026-06-29,topcv,Coordinator,1,1.0,1.0,1.0
+2026-06-29,topcv,Cost Awareness,1,3.0,3.0,3.0
+2026-06-29,topcv,Customer Experience,1,2.0,2.0,2.0
+2026-06-29,topcv,Customer Relationship Management,1,4.0,4.0,4.0
+2026-06-29,topcv,Cutting,2,1.0,1.0,1.0
+2026-06-29,topcv,Cơ Sở Dữ Liệu,1,0.0,0.0,0.0
+2026-06-29,topcv,Cấu Trúc Dữ Liệu Và Giải Thuật,1,0.0,0.0,0.0
+2026-06-29,topcv,DB2,2,4.0,3.0,5.0
+2026-06-29,topcv,DHCP,1,1.0,1.0,1.0
+2026-06-29,topcv,DNS,1,1.0,1.0,1.0
+2026-06-29,topcv,Data Analysis,2,2.0,1.0,3.0
+2026-06-29,topcv,Data governance and compliance,1,6.0,6.0,6.0
+2026-06-29,topcv,Database,3,2.0,1.0,2.0
+2026-06-29,topcv,Database Performance Tuning,1,5.0,5.0,5.0
+2026-06-29,topcv,Databases (sql,1,4.0,4.0,4.0
+2026-06-29,topcv,Design Pattern,2,0.5,0.0,1.0
+2026-06-29,topcv,DevOps,9,4.0,1.0,10.0
+2026-06-29,topcv,DevSecOps,1,1.0,1.0,1.0
+2026-06-29,topcv,Distributed Systems,1,2.0,2.0,2.0
+2026-06-29,topcv,Distributed microservice systems,1,1.0,1.0,1.0
+2026-06-29,topcv,Django),1,1.0,1.0,1.0
+2026-06-29,topcv,Docker,17,2.0,0.0,5.0
+2026-06-29,topcv,Documentation,2,3.0,3.0,3.0
+2026-06-29,topcv,EDI,1,6.0,6.0,6.0
+2026-06-29,topcv,ERP,4,2.0,1.0,3.0
+2026-06-29,topcv,ETL design and migration using SSIS,1,6.0,6.0,6.0
+2026-06-29,topcv,Electron.js,1,1.0,1.0,1.0
+2026-06-29,topcv,English,1,3.0,3.0,3.0
+2026-06-29,topcv,English Communication,2,2.0,1.0,3.0
+2026-06-29,topcv,Entity Framework Code-First schema design,1,6.0,6.0,6.0
+2026-06-29,topcv,Erp),1,2.0,2.0,2.0
+2026-06-29,topcv,Excel,1,3.0,3.0,3.0
+2026-06-29,topcv,Experience in banking,1,3.0,3.0,3.0
+2026-06-29,topcv,Experience in fintech,1,3.0,3.0,3.0
+2026-06-29,topcv,Experience in regulated environments,1,3.0,3.0,3.0
+2026-06-29,topcv,FHIR,1,6.0,6.0,6.0
+2026-06-29,topcv,FHIR data models,1,6.0,6.0,6.0
+2026-06-29,topcv,Figma,2,3.0,3.0,3.0
+2026-06-29,topcv,Finance,2,3.0,3.0,3.0
+2026-06-29,topcv,Firebase,1,1.0,1.0,1.0
+2026-06-29,topcv,Firewall,1,1.0,1.0,1.0
+2026-06-29,topcv,Fix bug,1,2.0,2.0,2.0
+2026-06-29,topcv,Flowchart/BPMN/System Flow,1,2.0,2.0,2.0
+2026-06-29,topcv,Fluent English,1,5.0,5.0,5.0
+2026-06-29,topcv,Fluent Japanese,1,5.0,5.0,5.0
+2026-06-29,topcv,Flutter,2,3.0,3.0,3.0
+2026-06-29,topcv,GCP,2,3.5,2.0,5.0
+2026-06-29,topcv,GRAPHQL,1,1.0,1.0,1.0
+2026-06-29,topcv,Game Design (puzzle & Casual),1,2.0,2.0,2.0
+2026-06-29,topcv,Giao tiếp,9,2.0,0.0,10.0
+2026-06-29,topcv,Giao tiếp hiệu quả,1,2.0,2.0,2.0
+2026-06-29,topcv,Giao tiếp kỹ thuật với IT/Tech,1,2.0,2.0,2.0
+2026-06-29,topcv,Git,2,3.0,2.0,4.0
+2026-06-29,topcv,Giải Thuật Và Cấu Trúc Dữ Liệu,1,1.0,1.0,1.0
+2026-06-29,topcv,Giải quyết vấn đề,11,2.0,0.0,10.0
+2026-06-29,topcv,Giảng dạy lập trình,1,1.0,1.0,1.0
+2026-06-29,topcv,Go,3,3.0,0.0,4.0
+2026-06-29,topcv,Good English,1,1.0,1.0,1.0
+2026-06-29,topcv,Google Docs,1,2.0,2.0,2.0
+2026-06-29,topcv,Grafana),1,1.0,1.0,1.0
+2026-06-29,topcv,HTML,4,1.5,0.0,2.0
+2026-06-29,topcv,Healthcare data standards (HL7,1,6.0,6.0,6.0
+2026-06-29,topcv,Healthcare terminologies (SNOMED CT,1,6.0,6.0,6.0
+2026-06-29,topcv,High ownership and accountability,1,3.0,3.0,3.0
+2026-06-29,topcv,Hiểu Biết Về An Ninh Mạng (cyber Security),1,1.0,1.0,1.0
+2026-06-29,topcv,Hiểu Biết Về Cơ Sở Hạ Tầng It,1,3.0,3.0,3.0
+2026-06-29,topcv,Hiểu Biết Về E Learning Và Thiết Kế Hướng Dẫn,1,2.0,2.0,2.0
+2026-06-29,topcv,Hiểu Biết Về Gia Công Cnc,1,2.0,2.0,2.0
+2026-06-29,topcv,Hiểu Biết Về Quy Trình Sản Xuất Phần Cứng,1,2.0,2.0,2.0
+2026-06-29,topcv,Hiểu biết về Vision,1,3.0,3.0,3.0
+2026-06-29,topcv,Hiểu biết về biến tần,1,3.0,3.0,3.0
+2026-06-29,topcv,Hệ điều khiển Servo các hãng thông dụng,1,3.0,3.0,3.0
+2026-06-29,topcv,Học hỏi nhanh,1,0.0,0.0,0.0
+2026-06-29,topcv,Hỗ Trợ Người Dùng,1,2.0,2.0,2.0
+2026-06-29,topcv,Hợp Kim),1,1.0,1.0,1.0
+2026-06-29,topcv,ICD-10,1,6.0,6.0,6.0
+2026-06-29,topcv,IPT,1,1.0,1.0,1.0
+2026-06-29,topcv,ISTQB certification,1,2.0,2.0,2.0
+2026-06-29,topcv,IT Helpdesk,1,1.0,1.0,1.0
+2026-06-29,topcv,IT Outsourcing,1,3.0,3.0,3.0
+2026-06-29,topcv,IT Support,1,1.0,1.0,1.0
+2026-06-29,topcv,Integration Patterns,1,2.0,2.0,2.0
+2026-06-29,topcv,Integration Testing),1,5.0,5.0,5.0
+2026-06-29,topcv,IoT devices,1,2.0,2.0,2.0
+2026-06-29,topcv,Ip Networking,1,2.0,2.0,2.0
+2026-06-29,topcv,Issue Management,1,3.0,3.0,3.0
+2026-06-29,topcv,JQuery,1,2.0,2.0,2.0
+2026-06-29,topcv,JWT,1,1.0,1.0,1.0
+2026-06-29,topcv,Japanese development experience,1,5.0,5.0,5.0
+2026-06-29,topcv,Java,27,3.0,0.0,8.0
+2026-06-29,topcv,Java (core Java,2,4.5,4.0,5.0
+2026-06-29,topcv,Java 8+,1,3.0,3.0,3.0
+2026-06-29,topcv,JavaScript,15,2.0,0.0,5.0
+2026-06-29,topcv,Javascrip,2,0.5,0.0,1.0
+2026-06-29,topcv,Javascript,3,0.0,0.0,2.0
+2026-06-29,topcv,Jira,3,3.0,1.0,3.0
+2026-06-29,topcv,Job queue,1,1.0,1.0,1.0
+2026-06-29,topcv,Junit,1,1.0,1.0,1.0
+2026-06-29,topcv,Khả Năng Học Hỏi Nhanh,2,1.0,0.0,2.0
+2026-06-29,topcv,Khả Năng Đi Công Tác,1,0.0,0.0,0.0
+2026-06-29,topcv,Khả năng giải quyết vấn đề,2,2.0,2.0,2.0
+2026-06-29,topcv,Khảo sát nghiệp vụ,1,1.0,1.0,1.0
+2026-06-29,topcv,Khắc Phục Sự Cố Máy Tính,1,2.0,2.0,2.0
+2026-06-29,topcv,Kinh Nghiệm Bán Hàng Tư Vấn Giải Pháp Cntt (cyber Security),1,1.0,1.0,1.0
+2026-06-29,topcv,Kinh Nghiệm Làm Việc Trong Lĩnh Vực Pc Gaming,1,2.0,2.0,2.0
+2026-06-29,topcv,Kinh Nghiệm Lập Trình (dự Án Cá Nhân,1,0.0,0.0,0.0
+2026-06-29,topcv,Kinh Nghiệm Phát Triển Game Mobile (ios,1,1.0,1.0,1.0
+2026-06-29,topcv,Kinh Nghiệm Với Các Loại Máy Tiện Khác Nhau,1,2.0,2.0,2.0
+2026-06-29,topcv,Kinh Nghiệm Với Các Phần Mềm Cad Cam,1,2.0,2.0,2.0
+2026-06-29,topcv,Kinh nghiệm làm việc trong nhà máy FDI Nhật hoặc doanh nghiệp vốn đầu tư nước ngoài,1,3.0,3.0,3.0
+2026-06-29,topcv,Kiến Thức Thị Trường Chứng Khoán,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về An Toàn Thông Tin,1,1.0,1.0,1.0
+2026-06-29,topcv,Kiến Thức Về Crm (salesforce,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Các Công Cụ Quản Lý Phiên Bản (git),1,0.0,0.0,0.0
+2026-06-29,topcv,Kiến Thức Về Hệ Thống (ví Dụ: Crm,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Hệ Thống Quản Lý Chất Lượng,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Hệ Thống Và Mạng,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Hệ Điều Hành Windows Và Macos,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Iap (in App Purchases),1,1.0,1.0,1.0
+2026-06-29,topcv,Kiến Thức Về Kiểm Thử Phần Mềm,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Lĩnh Vực Kỹ Thuật Liên Quan,1,5.0,5.0,5.0
+2026-06-29,topcv,Kiến Thức Về Lập Trình Cơ Bản,1,0.0,0.0,0.0
+2026-06-29,topcv,Kiến Thức Về Một Ngôn Ngữ Lập Trình Cụ Thể (python,1,0.0,0.0,0.0
+2026-06-29,topcv,Kiến Thức Về Phần Cứng Máy Tính,2,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Phần Cứng Và Phần Mềm,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Quy Trình Dập,1,1.0,1.0,1.0
+2026-06-29,topcv,Kiến Thức Về Quy Trình Sản Xuất,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Thiết Kế Game (game Design),1,1.0,1.0,1.0
+2026-06-29,topcv,Kiến Thức Về Vật Liệu,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiến Thức Về Vật Liệu (thép,1,1.0,1.0,1.0
+2026-06-29,topcv,Kiến Trúc Phần Mềm,2,2.5,0.0,5.0
+2026-06-29,topcv,Kiến thức Tài chính doanh nghiệp,1,0.0,0.0,0.0
+2026-06-29,topcv,Kiến thức chuyên môn về sản phẩm kính mắt và bao bì,1,0.0,0.0,0.0
+2026-06-29,topcv,Kiến thức nền tảng phù hợp với vị trí,1,0.0,0.0,0.0
+2026-06-29,topcv,Kiểm Thử Chức Năng,1,3.0,3.0,3.0
+2026-06-29,topcv,Kiểm Thử Phần Mềm (unit Testing,1,5.0,5.0,5.0
+2026-06-29,topcv,Kiểm Thử Tích Hợp,1,3.0,3.0,3.0
+2026-06-29,topcv,Kiểm Tra Chất Lượng Sản Phẩm,1,1.0,1.0,1.0
+2026-06-29,topcv,Kiểm Tra Và Hiệu Chỉnh Máy,1,2.0,2.0,2.0
+2026-06-29,topcv,Kiểm thử Automation (là lợi thế),1,3.0,3.0,3.0
+2026-06-29,topcv,Kiểm thử hiệu suất,1,3.0,3.0,3.0
+2026-06-29,topcv,Kiểm thử nghiệm thu,1,3.0,3.0,3.0
+2026-06-29,topcv,Kotlin,3,2.0,0.0,3.0
+2026-06-29,topcv,Kubernetes,8,3.5,1.0,5.0
+2026-06-29,topcv,Kỹ Năng Báo Cáo Lỗi,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Giao Tiếp Và Làm Việc Nhóm,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Giao Tiếp Và Đàm Phán,1,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Lập Kế Hoạch,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Lập Kế Hoạch Và Quản Lý Dự Án,1,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Lập Trình G Code,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Lập Trình Máy Cnc,1,1.0,1.0,1.0
+2026-06-29,topcv,Kỹ Năng Phân Tích Dữ Liệu,2,3.5,2.0,5.0
+2026-06-29,topcv,Kỹ Năng Phân Tích Và Giải Quyết Vấn Đề,1,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Phân Tích Yêu Cầu,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Quản Lý Chất Lượng,1,5.0,5.0,5.0
+2026-06-29,topcv,Kỹ Năng Quản Lý Dự Án,2,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Quản Lý Xung Đột,1,5.0,5.0,5.0
+2026-06-29,topcv,Kỹ Năng Quản Lý Đội Nhóm,2,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Sử Dụng Các Công Cụ Quản Lý Dự Án,1,5.0,5.0,5.0
+2026-06-29,topcv,Kỹ Năng Sử Dụng Các Công Cụ Quản Lý Sản Phẩm (jira,1,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Thuyết Trình Và Trình Bày,1,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Triển Khai Phần Mềm,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Triển Khai Và Cấu Hình,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Tổ Chức Và Quản Lý Thời Gian,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Viết Code Sạch Và Dễ Đọc,1,0.0,0.0,0.0
+2026-06-29,topcv,Kỹ Năng Viết Test Case,1,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ Năng Viết Tài Liệu,1,3.0,3.0,3.0
+2026-06-29,topcv,Kỹ Năng Đào Tạo Và Hướng Dẫn,1,5.0,5.0,5.0
+2026-06-29,topcv,Kỹ năng bán hàng,2,0.5,0.0,1.0
+2026-06-29,topcv,Kỹ năng báo cáo,1,5.0,5.0,5.0
+2026-06-29,topcv,Kỹ năng giao tiếp,5,2.0,0.0,2.0
+2026-06-29,topcv,Kỹ năng giải quyết vấn đề,2,2.0,2.0,2.0
+2026-06-29,topcv,Kỹ năng giảng dạy,1,0.0,0.0,0.0
+2026-06-29,topcv,Kỹ năng làm việc nhóm,4,2.5,0.0,5.0
+2026-06-29,topcv,Kỹ năng sư phạm,1,0.0,0.0,0.0
+2026-06-29,topcv,Kỹ năng xử lý sự cố IT,1,1.0,1.0,1.0
+2026-06-29,topcv,Kỹ năng xử lý tình huống,1,0.0,0.0,0.0
+2026-06-29,topcv,Kỹ năng đàm phán,2,3.5,2.0,5.0
+2026-06-29,topcv,LOINC,1,6.0,6.0,6.0
+2026-06-29,topcv,Laravel,5,2.0,2.0,2.0
+2026-06-29,topcv,Laravel Framework,1,2.0,2.0,2.0
+2026-06-29,topcv,Large-scale HIS/EMR implementations or migrations,1,6.0,6.0,6.0
+2026-06-29,topcv,LinQ,1,2.0,2.0,2.0
+2026-06-29,topcv,Linux,1,2.0,2.0,2.0
+2026-06-29,topcv,Làm bài tập lớn/đồ án thiết kế cơ sở dữ liệu,1,0.0,0.0,0.0
+2026-06-29,topcv,Làm việc nhóm,9,1.0,0.0,3.0
+2026-06-29,topcv,Lãnh đạo,2,3.5,2.0,5.0
+2026-06-29,topcv,Lên kế hoạch và theo dõi tiến độ,1,1.0,1.0,1.0
+2026-06-29,topcv,Lập Kế Hoạch,5,2.0,0.0,10.0
+2026-06-29,topcv,Lập Kế Hoạch Dự Án,2,3.0,1.0,5.0
+2026-06-29,topcv,Lập Kế Hoạch Kinh Doanh,2,3.0,3.0,3.0
+2026-06-29,topcv,Lập Kế Hoạch Marketing,1,2.0,2.0,2.0
+2026-06-29,topcv,Lập Trình,1,3.0,3.0,3.0
+2026-06-29,topcv,Lập Trình C# Hoặc Unity,1,1.0,1.0,1.0
+2026-06-29,topcv,Lập Trình Cnc,1,3.0,3.0,3.0
+2026-06-29,topcv,Lập Trình Cnc (g Code),1,2.0,2.0,2.0
+2026-06-29,topcv,Lập Trình Java,1,1.0,1.0,1.0
+2026-06-29,topcv,Lập Trình Máy Cnc (tùy Thuộc Vào Loại Máy),1,1.0,1.0,1.0
+2026-06-29,topcv,Lập Trình Python,1,1.0,1.0,1.0
+2026-06-29,topcv,Lập trình giao diện HMI Mitsubishi,1,3.0,3.0,3.0
+2026-06-29,topcv,MES system,2,1.0,1.0,1.0
+2026-06-29,topcv,MacOS,1,1.0,1.0,1.0
+2026-06-29,topcv,Managed Services,1,4.0,4.0,4.0
+2026-06-29,topcv,Managing multiple projects,1,3.0,3.0,3.0
+2026-06-29,topcv,Manual Tester,2,1.0,1.0,1.0
+2026-06-29,topcv,Manual Testing,2,1.0,0.0,2.0
+2026-06-29,topcv,Marketing Automation,1,2.0,2.0,2.0
+2026-06-29,topcv,Marketing Trên Mạng Xã Hội,1,1.0,1.0,1.0
+2026-06-29,topcv,Message Queue,1,1.0,1.0,1.0
+2026-06-29,topcv,Message Queues,1,2.0,2.0,2.0
+2026-06-29,topcv,Microservice,1,3.0,3.0,3.0
+2026-06-29,topcv,Microservices,1,2.0,2.0,2.0
+2026-06-29,topcv,Microsoft 365 (O365),1,1.0,1.0,1.0
+2026-06-29,topcv,Microsoft Dynamics,1,2.0,2.0,2.0
+2026-06-29,topcv,Miro,2,3.0,3.0,3.0
+2026-06-29,topcv,Misa,1,1.0,1.0,1.0
+2026-06-29,topcv,Mobile Analytics Tools (e.g.,1,1.0,1.0,1.0
+2026-06-29,topcv,Mobile App Development Knowledge,1,1.0,1.0,1.0
+2026-06-29,topcv,Mobile App Monetization,1,2.0,2.0,2.0
+2026-06-29,topcv,Mobile Game Development (ios & Android),1,2.0,2.0,2.0
+2026-06-29,topcv,Mobile Marketing,1,1.0,1.0,1.0
+2026-06-29,topcv,Mobile applications,1,2.0,2.0,2.0
+2026-06-29,topcv,MongoDB,10,3.5,1.0,5.0
+2026-06-29,topcv,Monitoring,1,1.0,1.0,1.0
+2026-06-29,topcv,Monitoring tools (Prometheus,1,1.0,1.0,1.0
+2026-06-29,topcv,Multithreading,1,4.0,4.0,4.0
+2026-06-29,topcv,MySQL,19,3.0,0.0,8.0
+2026-06-29,topcv,NVRs,1,2.0,2.0,2.0
+2026-06-29,topcv,Negotiation,1,4.0,4.0,4.0
+2026-06-29,topcv,Nestjs,2,2.5,1.0,4.0
+2026-06-29,topcv,Network cơ bản,1,1.0,1.0,1.0
+2026-06-29,topcv,Nghiên Cứu Thị Trường,1,2.0,2.0,2.0
+2026-06-29,topcv,Nghiệp Vụ Kinh Doanh,1,1.0,1.0,1.0
+2026-06-29,topcv,Ngân Hàng,1,3.0,3.0,3.0
+2026-06-29,topcv,Ngân Sách Marketing,1,2.0,2.0,2.0
+2026-06-29,topcv,NoSQL,1,0.0,0.0,0.0
+2026-06-29,topcv,Node.js,9,1.0,0.0,5.0
+2026-06-29,topcv,Nosql),1,4.0,4.0,4.0
+2026-06-29,topcv,OAuth,1,1.0,1.0,1.0
+2026-06-29,topcv,OOP,1,1.0,1.0,1.0
+2026-06-29,topcv,OWSAP,1,5.0,5.0,5.0
+2026-06-29,topcv,Odoo ERP,1,1.0,1.0,1.0
+2026-06-29,topcv,Offshore development,1,3.0,3.0,3.0
+2026-06-29,topcv,Omron,1,3.0,3.0,3.0
+2026-06-29,topcv,Onboarding nhà đầu tư mới,1,2.0,2.0,2.0
+2026-06-29,topcv,Optimization),1,2.0,2.0,2.0
+2026-06-29,topcv,Oracle,2,4.0,3.0,5.0
+2026-06-29,topcv,PHP,8,2.0,0.0,2.0
+2026-06-29,topcv,PMI-ACP certification,1,3.0,3.0,3.0
+2026-06-29,topcv,PMP certification,1,3.0,3.0,3.0
+2026-06-29,topcv,Phát Triển Game Mobile (ios,2,2.0,2.0,2.0
+2026-06-29,topcv,Phát Triển Phần Mềm,1,0.0,0.0,0.0
+2026-06-29,topcv,Phân Quyền,2,2.0,2.0,2.0
+2026-06-29,topcv,Phân Tích Cạnh Tranh,1,2.0,2.0,2.0
+2026-06-29,topcv,Phân Tích Dữ Liệu Marketing,1,2.0,2.0,2.0
+2026-06-29,topcv,Phân Tích Kỹ Thuật,1,5.0,5.0,5.0
+2026-06-29,topcv,Phân Tích Nghiệp Vụ,4,3.0,1.0,5.0
+2026-06-29,topcv,Phân Tích Thị Trường,3,3.0,3.0,3.0
+2026-06-29,topcv,Phân tích,3,0.0,0.0,10.0
+2026-06-29,topcv,Phân tích dữ liệu,5,2.0,1.0,3.0
+2026-06-29,topcv,Phân tích sản phẩm,1,2.0,2.0,2.0
+2026-06-29,topcv,Phân tích tài liệu nghiệp vụ,1,3.0,3.0,3.0
+2026-06-29,topcv,Phân tích và tư vấn yêu cầu phần mềm,1,1.0,1.0,1.0
+2026-06-29,topcv,Phân tích vấn đề,2,1.0,0.0,2.0
+2026-06-29,topcv,PostgreSQL,17,3.0,1.0,8.0
+2026-06-29,topcv,Postman,1,2.0,2.0,2.0
+2026-06-29,topcv,Power BI,1,3.0,3.0,3.0
+2026-06-29,topcv,Presentation,5,3.0,2.0,4.0
+2026-06-29,topcv,Presentation Skills,1,1.0,1.0,1.0
+2026-06-29,topcv,Pro-face,1,3.0,3.0,3.0
+2026-06-29,topcv,Proactive risk management,1,3.0,3.0,3.0
+2026-06-29,topcv,Problem Solving,1,2.0,2.0,2.0
+2026-06-29,topcv,Problem-solving,3,3.0,0.0,3.0
+2026-06-29,topcv,Product Backlog Management,1,1.0,1.0,1.0
+2026-06-29,topcv,Project Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Project Manager,1,3.0,3.0,3.0
+2026-06-29,topcv,Project Planning,1,3.0,3.0,3.0
+2026-06-29,topcv,Prompt Engineering,1,2.0,2.0,2.0
+2026-06-29,topcv,Python,16,1.5,0.0,6.0
+2026-06-29,topcv,Python Programming,1,1.0,1.0,1.0
+2026-06-29,topcv,Python RESTful frameworks (FastAPI,1,1.0,1.0,1.0
+2026-06-29,topcv,QA,4,2.0,0.0,3.0
+2026-06-29,topcv,Quy trình test,1,1.0,1.0,1.0
+2026-06-29,topcv,Quản Lý Chiến Dịch Marketing,1,2.0,2.0,2.0
+2026-06-29,topcv,Quản Lý Cơ Sở Hạ Tầng,1,3.0,3.0,3.0
+2026-06-29,topcv,Quản Lý Dự Án,8,2.0,0.0,10.0
+2026-06-29,topcv,Quản Lý Dự Án Phần Mềm,1,5.0,5.0,5.0
+2026-06-29,topcv,Quản Lý Mối Quan Hệ Khách Hàng,1,0.0,0.0,0.0
+2026-06-29,topcv,Quản Lý Nguồn Lực,1,1.0,1.0,1.0
+2026-06-29,topcv,Quản Lý Ngân Sách,5,1.0,0.0,10.0
+2026-06-29,topcv,Quản Lý Phiên Bản (git),2,2.0,2.0,2.0
+2026-06-29,topcv,Quản Lý Rủi Ro,3,2.0,1.0,5.0
+2026-06-29,topcv,Quản Lý Số Liệu,2,3.0,3.0,3.0
+2026-06-29,topcv,Quản Lý Tài Liệu,1,3.0,3.0,3.0
+2026-06-29,topcv,Quản Lý Vòng Đời Sản Phẩm,1,2.0,2.0,2.0
+2026-06-29,topcv,Quản Lý Đội Nhóm,4,1.0,0.0,10.0
+2026-06-29,topcv,Quản Trị Cơ Sở Dữ Liệu,1,2.0,2.0,2.0
+2026-06-29,topcv,Quản Trị Mạng,1,2.0,2.0,2.0
+2026-06-29,topcv,Quản lý thời gian,2,3.0,1.0,5.0
+2026-06-29,topcv,Quản trị mạng LAN,1,1.0,1.0,1.0
+2026-06-29,topcv,RAG/Automation workflow,1,2.0,2.0,2.0
+2026-06-29,topcv,REST API,1,1.0,1.0,1.0
+2026-06-29,topcv,RESTful API,1,0.0,0.0,0.0
+2026-06-29,topcv,RESTful APIs,2,3.0,2.0,4.0
+2026-06-29,topcv,Ra Quyết Định,3,0.0,0.0,10.0
+2026-06-29,topcv,React,13,2.0,0.0,5.0
+2026-06-29,topcv,React Native,1,2.0,2.0,2.0
+2026-06-29,topcv,Real-time or batch data processing,1,6.0,6.0,6.0
+2026-06-29,topcv,Redis,17,3.0,0.0,8.0
+2026-06-29,topcv,Redis caching,1,1.0,1.0,1.0
+2026-06-29,topcv,Relational and non-relational databases,1,1.0,1.0,1.0
+2026-06-29,topcv,Relational database modelling,1,6.0,6.0,6.0
+2026-06-29,topcv,Repair machines,2,1.0,1.0,1.0
+2026-06-29,topcv,Requirements Gathering,2,3.0,3.0,3.0
+2026-06-29,topcv,Resource Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Restful,1,5.0,5.0,5.0
+2026-06-29,topcv,Risk Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Roadmap,1,3.0,3.0,3.0
+2026-06-29,topcv,Routing,1,2.0,2.0,2.0
+2026-06-29,topcv,Rxjs,1,2.0,2.0,2.0
+2026-06-29,topcv,SCRUM,1,1.0,1.0,1.0
+2026-06-29,topcv,SDLC,2,3.0,3.0,3.0
+2026-06-29,topcv,SNMP,1,1.0,1.0,1.0
+2026-06-29,topcv,SQL,39,2.0,0.0,6.0
+2026-06-29,topcv,SQL Server,3,3.0,2.0,5.0
+2026-06-29,topcv,SQL Server design and optimization,1,6.0,6.0,6.0
+2026-06-29,topcv,SQL queries,1,3.0,3.0,3.0
+2026-06-29,topcv,SaaS/Product company,1,2.0,2.0,2.0
+2026-06-29,topcv,Sales experience in IT Infrastructure,1,4.0,4.0,4.0
+2026-06-29,topcv,Scope Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Scrum Master certification,1,3.0,3.0,3.0
+2026-06-29,topcv,Scrum master,1,3.0,3.0,3.0
+2026-06-29,topcv,Security,1,1.0,1.0,1.0
+2026-06-29,topcv,Security Best Practices,1,1.0,1.0,1.0
+2026-06-29,topcv,Selenium,1,1.0,1.0,1.0
+2026-06-29,topcv,Server-side logic,1,1.0,1.0,1.0
+2026-06-29,topcv,Setup and run AP wifi,2,1.0,1.0,1.0
+2026-06-29,topcv,Setup window OS,2,1.0,1.0,1.0
+2026-06-29,topcv,Siemens,1,3.0,3.0,3.0
+2026-06-29,topcv,Software Developer,1,3.0,3.0,3.0
+2026-06-29,topcv,Software Testing,1,0.0,0.0,0.0
+2026-06-29,topcv,Solid,1,3.0,3.0,3.0
+2026-06-29,topcv,Spring,1,5.0,5.0,5.0
+2026-06-29,topcv,Spring Boot,1,3.0,3.0,3.0
+2026-06-29,topcv,Spring Boot),1,5.0,5.0,5.0
+2026-06-29,topcv,Spring Data JPA,1,3.0,3.0,3.0
+2026-06-29,topcv,Spring Data),1,4.0,4.0,4.0
+2026-06-29,topcv,Spring Framework (spring Boot,1,4.0,4.0,4.0
+2026-06-29,topcv,Spring Mvc,1,4.0,4.0,4.0
+2026-06-29,topcv,Spring Security,1,3.0,3.0,3.0
+2026-06-29,topcv,Stakeholder Management,2,3.5,3.0,4.0
+2026-06-29,topcv,Strong execution and coordination capability,1,3.0,3.0,3.0
+2026-06-29,topcv,Strong relationships with IT vendors,1,4.0,4.0,4.0
+2026-06-29,topcv,Support CCTV,2,1.0,1.0,1.0
+2026-06-29,topcv,Support RFID scanning system,2,1.0,1.0,1.0
+2026-06-29,topcv,Support SQDC,2,1.0,1.0,1.0
+2026-06-29,topcv,Support attendance machines,2,1.0,1.0,1.0
+2026-06-29,topcv,Support email system,2,1.0,1.0,1.0
+2026-06-29,topcv,Support end users,2,1.0,1.0,1.0
+2026-06-29,topcv,Support meeting,2,1.0,1.0,1.0
+2026-06-29,topcv,Support network connection,2,1.0,1.0,1.0
+2026-06-29,topcv,Support speaker system,2,1.0,1.0,1.0
+2026-06-29,topcv,Support telephone system,2,1.0,1.0,1.0
+2026-06-29,topcv,Swift,2,1.0,0.0,2.0
+2026-06-29,topcv,Switching,1,2.0,2.0,2.0
+2026-06-29,topcv,System Design,1,5.0,5.0,5.0
+2026-06-29,topcv,Sản phẩm tài chính số,1,2.0,2.0,2.0
+2026-06-29,topcv,Sử Dụng Các Dụng Cụ Đo Kiểm,1,2.0,2.0,2.0
+2026-06-29,topcv,Sử Dụng Các Dụng Cụ Đo Lường,1,1.0,1.0,1.0
+2026-06-29,topcv,Sử Dụng Phần Mềm Soạn Thảo Văn Bản (word,1,2.0,2.0,2.0
+2026-06-29,topcv,Sử Dụng Sql,1,3.0,3.0,3.0
+2026-06-29,topcv,Sử dụng Nx,1,3.0,3.0,3.0
+2026-06-29,topcv,Sử dụng công cụ AI và nền tảng tự động hóa,1,0.0,0.0,0.0
+2026-06-29,topcv,Sử dụng cơ bản Autocad,1,3.0,3.0,3.0
+2026-06-29,topcv,Sử dụng hệ thống CRM,1,0.0,0.0,0.0
+2026-06-29,topcv,Sử dụng phần mềm office văn phòng,1,3.0,3.0,3.0
+2026-06-29,topcv,TCP/IP,1,2.0,2.0,2.0
+2026-06-29,topcv,Teamwork,2,0.5,0.0,1.0
+2026-06-29,topcv,Technical Aptitude,1,0.0,0.0,0.0
+2026-06-29,topcv,Technical Writing,1,1.0,1.0,1.0
+2026-06-29,topcv,Test API,1,1.0,1.0,1.0
+2026-06-29,topcv,Test Case,1,0.0,0.0,0.0
+2026-06-29,topcv,Test scenario,1,0.0,0.0,0.0
+2026-06-29,topcv,Tester,21,2.0,0.0,5.0
+2026-06-29,topcv,Testing,1,3.0,3.0,3.0
+2026-06-29,topcv,Tham gia thực tập dự án nhỏ,1,0.0,0.0,0.0
+2026-06-29,topcv,Theo dõi fix lỗi,1,2.0,2.0,2.0
+2026-06-29,topcv,Thiết Kế Và Phát Triển Phần Mềm,1,5.0,5.0,5.0
+2026-06-29,topcv,Thiết kế,1,3.0,3.0,3.0
+2026-06-29,topcv,Thiết kế giải pháp,1,3.0,3.0,3.0
+2026-06-29,topcv,Thiết lập và vận hành CRM/CDP,1,2.0,2.0,2.0
+2026-06-29,topcv,Thu Thập Và Phân Tích Dữ Liệu,1,5.0,5.0,5.0
+2026-06-29,topcv,Thuyết trình,3,2.0,1.0,2.0
+2026-06-29,topcv,Thành Thạo Phần Mềm Mastercam,1,2.0,2.0,2.0
+2026-06-29,topcv,Thích Nghi Nhanh,1,2.0,2.0,2.0
+2026-06-29,topcv,Ticketing system,1,1.0,1.0,1.0
+2026-06-29,topcv,Timeline Management,1,3.0,3.0,3.0
+2026-06-29,topcv,Tin học VP,1,0.0,0.0,0.0
+2026-06-29,topcv,Tiếng Anh,2,2.0,1.0,3.0
+2026-06-29,topcv,Tiếng Anh giao tiếp,1,1.0,1.0,1.0
+2026-06-29,topcv,Tiếng Nhật N3 Trở Lên,1,2.0,2.0,2.0
+2026-06-29,topcv,Tiếng Nhật N3+,1,0.0,0.0,0.0
+2026-06-29,topcv,Trello),1,3.0,3.0,3.0
+2026-06-29,topcv,Triển khai chiến dịch thúc đẩy giao dịch,1,2.0,2.0,2.0
+2026-06-29,topcv,Troubleshooting,2,2.5,2.0,3.0
+2026-06-29,topcv,Trách Nhiệm,1,0.0,0.0,0.0
+2026-06-29,topcv,Trình Bày Và Thuyết Trình,1,5.0,5.0,5.0
+2026-06-29,topcv,Trình bày,1,1.0,1.0,1.0
+2026-06-29,topcv,TypeORM,1,1.0,1.0,1.0
+2026-06-29,topcv,TypeScript,14,2.5,0.0,5.0
+2026-06-29,topcv,Tài Chính,1,2.0,2.0,2.0
+2026-06-29,topcv,Tài Liệu Hóa,1,2.0,2.0,2.0
+2026-06-29,topcv,Tích hợp hệ thống,1,1.0,1.0,1.0
+2026-06-29,topcv,Tư duy hệ thống,1,0.0,0.0,0.0
+2026-06-29,topcv,Tư duy logic,5,2.0,0.0,2.0
+2026-06-29,topcv,Tối ưu monetization,1,2.0,2.0,2.0
+2026-06-29,topcv,UI/UX,1,3.0,3.0,3.0
+2026-06-29,topcv,UIUX,1,3.0,3.0,3.0
+2026-06-29,topcv,Unity,2,2.0,2.0,2.0
+2026-06-29,topcv,Unity Engine (game Development),1,2.0,2.0,2.0
+2026-06-29,topcv,User Acquisition,1,2.0,2.0,2.0
+2026-06-29,topcv,User Story,1,2.0,2.0,2.0
+2026-06-29,topcv,Ux Ui Design Principles,1,1.0,1.0,1.0
+2026-06-29,topcv,V.v.),2,2.0,2.0,2.0
+2026-06-29,topcv,VMWare,1,3.0,3.0,3.0
+2026-06-29,topcv,VPN,1,1.0,1.0,1.0
+2026-06-29,topcv,Visio,2,3.0,3.0,3.0
+2026-06-29,topcv,Visual Studio,1,2.0,2.0,2.0
+2026-06-29,topcv,Viết Nội Dung Sáng Tạo,1,1.0,1.0,1.0
+2026-06-29,topcv,Viết Testcase,1,2.0,2.0,2.0
+2026-06-29,topcv,Viết Tài Liệu Phân Tích,1,5.0,5.0,5.0
+2026-06-29,topcv,Viết Và Chỉnh Sửa Tài Liệu Kỹ Thuật,1,2.0,2.0,2.0
+2026-06-29,topcv,Vue,7,2.0,0.0,4.0
+2026-06-29,topcv,VueJS,2,0.5,0.0,1.0
+2026-06-29,topcv,Vận Hành Máy Cnc,1,1.0,1.0,1.0
+2026-06-29,topcv,Vận Hành Máy Phay Cnc,1,1.0,1.0,1.0
+2026-06-29,topcv,Vận Hành Máy Tiện Cnc,1,2.0,2.0,2.0
+2026-06-29,topcv,Vận hành và bảo trì hệ điều hành Linux,1,1.0,1.0,1.0
+2026-06-29,topcv,Vận hành vận tải,1,1.0,1.0,1.0
+2026-06-29,topcv,WAN,1,1.0,1.0,1.0
+2026-06-29,topcv,Waterfall,2,3.0,3.0,3.0
+2026-06-29,topcv,Wi-Fi technologies,1,2.0,2.0,2.0
+2026-06-29,topcv,Windows,3,1.0,1.0,2.0
+2026-06-29,topcv,Wireless,1,1.0,1.0,1.0
+2026-06-29,topcv,Word,1,3.0,3.0,3.0
+2026-06-29,topcv,Worker Threads,1,1.0,1.0,1.0
+2026-06-29,topcv,Workflow Automation,1,3.0,3.0,3.0
+2026-06-29,topcv,Xây Dựng Lộ Trình Sản Phẩm,1,2.0,2.0,2.0
+2026-06-29,topcv,Xây Dựng Mô Hình Dữ Liệu,1,5.0,5.0,5.0
+2026-06-29,topcv,Xây Dựng Thương Hiệu,1,2.0,2.0,2.0
+2026-06-29,topcv,Xây Dựng Tài Liệu Nghiệp Vụ,1,1.0,1.0,1.0
+2026-06-29,topcv,Xây dựng kịch bản nghiệm thu phần mềm,1,1.0,1.0,1.0
+2026-06-29,topcv,Xây dựng mối quan hệ,1,1.0,1.0,1.0
+2026-06-29,topcv,Xử Lý Sự Cố Máy Tiện,1,2.0,2.0,2.0
+2026-06-29,topcv,Xử Lý Ảnh,1,3.0,3.0,3.0
+2026-06-29,topcv,Xử lý vấn đề,1,2.0,2.0,2.0
+2026-06-29,topcv,an toàn lao động,1,2.0,2.0,2.0
+2026-06-29,topcv,back-end,1,1.0,1.0,1.0
+2026-06-29,topcv,biện luận vấn đề,1,1.0,1.0,1.0
+2026-06-29,topcv,bug life cycle,1,0.0,0.0,0.0
+2026-06-29,topcv,business analysis,1,3.0,3.0,3.0
+2026-06-29,topcv,chủ động,1,0.0,0.0,0.0
+2026-06-29,topcv,chứng chỉ BA như CBAP,1,2.0,2.0,2.0
+2026-06-29,topcv,claims data),1,6.0,6.0,6.0
+2026-06-29,topcv,code PLC Mitsubishi,1,3.0,3.0,3.0
+2026-06-29,topcv,code java,1,1.0,1.0,1.0
+2026-06-29,topcv,confluence,3,3.0,2.0,3.0
+2026-06-29,topcv,digital transformation,1,3.0,3.0,3.0
+2026-06-29,topcv,distributed teams,1,3.0,3.0,3.0
+2026-06-29,topcv,experience in securities,1,3.0,3.0,3.0
+2026-06-29,topcv,hiểu biết về công nghệ,1,2.0,2.0,2.0
+2026-06-29,topcv,hệ thống điều khí nén,1,3.0,3.0,3.0
+2026-06-29,topcv,iOS,6,2.0,0.0,2.0
+2026-06-29,topcv,java 17,1,3.0,3.0,3.0
+2026-06-29,topcv,java 21,1,3.0,3.0,3.0
+2026-06-29,topcv,kafka,1,2.0,2.0,2.0
+2026-06-29,topcv,khả năng làm việc độc lập và theo nhóm,1,2.0,2.0,2.0
+2026-06-29,topcv,kinh nghiệm nền tảng livestream,1,2.0,2.0,2.0
+2026-06-29,topcv,kinh nghiệm phát triển sản phẩm OTT,1,2.0,2.0,2.0
+2026-06-29,topcv,kiến thức nghiệp vụ kế toán,1,0.0,0.0,0.0
+2026-06-29,topcv,kỹ năng chăm sóc khách hàng,1,0.0,0.0,0.0
+2026-06-29,topcv,kỹ năng quản lý thời gian,1,2.0,2.0,2.0
+2026-06-29,topcv,kỹ năng test,1,1.0,1.0,1.0
+2026-06-29,topcv,kỹ năng thuyết trình,2,3.5,2.0,5.0
+2026-06-29,topcv,logging,1,1.0,1.0,1.0
+2026-06-29,topcv,migrate hệ thống lớn,1,1.0,1.0,1.0
+2026-06-29,topcv,nghiên cứu từ khóa,1,1.0,1.0,1.0
+2026-06-29,topcv,performance testing,1,2.0,2.0,2.0
+2026-06-29,topcv,permission model,1,1.0,1.0,1.0
+2026-06-29,topcv,product analyst,1,2.0,2.0,2.0
+2026-06-29,topcv,product marketing,1,2.0,2.0,2.0
+2026-06-29,topcv,rate limiting,1,1.0,1.0,1.0
+2026-06-29,topcv,servicenow,1,1.0,1.0,1.0
+2026-06-29,topcv,software development,1,3.0,3.0,3.0
+2026-06-29,topcv,solid,1,1.0,1.0,1.0
+2026-06-29,topcv,stakeholder alignment,1,3.0,3.0,3.0
+2026-06-29,topcv,structured problem-solving,1,3.0,3.0,3.0
+2026-06-29,topcv,technical lead,1,3.0,3.0,3.0
+2026-06-29,topcv,technical management,1,5.0,5.0,5.0
+2026-06-29,topcv,test script,1,3.0,3.0,3.0
+2026-06-29,topcv,tái cấu trúc,1,1.0,1.0,1.0
+2026-06-29,topcv,tư duy phản biện,1,2.0,2.0,2.0
+2026-06-29,topcv,tối ưu hóa Monetization,1,2.0,2.0,2.0
+2026-06-29,topcv,tổng hợp số liệu,1,2.0,2.0,2.0
+2026-06-29,topcv,viết tài liệu giải pháp,1,1.0,1.0,1.0
+2026-06-29,topcv,xi lanh,1,3.0,3.0,3.0
+2026-06-29,topcv,xây dựng sản phẩm thương mại từ đầu,1,1.0,1.0,1.0
+2026-06-29,topcv,xây dựng test case,1,3.0,3.0,3.0
+2026-06-29,topcv,Đi công tác dự án,1,0.0,0.0,0.0
+2026-06-29,topcv,Đàm Phán Và Thương Lượng,2,3.0,3.0,3.0
+2026-06-29,topcv,Đàm phán,2,1.5,1.0,2.0
+2026-06-29,topcv,Đánh Giá Và Phân Tích,1,2.0,2.0,2.0
+2026-06-29,topcv,Đầu Tư,1,2.0,2.0,2.0
+2026-06-29,topcv,Đề xuất cải tiến quy trình,1,1.0,1.0,1.0
+2026-06-29,topcv,Đọc Hiểu Bản Vẽ Kỹ Thuật,2,1.5,1.0,2.0
+2026-06-29,topcv,Đọc Hiểu Tài Liệu Kỹ Thuật Tiếng Anh,1,3.0,3.0,3.0
+2026-06-29,topcv,Đọc Và Hiểu Bản Vẽ Kỹ Thuật,2,1.5,1.0,2.0
+2026-06-29,topcv,Đọc hiểu tài liệu tiếng Anh,1,2.0,2.0,2.0
+2026-06-29,topcv,Đọc hiểu và bóc tách khối lượng công việc,1,3.0,3.0,3.0
+2026-06-29,topcv,Đồ Án),1,0.0,0.0,0.0
+2026-06-29,topcv,điều phối dự án,1,3.0,3.0,3.0
+2026-06-29,topcv,đưa ra quyết định,1,2.0,2.0,2.0
+2026-06-29,topcv,đọc hiểu tài liệu kỹ thuật phần mềm,1,2.0,2.0,2.0

@@ -1,0 +1,5 @@
+﻿input_file,source,record_count,parse_ok_rate,title_fill_rate,company_fill_rate,location_fill_rate,salary_raw_fill_rate,salary_numeric_fill_rate,experience_fill_rate,skills_fill_rate,description_fill_rate
+itviec_20260701_100_clean.jsonl,itviec,100,1.0,1.0,1.0,1.0,1.0,0.27,0.82,1.0,1.0
+itviec_salary_20260702_clean.jsonl,itviec,750,1.0,1.0,1.0,1.0,1.0,0.276,0.8773,1.0,1.0
+topcv_20260702_100_clean.jsonl,topcv,100,1.0,1.0,1.0,1.0,0.95,0.55,0.81,0.77,1.0
+topcv_salary_20260702_clean.jsonl,topcv,575,1.0,1.0,1.0,1.0,0.9148,0.5183,0.8487,0.7757,1.0

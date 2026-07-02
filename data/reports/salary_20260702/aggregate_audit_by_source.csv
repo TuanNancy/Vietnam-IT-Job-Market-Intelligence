@@ -1,0 +1,3 @@
+﻿source,unique_rows,numeric_salary_rows,salary_numeric_fill_rate,parse_ok_rate,title_fill_rate,company_fill_rate,location_fill_rate,salary_raw_fill_rate,experience_raw_fill_rate,skills_fill_rate,description_fill_rate
+itviec,750,207,0.276,1.0,1.0,1.0,1.0,1.0,0.8773,1.0,1.0
+topcv,583,305,0.5232,1.0,1.0,1.0,1.0,0.916,0.8491,0.7787,1.0

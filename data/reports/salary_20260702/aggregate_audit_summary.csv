@@ -1,0 +1,10 @@
+﻿metric,value
+input_files,data\processed\itviec_20260701_100_clean.jsonl;data\processed\topcv_20260702_100_clean.jsonl;data\processed\topcv_salary_20260702_clean.jsonl;data\processed\itviec_salary_20260702_clean.jsonl
+total_rows_before_dedupe,1525
+unique_rows_by_url,1333
+duplicate_records_by_url,192
+numeric_salary_rows_unique,512
+target_numeric_salary_rows,500
+target_met,yes
+parse_ok_rows_unique,1333
+parse_ok_rate_unique,1.0
