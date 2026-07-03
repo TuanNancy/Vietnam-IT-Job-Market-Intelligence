@@ -1,0 +1,4 @@
+﻿source,jobs,unique_urls,missing_title,missing_company,missing_description,numeric_salary_jobs,suspicious_salary_jobs,negotiable_salary_jobs,hidden_salary_jobs,non_numeric_salary_label_jobs,jobs_with_skills,jobs_with_cities,numeric_salary_rate,skills_rate,cities_rate
+itviec,750,750,0,0,0,202,5,12,0,531,750,750,0.2693333333333333,1.0,1.0
+topcv,583,583,0,0,0,302,3,229,0,0,454,583,0.5180102915951973,0.7787307032590052,1.0
+topdev,100,100,0,0,0,0,0,0,100,0,100,100,0.0,1.0,1.0

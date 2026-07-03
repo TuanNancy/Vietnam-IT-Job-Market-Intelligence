@@ -1,0 +1,13 @@
+﻿metric,value
+input_rows,1662
+rows_after_parse_ok_filter,1662
+rows_after_url_dedupe,1433
+unique_urls,1433
+duplicate_urls_after_cleaning,0
+missing_title,0
+missing_company,0
+missing_description,0
+numeric_salary_jobs,504
+numeric_suspicious_salary_jobs,8
+jobs_with_skills,1304
+jobs_with_cities,1433
