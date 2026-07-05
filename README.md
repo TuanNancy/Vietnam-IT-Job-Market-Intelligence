@@ -46,6 +46,18 @@ Build reports:
 python -m parsers.trend_reports
 ```
 
+Train salary Linear Regression model:
+
+```bash
+python -m modeling.salary_regression --input data/analysis/salary_analysis_clean.csv --output-dir data/modeling/salary_regression
+```
+
+Run the Streamlit model demo:
+
+```bash
+streamlit run streamlit_salary_regression_opencode.py
+```
+
 Crawler constraints:
 
 ```text

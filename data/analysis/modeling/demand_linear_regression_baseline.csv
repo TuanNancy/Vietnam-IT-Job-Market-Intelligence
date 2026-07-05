@@ -1,0 +1,12 @@
+﻿week_start,job_count,week_index,predicted_job_count,row_type,note
+2026-05-04,1.0,0,0.0,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-05-11,4.0,1,0.0,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-05-18,4.0,2,52.52222222222221,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-05-25,65.0,3,105.8722222222222,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-06-01,186.0,4,159.22222222222223,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-06-08,165.0,5,212.57222222222225,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-06-15,269.0,6,265.9222222222222,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-06-22,369.0,7,319.27222222222224,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-06-29,370.0,8,372.62222222222226,actual,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-07-06,,9,425.9722222222223,forecast_baseline,"Exploratory LinearRegression baseline; short history, not a production forecast"
+2026-07-13,,10,479.3222222222223,forecast_baseline,"Exploratory LinearRegression baseline; short history, not a production forecast"
