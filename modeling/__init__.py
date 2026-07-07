@@ -1,1 +1,2 @@
-"""Reusable modeling helpers for analysis notebooks and CLI scripts."""
+"""Model training helpers for the job market intelligence project."""
+

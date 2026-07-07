@@ -10,13 +10,18 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+import joblib
 import numpy as np
 import pandas as pd
-import joblib
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, mean_squared_error, median_absolute_error, r2_score
+from sklearn.metrics import (
+    mean_absolute_error,
+    mean_squared_error,
+    median_absolute_error,
+    r2_score,
+)
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -25,7 +30,13 @@ DEFAULT_INPUT = Path("data/analysis/salary_analysis_clean.csv")
 DEFAULT_OUTPUT_DIR = Path("data/modeling/salary_regression")
 DEFAULT_USD_TO_VND = 26_000
 MODEL_FILENAME = "model.joblib"
-ARTIFACT_FILENAMES = [MODEL_FILENAME, "metrics.csv", "predictions_test.csv", "coefficients.csv", "data_audit.csv"]
+ARTIFACT_FILENAMES = [
+    MODEL_FILENAME,
+    "metrics.csv",
+    "predictions_test.csv",
+    "coefficients.csv",
+    "data_audit.csv",
+]
 TARGET_COLUMN = "log_salary_monthly_vnd"
 
 REQUIRED_COLUMNS = [
@@ -72,6 +83,7 @@ SKILL_ALIASES = {
     "nodejs": "node.js",
     "golang": "go",
     "postgres": "postgresql",
+    "postgre": "postgresql",
     "k8s": "kubernetes",
     "ts": "typescript",
     "csharp": "c#",
@@ -104,10 +116,20 @@ class SalaryRegressionResult:
     test_rows: int
 
 
+def _repair_mojibake(value: str) -> str:
+    """Fix common UTF-8-as-cp1252 mojibake seen in copied Vietnamese text."""
+    if not any(marker in value for marker in ("Ã", "Â", "á»", "Æ", "Ä", "â")):
+        return value
+    try:
+        return value.encode("cp1252").decode("utf-8")
+    except UnicodeError:
+        return value
+
+
 def strip_accents(value: Any) -> str:
     if pd.isna(value):
         return ""
-    text = str(value).replace("Đ", "D").replace("đ", "d")
+    text = _repair_mojibake(str(value)).replace("Đ", "D").replace("đ", "d")
     return "".join(
         character
         for character in unicodedata.normalize("NFD", text)
@@ -132,9 +154,9 @@ def normalize_location(value: Any) -> str:
         return "Ha Noi"
     if re.search(r"\b(?:da nang|danang)\b", folded):
         return "Da Nang"
-    if not folded or folded == "nan":
+    if not folded or folded in {"nan", "none", "null"}:
         return "Unknown"
-    return str(value).strip()
+    return _repair_mojibake(str(value)).strip()
 
 
 def to_listish(value: Any) -> list[str]:
@@ -170,18 +192,17 @@ def skill_column_name(skill: str) -> str:
 def validate_required_columns(frame: pd.DataFrame) -> None:
     missing = [column for column in REQUIRED_COLUMNS if column not in frame.columns]
     if missing:
-        missing_text = ", ".join(missing)
-        raise ValueError(f"Missing required salary modeling columns: {missing_text}")
+        raise ValueError(f"Missing required salary modeling columns: {', '.join(missing)}")
 
 
 def _one_hot_encoder() -> OneHotEncoder:
     try:
         return OneHotEncoder(handle_unknown="ignore", sparse_output=False)
-    except TypeError:  # pragma: no cover - compatibility for older local sklearn installs
+    except TypeError:  # pragma: no cover - compatibility with older sklearn
         return OneHotEncoder(handle_unknown="ignore", sparse=False)
 
 
-def select_top_skills(frame: pd.DataFrame, top_skills: int = 30, min_skill_count: int = 5) -> list[str]:
+def select_top_skills(frame: pd.DataFrame, *, top_skills: int, min_skill_count: int) -> list[str]:
     counter: Counter[str] = Counter()
     for skills in frame["skills_norm_list"]:
         counter.update(set(skills))
@@ -193,6 +214,7 @@ def add_skill_flags(frame: pd.DataFrame, top_skills: list[str]) -> tuple[pd.Data
     output = frame.copy()
     columns: list[str] = []
     used_columns: set[str] = set()
+    skill_sets = output["skills_norm_list"].apply(set)
     for skill in top_skills:
         base_column = skill_column_name(skill)
         column = base_column
@@ -202,7 +224,7 @@ def add_skill_flags(frame: pd.DataFrame, top_skills: list[str]) -> tuple[pd.Data
             suffix += 1
         used_columns.add(column)
         columns.append(column)
-        output[column] = output["skills_norm_list"].apply(lambda values, skill=skill: int(skill in values))
+        output[column] = skill_sets.apply(lambda values, selected=skill: int(selected in values))
     return output, columns
 
 
@@ -244,7 +266,9 @@ def prepare_salary_modeling_data(
         r"\b(?:year|annual|annually|nam)\b",
         na=False,
     )
-    output["salary_period_clean"] = output["salary_period"].astype("string").str.casefold().str.strip()
+    output["salary_period_clean"] = (
+        output["salary_period"].astype("string").str.casefold().str.strip().fillna("month")
+    )
     year_without_annual_signal = output["salary_period_clean"].eq("year") & ~raw_has_annual_signal
     output.loc[year_without_annual_signal, "salary_period_clean"] = "month"
 
@@ -287,7 +311,8 @@ def prepare_salary_modeling_data(
     for column in [*NUMERIC_FEATURES, *CATEGORICAL_FEATURES]:
         audit_rows.append({"metric": f"missing_rate_{column}", "value": round(float(output[column].isna().mean()), 4)})
     for skill in selected_skills:
-        audit_rows.append({"metric": f"top_skill_jobs_{skill}", "value": int(output["skills_norm_list"].apply(lambda values, skill=skill: skill in values).sum())})
+        count = int(output["skills_norm_list"].apply(lambda values, selected=skill: selected in values).sum())
+        audit_rows.append({"metric": f"top_skill_jobs_{skill}", "value": count})
 
     return SalaryModelingData(
         frame=output,
@@ -395,7 +420,9 @@ def build_predictions(test_frame: pd.DataFrame, y_true: np.ndarray, y_pred: np.n
     predictions["predicted_log_salary"] = y_pred
     predictions["actual_salary_million_vnd"] = np.exp(y_true) / 1_000_000
     predictions["predicted_salary_million_vnd"] = np.exp(y_pred) / 1_000_000
-    predictions["residual_million_vnd"] = predictions["actual_salary_million_vnd"] - predictions["predicted_salary_million_vnd"]
+    predictions["residual_million_vnd"] = (
+        predictions["actual_salary_million_vnd"] - predictions["predicted_salary_million_vnd"]
+    )
     predictions["abs_error_million_vnd"] = predictions["residual_million_vnd"].abs()
     return predictions.sort_values("abs_error_million_vnd", ascending=False).reset_index(drop=True)
 
@@ -405,14 +432,9 @@ def build_coefficients(pipeline: Pipeline) -> pd.DataFrame:
     model = pipeline.named_steps["model"]
     try:
         feature_names = list(preprocessor.get_feature_names_out())
-    except AttributeError:  # pragma: no cover - older sklearn fallback
+    except AttributeError:  # pragma: no cover
         feature_names = [f"feature_{index}" for index in range(len(model.coef_))]
-    coefficients = pd.DataFrame(
-        {
-            "feature": feature_names,
-            "coefficient": model.coef_,
-        }
-    )
+    coefficients = pd.DataFrame({"feature": feature_names, "coefficient": model.coef_})
     coefficients["abs_coefficient"] = coefficients["coefficient"].abs()
     return coefficients.sort_values("abs_coefficient", ascending=False).reset_index(drop=True)
 
@@ -469,15 +491,6 @@ def run_salary_linear_regression(
     return fit_salary_linear_regression(modeling_data, test_size=test_size, random_state=random_state)
 
 
-def write_outputs(result: SalaryRegressionResult, output_dir: Path) -> None:
-    output_dir.mkdir(parents=True, exist_ok=True)
-    result.metrics.to_csv(output_dir / "metrics.csv", index=False, encoding="utf-8-sig")
-    result.predictions.to_csv(output_dir / "predictions_test.csv", index=False, encoding="utf-8-sig")
-    result.coefficients.to_csv(output_dir / "coefficients.csv", index=False, encoding="utf-8-sig")
-    result.modeling_data.audit.to_csv(output_dir / "data_audit.csv", index=False, encoding="utf-8-sig")
-    save_model_bundle(result, output_dir / MODEL_FILENAME)
-
-
 def build_model_bundle(result: SalaryRegressionResult) -> dict[str, Any]:
     modeling_data = result.modeling_data
     frame = modeling_data.frame
@@ -508,6 +521,15 @@ def build_model_bundle(result: SalaryRegressionResult) -> dict[str, Any]:
 def save_model_bundle(result: SalaryRegressionResult, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     joblib.dump(build_model_bundle(result), path)
+
+
+def write_outputs(result: SalaryRegressionResult, output_dir: Path) -> None:
+    output_dir.mkdir(parents=True, exist_ok=True)
+    result.metrics.to_csv(output_dir / "metrics.csv", index=False, encoding="utf-8-sig")
+    result.predictions.to_csv(output_dir / "predictions_test.csv", index=False, encoding="utf-8-sig")
+    result.coefficients.to_csv(output_dir / "coefficients.csv", index=False, encoding="utf-8-sig")
+    result.modeling_data.audit.to_csv(output_dir / "data_audit.csv", index=False, encoding="utf-8-sig")
+    save_model_bundle(result, output_dir / MODEL_FILENAME)
 
 
 def load_model_bundle(path: Path) -> dict[str, Any]:

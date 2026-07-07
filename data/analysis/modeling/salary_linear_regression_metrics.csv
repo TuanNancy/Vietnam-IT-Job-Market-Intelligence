@@ -1,2 +1,0 @@
-﻿model,train_rows,test_rows,feature_count_before_onehot,log_mae,log_rmse,log_r2,salary_mae_million_vnd
-LinearRegression,403,101,33,0.3491610447518736,0.46872580027396415,0.5173845131122528,9.190773524053286
