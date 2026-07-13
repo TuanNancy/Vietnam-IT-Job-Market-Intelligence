@@ -12,4 +12,4 @@ if (Test-Path $VenvPython) {
 
 & $Python -m modeling.salary_regression `
     --input data/analysis/salary_analysis_clean.csv `
-    --output-dir data/modeling/salary_regression
+    --output-dir data/modeling/salary_regression/safe_baseline

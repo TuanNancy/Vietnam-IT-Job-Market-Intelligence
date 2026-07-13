@@ -15,7 +15,9 @@ from modeling.salary_regression import (
     LEAKAGE_COLUMNS,
     DEFAULT_USD_TO_VND,
     MODEL_FILENAME,
+    build_model_bundle,
     build_prediction_frame,
+    experience_range_for_seniority,
     load_model_bundle,
     normalize_skill,
     predict_salary_million_vnd,
@@ -96,6 +98,23 @@ def sample_training_frame() -> pd.DataFrame:
 
 
 class SalaryRegressionTests(unittest.TestCase):
+    def test_intern_experience_is_limited_to_observed_entry_level_range(self) -> None:
+        self.assertEqual(experience_range_for_seniority("intern"), (0.0, 1.0))
+        self.assertEqual(experience_range_for_seniority("senior"), (0.0, 10.0))
+
+        result = run_salary_linear_regression(sample_training_frame(), top_skills=4, min_skill_count=1)
+        bundle = build_model_bundle(result)
+
+        with self.assertRaisesRegex(ValueError, "intern"):
+            build_prediction_frame(
+                bundle,
+                source="topcv",
+                location="Ha Noi",
+                seniority="intern",
+                work_mode="onsite",
+                experience_min=2,
+            )
+
     def test_converts_salary_to_monthly_vnd_and_cleans_period(self) -> None:
         frame = pd.DataFrame(
             [
@@ -161,6 +180,63 @@ class SalaryRegressionTests(unittest.TestCase):
         self.assertTrue((result.predictions["predicted_salary_million_vnd"] > 0).all())
         self.assertGreater(len(result.coefficients), 0)
         self.assertIn("feature", result.coefficients.columns)
+
+    def test_model_bundle_includes_observed_salary_and_prediction_interval(self) -> None:
+        frame = sample_training_frame()
+        frame = pd.concat(
+            [
+                frame,
+                pd.DataFrame(
+                    [
+                        make_row(100, seniority="intern", experience_min=0, salary_midpoint=4_000_000),
+                        make_row(101, seniority="intern", experience_min=1, salary_midpoint=6_000_000),
+                    ]
+                ),
+            ],
+            ignore_index=True,
+        )
+        result = run_salary_linear_regression(frame, top_skills=4, min_skill_count=1, random_state=7)
+        bundle = build_model_bundle(result)
+
+        observed = bundle["observed_salary_by_seniority"]["intern"]
+        self.assertEqual(observed["rows"], 2)
+        self.assertEqual(observed["median_million_vnd"], 5.0)
+
+        prediction_frame = build_prediction_frame(
+            bundle,
+            source="topcv",
+            location="Ha Noi",
+            seniority="intern",
+            work_mode="onsite",
+            experience_min=0,
+        )
+        prediction = predict_salary_million_vnd(bundle, prediction_frame)
+        self.assertIn("prediction_low_million_vnd", prediction)
+        self.assertIn("prediction_high_million_vnd", prediction)
+        self.assertLessEqual(
+            prediction["prediction_low_million_vnd"],
+            prediction["predicted_salary_million_vnd"],
+        )
+        self.assertGreaterEqual(
+            prediction["prediction_high_million_vnd"],
+            prediction["predicted_salary_million_vnd"],
+        )
+
+    def test_model_bundle_only_offers_categories_seen_by_the_fitted_pipeline(self) -> None:
+        frame = pd.concat(
+            [sample_training_frame(), pd.DataFrame([make_row(102, location="Rare Location")])],
+            ignore_index=True,
+        )
+        result = run_salary_linear_regression(
+            frame,
+            top_skills=4,
+            min_skill_count=1,
+            test_size=0.25,
+            random_state=4,
+        )
+        bundle = build_model_bundle(result)
+
+        self.assertNotIn("Rare Location", bundle["category_options"]["location_norm"])
 
     def test_main_writes_expected_outputs(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:

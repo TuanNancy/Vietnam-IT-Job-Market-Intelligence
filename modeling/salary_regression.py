@@ -38,6 +38,9 @@ ARTIFACT_FILENAMES = [
     "data_audit.csv",
 ]
 TARGET_COLUMN = "log_salary_monthly_vnd"
+MAX_PREDICTION_EXPERIENCE_YEARS = 10.0
+INTERN_MAX_EXPERIENCE_YEARS = 1.0
+PREDICTION_INTERVAL_COVERAGE = 0.9
 
 REQUIRED_COLUMNS = [
     "source",
@@ -197,9 +200,16 @@ def validate_required_columns(frame: pd.DataFrame) -> None:
 
 def _one_hot_encoder() -> OneHotEncoder:
     try:
-        return OneHotEncoder(handle_unknown="ignore", sparse_output=False)
+        return OneHotEncoder(drop="first", handle_unknown="ignore", sparse_output=False)
     except TypeError:  # pragma: no cover - compatibility with older sklearn
-        return OneHotEncoder(handle_unknown="ignore", sparse=False)
+        return OneHotEncoder(drop="first", handle_unknown="ignore", sparse=False)
+
+
+def experience_range_for_seniority(seniority: str | None) -> tuple[float, float]:
+    """Return the UI and prediction bounds for an experience-level combination."""
+    if (seniority or "").strip().casefold() == "intern":
+        return 0.0, INTERN_MAX_EXPERIENCE_YEARS
+    return 0.0, MAX_PREDICTION_EXPERIENCE_YEARS
 
 
 def select_top_skills(frame: pd.DataFrame, *, top_skills: int, min_skill_count: int) -> list[str]:
@@ -361,7 +371,15 @@ def _feature_frame(frame: pd.DataFrame, columns: list[str]) -> pd.DataFrame:
 
 def _train_test_indices(frame: pd.DataFrame, *, test_size: float, random_state: int) -> tuple[pd.Index, pd.Index]:
     indices = frame.index.to_numpy()
-    stratify = frame["source"] if frame["source"].value_counts(dropna=False).min() >= 2 else None
+    source = frame["source"].fillna("Unknown").astype(str)
+    seniority = frame["seniority"].fillna("Unknown").astype(str)
+    source_and_seniority = source + "__" + seniority
+    if source_and_seniority.value_counts(dropna=False).min() >= 2:
+        stratify = source_and_seniority
+    elif source.value_counts(dropna=False).min() >= 2:
+        stratify = source
+    else:
+        stratify = None
     try:
         train_index, test_index = train_test_split(
             indices,
@@ -439,6 +457,45 @@ def build_coefficients(pipeline: Pipeline) -> pd.DataFrame:
     return coefficients.sort_values("abs_coefficient", ascending=False).reset_index(drop=True)
 
 
+def build_observed_salary_by_seniority(frame: pd.DataFrame) -> dict[str, dict[str, float | int]]:
+    """Summarize observed salaries so sparse groups are not presented as precise predictions."""
+    grouped = frame.assign(seniority_group=frame["seniority"].fillna("Unknown").astype(str)).groupby(
+        "seniority_group", dropna=False
+    )
+    output: dict[str, dict[str, float | int]] = {}
+    for seniority, group in grouped:
+        salaries = group["salary_monthly_vnd_m"].to_numpy()
+        output[str(seniority)] = {
+            "rows": int(len(group)),
+            "p10_million_vnd": float(np.quantile(salaries, 0.1)),
+            "median_million_vnd": float(np.median(salaries)),
+            "p90_million_vnd": float(np.quantile(salaries, 0.9)),
+        }
+    return output
+
+
+def build_prediction_interval_calibration(predictions: pd.DataFrame) -> dict[str, float | int]:
+    """Build a symmetric log-scale error interval from held-out predictions."""
+    residuals = predictions["actual_log_salary"].to_numpy() - predictions["predicted_log_salary"].to_numpy()
+    radius = float(np.quantile(np.abs(residuals), PREDICTION_INTERVAL_COVERAGE))
+    return {
+        "coverage": PREDICTION_INTERVAL_COVERAGE,
+        "log_radius": radius,
+        "test_rows": int(len(predictions)),
+    }
+
+
+def fitted_category_options(pipeline: Pipeline, categorical_features: list[str]) -> dict[str, list[str]]:
+    """Return only categories observed by the fitted training split."""
+    preprocessor = pipeline.named_steps["preprocess"]
+    categorical_pipeline = preprocessor.named_transformers_["categorical"]
+    onehot = categorical_pipeline.named_steps["onehot"]
+    return {
+        feature: sorted(str(value) for value in categories)
+        for feature, categories in zip(categorical_features, onehot.categories_, strict=True)
+    }
+
+
 def fit_salary_linear_regression(
     modeling_data: SalaryModelingData,
     *,
@@ -494,10 +551,7 @@ def run_salary_linear_regression(
 def build_model_bundle(result: SalaryRegressionResult) -> dict[str, Any]:
     modeling_data = result.modeling_data
     frame = modeling_data.frame
-    category_options = {
-        column: sorted(frame[column].dropna().astype(str).unique().tolist())
-        for column in modeling_data.categorical_features
-    }
+    category_options = fitted_category_options(result.pipeline, modeling_data.categorical_features)
     return {
         "model_type": "LinearRegression",
         "target_column": modeling_data.target_column,
@@ -512,6 +566,8 @@ def build_model_bundle(result: SalaryRegressionResult) -> dict[str, Any]:
         "metrics": result.metrics,
         "coefficients": result.coefficients,
         "audit": modeling_data.audit,
+        "observed_salary_by_seniority": build_observed_salary_by_seniority(frame),
+        "prediction_interval_calibration": build_prediction_interval_calibration(result.predictions),
         "train_rows": result.train_rows,
         "test_rows": result.test_rows,
         "usd_to_vnd": DEFAULT_USD_TO_VND,
@@ -551,8 +607,15 @@ def build_prediction_frame(
     experience_min: float,
     posted_age_days: float = 7,
     selected_skills: list[str] | None = None,
-    extra_skill_count: int = 0,
 ) -> pd.DataFrame:
+    minimum_experience, maximum_experience = experience_range_for_seniority(seniority)
+    if not math.isfinite(experience_min) or not minimum_experience <= experience_min <= maximum_experience:
+        display_seniority = seniority or "Unknown"
+        raise ValueError(
+            f"experience_min must be between {minimum_experience:g} and {maximum_experience:g} years "
+            f"for seniority '{display_seniority}'"
+        )
+
     selected_skill_set = {
         normalize_skill(skill)
         for skill in (selected_skills or [])
@@ -567,7 +630,7 @@ def build_prediction_frame(
         "seniority": seniority or np.nan,
         "work_mode": work_mode,
         "experience_min": experience_min,
-        "skill_count": len(selected_skill_set) + max(0, int(extra_skill_count)),
+        "skill_count": len(selected_skill_set),
         "posted_age_days": posted_age_days,
     }
     for column in bundle.get("skill_features", []):
@@ -583,10 +646,17 @@ def build_prediction_frame(
 def predict_salary_million_vnd(bundle: dict[str, Any], prediction_frame: pd.DataFrame) -> dict[str, float]:
     predicted_log_salary = float(bundle["pipeline"].predict(prediction_frame)[0])
     predicted_salary_million_vnd = float(np.exp(predicted_log_salary) / 1_000_000)
-    return {
+    prediction = {
         "predicted_log_salary": predicted_log_salary,
         "predicted_salary_million_vnd": predicted_salary_million_vnd,
     }
+    calibration = bundle.get("prediction_interval_calibration")
+    if isinstance(calibration, dict):
+        radius = calibration.get("log_radius")
+        if isinstance(radius, (int, float)) and math.isfinite(radius) and radius >= 0:
+            prediction["prediction_low_million_vnd"] = float(np.exp(predicted_log_salary - radius) / 1_000_000)
+            prediction["prediction_high_million_vnd"] = float(np.exp(predicted_log_salary + radius) / 1_000_000)
+    return prediction
 
 
 def print_metrics(metrics: pd.DataFrame) -> None:

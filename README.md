@@ -49,7 +49,7 @@ python -m parsers.trend_reports
 Train salary Linear Regression model:
 
 ```bash
-python -m modeling.salary_regression --input data/analysis/salary_analysis_clean.csv --output-dir data/modeling/salary_regression
+python -m modeling.salary_regression --input data/analysis/salary_analysis_clean.csv --output-dir data/modeling/salary_regression/safe_baseline
 ```
 
 Run the Streamlit model demo:
