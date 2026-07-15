@@ -13,6 +13,7 @@ from typing import Any
 import joblib
 import numpy as np
 import pandas as pd
+import sklearn
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import LinearRegression
@@ -571,6 +572,9 @@ def build_model_bundle(result: SalaryRegressionResult) -> dict[str, Any]:
         "train_rows": result.train_rows,
         "test_rows": result.test_rows,
         "usd_to_vnd": DEFAULT_USD_TO_VND,
+        "runtime_metadata": {
+            "scikit_learn_version": sklearn.__version__,
+        },
     }
 
 

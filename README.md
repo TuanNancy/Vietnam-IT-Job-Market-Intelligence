@@ -46,17 +46,21 @@ Build reports:
 python -m parsers.trend_reports
 ```
 
-Train salary Linear Regression model:
+Train salary Linear Regression model in the notebook:
 
 ```bash
-python -m modeling.salary_regression --input data/analysis/salary_analysis_clean.csv --output-dir data/modeling/salary_regression/safe_baseline
+.\.venv\Scripts\jupyter.exe notebook notebooks/04_salary_linear_regression_training.ipynb
 ```
+
+Run all cells in `04_salary_linear_regression_training.ipynb`; the final cell writes the Streamlit artifacts to `data/modeling/salary_regression/safe_baseline`.
 
 Run the Streamlit model demo:
 
 ```bash
-streamlit run streamlit_salary_regression_opencode.py
+.\.venv\Scripts\python.exe -m streamlit run streamlit_salary_regression_opencode.py
 ```
+
+The Streamlit interface is Vietnamese-first. It opens with an empty prediction form and loads the versioned `safe_baseline` model for the demo; model loading and training controls are available under **Quản trị kỹ thuật**.
 
 Crawler constraints:
 

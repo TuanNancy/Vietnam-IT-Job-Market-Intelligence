@@ -1,0 +1,192 @@
+{"kind":"deck","id":"pr/hrdrs0","name":"Deck"}
+{"kind":"layout","layoutId":"bdddc1fc-61e0-4fa6-8739-fb129a090c33","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"ca36e0ab-7a78-4343-9648-67b026bb7bd7","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/aaenwu","slide":1,"title":"VIETNAM IT JOB MARKET INTELLIGENCE","textShapes":9}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":1,"name":"cover-kicker","text":"VIETNAM IT JOB MARKET INTELLIGENCE","textPreview":"VIETNAM IT JOB MARKET INTELLIGENCE","textChars":34,"textLines":1,"bbox":[42,44,540,30]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":1,"name":"rule","bbox":[42,94,146,2]}
+{"kind":"textbox","id":"sh/bulwval8","slide":1,"name":"cover-title","text":"Dự báo xu hướng tuyển dụng\nvà mức lương ngành CNTT","textPreview":"Dự báo xu hướng tuyển dụng | và mức lương ngành CNTT","textChars":50,"textLines":2,"bbox":[42,142,760,190]}
+{"kind":"textbox","id":"sh/032lszqt","slide":1,"name":"cover-subtitle","text":"Từ pipeline dữ liệu việc làm công khai đến baseline dự báo lương","textPreview":"Từ pipeline dữ liệu việc làm công khai đến baseline dự báo lương","textChars":64,"textLines":1,"bbox":[42,365,650,64]}
+{"kind":"shape","id":"sh/tovahoza","slide":1,"name":"cover-evidence","bbox":[864,93,332,457]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":1,"name":"cover-evidence-label","text":"SNAPSHOT HIỆN TẠI","textPreview":"SNAPSHOT HIỆN TẠI","textChars":17,"textLines":1,"bbox":[898,130,244,24]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":1,"name":"cover-evidence-value","text":"1.433","textPreview":"1.433","textChars":5,"textLines":1,"bbox":[898,187,244,68]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":1,"name":"cover-evidence-body","text":"URL việc làm duy nhất\n3 nguồn dữ liệu\n30/06–02/07/2026","textPreview":"URL việc làm duy nhất | 3 nguồn dữ liệu | 30/06–02/07/2026","textChars":54,"textLines":3,"bbox":[898,274,240,100]}
+{"kind":"shape","id":"sh/tcj6tova","slide":1,"name":"cover-accent","bbox":[898,414,232,14]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":1,"name":"cover-note","text":"Đề tài lớp học • 7–10 phút","textPreview":"Đề tài lớp học • 7–10 phút","textChars":26,"textLines":1,"bbox":[42,618,500,28]}
+{"kind":"shape","id":"sh/obm58z25","slide":1,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":1,"name":"source","text":"Nguồn: data/analysis/jobs_analysis_clean.csv • Snapshot dữ liệu nội bộ","textPreview":"Nguồn: data/analysis/jobs_analysis_clean.csv • Snapshot dữ liệu nội bộ","textChars":70,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":1,"name":"slide-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"notes","id":"nt/aaenwu","slide":1,"text":"Mở đầu bằng vấn đề: nhận định về thị trường CNTT thường dựa vào cảm giác. Project này thử biến tin tuyển dụng công khai thành dữ liệu có thể kiểm tra. Tôi sẽ trình bày điều project đã làm được, các tín hiệu ban đầu, và đặc biệt là các giới hạn phải thừa nhận trước khi gọi đó là dự báo."}
+{"kind":"slide","id":"sl/6gf1ya","slide":2,"title":"01 — CÂU HỎI NGHIÊN CỨU","textShapes":11}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":2,"name":"eyebrow","text":"01 — CÂU HỎI NGHIÊN CỨU","textPreview":"01 — CÂU HỎI NGHIÊN CỨU","textChars":23,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":2,"name":"title","text":"Đặt đúng câu hỏi dự báo","textPreview":"Đặt đúng câu hỏi dự báo","textChars":23,"textLines":1,"bbox":[42,82,770,62]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":2,"name":"lead","text":"Hai bài toán liên quan, nhưng không thể dùng cùng một bằng chứng.","textPreview":"Hai bài toán liên quan, nhưng không thể dùng cùng một bằng chứng.","textChars":65,"textLines":1,"bbox":[42,158,880,42]}
+{"kind":"shape","id":"sh/7adsji5s","slide":2,"name":"signal-panel","bbox":[42,250,542,302]}
+{"kind":"shape","id":"sh/epkzupwb","slide":2,"name":"forecast-panel","bbox":[650,250,542,302]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":2,"name":"signal-kicker","text":"TÍN HIỆU TỪ SNAPSHOT","textPreview":"TÍN HIỆU TỪ SNAPSHOT","textChars":20,"textLines":1,"bbox":[74,284,420,24]}
+{"kind":"textbox","id":"sh/wval87ed","slide":2,"name":"signal-title","text":"Nhu cầu đang được đăng","textPreview":"Nhu cầu đang được đăng","textChars":22,"textLines":1,"bbox":[74,327,426,42]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"name":"signal-body","text":"Đếm tin và kỹ năng xuất hiện trong các job posting được thu thập.\n\nKết quả là tín hiệu mô tả, không phải thị phần thị trường.","textPreview":"Đếm tin và kỹ năng xuất hiện trong các job posting được thu thập. |  | Kết quả là tín hiệu mô tả, không phải thị phần thị trường.","textChars":125,"textLines":3,"bbox":[74,391,424,116]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":2,"name":"forecast-kicker","text":"DỰ BÁO ĐÚNG NGHĨA","textPreview":"DỰ BÁO ĐÚNG NGHĨA","textChars":17,"textLines":1,"bbox":[682,284,420,24]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":2,"name":"forecast-title","text":"Xu hướng tương lai","textPreview":"Xu hướng tương lai","textChars":18,"textLines":1,"bbox":[682,327,426,42]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":2,"name":"forecast-body","text":"Cần nhiều lần crawl cùng thiết kế theo tuần/tháng và kiểm định theo thời gian.\n\nDataset hiện tại chưa đáp ứng điều kiện đó.","textPreview":"Cần nhiều lần crawl cùng thiết kế theo tuần/tháng và kiểm định theo thời gian. |  | Dataset hiện tại chưa đáp ứng điều kiện đó.","textChars":123,"textLines":3,"bbox":[682,391,424,116]}
+{"kind":"shape","id":"sh/eloj2t83","slide":2,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":2,"name":"source","text":"Nguồn: review pipeline và data/analysis/jobs_analysis_clean.csv","textPreview":"Nguồn: review pipeline và data/analysis/jobs_analysis_clean.csv","textChars":63,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":2,"name":"slide-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"notes","id":"nt/6gf1ya","slide":2,"text":"Thông điệp quan trọng nhất của bài: không đánh đồng insight trong snapshot với dự báo tương lai. Với tuyển dụng, dữ liệu hiện tại cho thấy những kỹ năng được nhắc đến trong mẫu. Muốn dự báo xu hướng, cần chuỗi dữ liệu lặp lại và kiểm định theo thời gian."}
+{"kind":"slide","id":"sl/ubg1jr","slide":3,"title":"02 — HỆ THỐNG ĐÃ XÂY","textShapes":21}
+{"kind":"textbox","id":"sh/vixczed8","slide":3,"name":"eyebrow","text":"02 — HỆ THỐNG ĐÃ XÂY","textPreview":"02 — HỆ THỐNG ĐÃ XÂY","textChars":20,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":3,"name":"title","text":"Pipeline: thu thập → chuẩn hóa → phân tích","textPreview":"Pipeline: thu thập → chuẩn hóa → phân tích","textChars":42,"textLines":1,"bbox":[42,82,960,58]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":3,"name":"subtitle","text":"Crawler và parser được tách trách nhiệm để có thể sửa dữ liệu mà không cần crawl lại.","textPreview":"Crawler và parser được tách trách nhiệm để có thể sửa dữ liệu mà không cần crawl lại.","textChars":85,"textLines":1,"bbox":[42,155,1020,38]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":3,"name":"arrow","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[237,346,44,40]}
+{"kind":"textbox","id":"sh/val87ed8","slide":3,"name":"arrow","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[481,346,44,40]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":3,"name":"arrow","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[725,346,44,40]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":3,"name":"arrow","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[969,346,44,40]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":3,"name":"pipeline-node","bbox":[42,283,200,210]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":3,"name":"pipeline-node-title","text":"Nguồn công khai","textPreview":"Nguồn công khai","textChars":15,"textLines":1,"bbox":[61,313,162,42]}
+{"kind":"shape","id":"sh/bq1oryts","slide":3,"name":"rule","bbox":[61,373,72,2]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":3,"name":"pipeline-node-body","text":"ITviec\nTopCV\nTopDev","textPreview":"ITviec | TopCV | TopDev","textChars":19,"textLines":3,"bbox":[61,402,164,70]}
+{"kind":"shape","id":"sh/twra5gbq","slide":3,"name":"pipeline-node","bbox":[286,283,200,210]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":3,"name":"pipeline-node-title","text":"Crawler","textPreview":"Crawler","textChars":7,"textLines":1,"bbox":[305,313,162,42]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":3,"name":"rule","bbox":[305,373,72,2]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":3,"name":"pipeline-node-body","text":"robots • delay\nraw HTML + JSON-LD","textPreview":"robots • delay | raw HTML + JSON-LD","textChars":33,"textLines":2,"bbox":[305,402,164,70]}
+{"kind":"shape","id":"sh/t83itgfm","slide":3,"name":"pipeline-node","bbox":[530,283,200,210]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":3,"name":"pipeline-node-title","text":"Raw JSONL","textPreview":"Raw JSONL","textChars":9,"textLines":1,"bbox":[549,313,162,42]}
+{"kind":"shape","id":"sh/bat47y1k","slide":3,"name":"rule","bbox":[549,373,72,2]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":3,"name":"pipeline-node-body","text":"bằng chứng gốc\ncó timestamp","textPreview":"bằng chứng gốc | có timestamp","textChars":27,"textLines":2,"bbox":[549,402,164,70]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":3,"name":"pipeline-node","bbox":[774,283,200,210]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":3,"name":"pipeline-node-title","text":"Parser","textPreview":"Parser","textChars":6,"textLines":1,"bbox":[793,313,162,42]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":3,"name":"rule","bbox":[793,373,72,2]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":3,"name":"pipeline-node-body","text":"salary • skills\nexperience • dates","textPreview":"salary • skills | experience • dates","textChars":34,"textLines":2,"bbox":[793,402,164,70]}
+{"kind":"shape","id":"sh/ulwval87","slide":3,"name":"pipeline-node","bbox":[1018,283,200,210]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":3,"name":"pipeline-node-title","text":"Phân tích","textPreview":"Phân tích","textChars":9,"textLines":1,"bbox":[1037,313,162,42]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":3,"name":"rule","bbox":[1037,373,72,2]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":3,"name":"pipeline-node-body","text":"EDA • reports\nbaseline regression","textPreview":"EDA • reports | baseline regression","textChars":33,"textLines":2,"bbox":[1037,402,164,70]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":3,"name":"crawler-code-panel","bbox":[42,534,1156,112]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":3,"name":"crawler-code-label","text":"scrapers/itviec_crawler.py — raw evidence","textPreview":"scrapers/itviec_crawler.py — raw evidence","textChars":41,"textLines":1,"bbox":[68,549,300,22]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":3,"name":"crawler-code","text":"result = fetch_url(url, timeout=timeout)\nreturn {\"html\": result.html, \"json_ld\": extract_json_ld(result.html),\n        \"visible_text\": extract_visible_text(result.html), \"scraped_at\": utc_now()}","textPreview":"result = fetch_url(url, timeout=timeout) | return {\"html\": result.html, \"json_ld\": extract_json_ld(result.html), |         \"visible_text\"...","textChars":194,"textLines":3,"bbox":[385,547,770,68]}
+{"kind":"shape","id":"sh/0z61032l","slide":3,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":3,"name":"source","text":"Nguồn: scrapers/, parsers/, modeling/ • 48 unit tests passed","textPreview":"Nguồn: scrapers/, parsers/, modeling/ • 48 unit tests passed","textChars":60,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":3,"name":"slide-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"notes","id":"nt/ubg1jr","slide":3,"text":"Đây là phần kỹ thuật cốt lõi. Crawler chỉ lấy và lưu bằng chứng gốc: HTML, JSON-LD, visible text, HTTP status và thời điểm crawl. Parser mới chịu trách nhiệm chuẩn hóa. Nhờ vậy khi phát hiện lỗi parser, mình có thể tái xử lý raw data thay vì gửi thêm request đến website."}
+{"kind":"slide","id":"sl/pdvsud","slide":4,"title":"03 — DATASET","textShapes":12}
+{"kind":"textbox","id":"sh/sneloj2t","slide":4,"name":"eyebrow","text":"03 — DATASET","textPreview":"03 — DATASET","textChars":12,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":4,"name":"title","text":"Snapshot dữ liệu hiện tại","textPreview":"Snapshot dữ liệu hiện tại","textChars":25,"textLines":1,"bbox":[42,82,720,60]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":4,"name":"subtitle","text":"Sau dedupe theo URL: 1.433 tin tuyển dụng, thu thập trong ba ngày.","textPreview":"Sau dedupe theo URL: 1.433 tin tuyển dụng, thu thập trong ba ngày.","textChars":66,"textLines":1,"bbox":[42,158,900,35]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":4,"name":"csv-label","text":"ẢNH PREVIEW TỪ jobs_analysis_clean.csv","textPreview":"ẢNH PREVIEW TỪ jobs_analysis_clean.csv","textChars":38,"textLines":1,"bbox":[42,206,420,20]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":4,"name":"small-metric-panel","bbox":[42,495,350,134]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":4,"name":"small-metric-value","text":"1.433","textPreview":"1.433","textChars":5,"textLines":1,"bbox":[62,513,310,48]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":4,"name":"small-metric-label","text":"URL duy nhất sau dedupe","textPreview":"URL duy nhất sau dedupe","textChars":23,"textLines":1,"bbox":[62,573,310,34]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":4,"name":"small-metric-panel","bbox":[436,495,350,134]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":4,"name":"small-metric-value","text":"35,2%","textPreview":"35,2%","textChars":5,"textLines":1,"bbox":[456,513,310,48]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":4,"name":"small-metric-label","text":"Tin có lương số","textPreview":"Tin có lương số","textChars":15,"textLines":1,"bbox":[456,573,310,34]}
+{"kind":"shape","id":"sh/cj6tovah","slide":4,"name":"small-metric-panel","bbox":[830,495,368,134]}
+{"kind":"textbox","id":"sh/54zidony","slide":4,"name":"small-metric-value","text":"750 / 583 / 100","textPreview":"750 / 583 / 100","textChars":15,"textLines":1,"bbox":[850,513,328,48]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":4,"name":"small-metric-label","text":"ITviec / TopCV / TopDev","textPreview":"ITviec / TopCV / TopDev","textChars":23,"textLines":1,"bbox":[850,573,328,34]}
+{"kind":"shape","id":"sh/nap4r65w","slide":4,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/cvixczed","slide":4,"name":"source","text":"Nguồn: data/analysis/jobs_analysis_clean.csv • Snapshot 30/06–02/07/2026","textPreview":"Nguồn: data/analysis/jobs_analysis_clean.csv • Snapshot 30/06–02/07/2026","textChars":72,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":4,"name":"slide-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"image","id":"im/lwval87e","slide":4,"name":"","geometry":"rect","alt":"CSV preview showing real clean job records from the project","bbox":[42,228,1156,236]}
+{"kind":"notes","id":"nt/pdvsud","slide":4,"text":"Thay vì chỉ nói schema, đây là bốn dòng thật được render trực tiếp từ jobs_analysis_clean.csv. Ta thấy cùng một schema nhưng lương có thể là text, số VND, USD hoặc bị ẩn. Sau dedupe còn 1.433 tin; chỉ 35,2% có lương số, và TopDev không đóng góp dữ liệu lương số."}
+{"kind":"slide","id":"sl/31ys9e","slide":5,"title":"04 — TÍN HIỆU TUYỂN DỤNG","textShapes":8}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":5,"name":"eyebrow","text":"04 — TÍN HIỆU TUYỂN DỤNG","textPreview":"04 — TÍN HIỆU TUYỂN DỤNG","textChars":24,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":5,"name":"title","text":"Kỹ năng được nhắc nhiều nhất trong mẫu","textPreview":"Kỹ năng được nhắc nhiều nhất trong mẫu","textChars":38,"textLines":1,"bbox":[42,82,850,58]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":5,"name":"subtitle","text":"Mỗi tin có thể đề cập nhiều kỹ năng; thanh biểu diễn số URL chứa kỹ năng đã chuẩn hóa.","textPreview":"Mỗi tin có thể đề cập nhiều kỹ năng; thanh biểu diễn số URL chứa kỹ năng đã chuẩn hóa.","textChars":86,"textLines":1,"bbox":[42,154,900,37]}
+{"kind":"shape","id":"sh/8bat47y1","slide":5,"name":"skills-note","bbox":[820,237,374,322]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":5,"name":"skills-note-title","text":"Đọc đúng biểu đồ","textPreview":"Đọc đúng biểu đồ","textChars":16,"textLines":1,"bbox":[850,270,310,35]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":5,"name":"skills-note-body","text":"• SQL, Python và Java là các từ khóa kỹ năng nổi bật.\n\n• AWS và Docker cho thấy cloud/container xuất hiện rộng trong mẫu.\n\n• Đây là tín hiệu từ job descriptions, không phải “top nghề” hay thị phần.","textPreview":"• SQL, Python và Java là các từ khóa kỹ năng nổi bật. |  | • AWS và Docker cho thấy cloud/container xuất hiện rộng trong mẫu. |  | • Đây ...","textChars":197,"textLines":5,"bbox":[850,328,305,176]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":5,"name":"skills-caution","text":"Không dùng các kỹ năng này để khẳng định xu hướng tăng/giảm vì chưa có chuỗi dữ liệu theo kỳ.","textPreview":"Không dùng các kỹ năng này để khẳng định xu hướng tăng/giảm vì chưa có chuỗi dữ liệu theo kỳ.","textChars":93,"textLines":1,"bbox":[58,606,1010,30]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":5,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/a1gvy90j","slide":5,"name":"source","text":"Nguồn: data/analysis/job_skills.csv • 1.433 URL duy nhất","textPreview":"Nguồn: data/analysis/job_skills.csv • 1.433 URL duy nhất","textChars":56,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":5,"name":"slide-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"chart","id":"ch/1orytsvu","slide":5,"name":"","chartType":"bar","bbox":[58,230,690,360]}
+{"kind":"notes","id":"nt/31ys9e","slide":5,"text":"Đây là insight mô tả mạnh nhất của dataset hiện tại. SQL, Python, Java, AWS và Docker xuất hiện nhiều trong các tin đã thu thập. Nhưng một posting có thể mang nhiều tag, và cách crawl có keyword discovery, nên không được kết luận đây là thứ hạng của toàn bộ thị trường."}
+{"kind":"slide","id":"sl/vpw38x","slide":6,"title":"05 — MỨC LƯƠNG","textShapes":12}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":6,"name":"eyebrow","text":"05 — MỨC LƯƠNG","textPreview":"05 — MỨC LƯƠNG","textChars":14,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":6,"name":"title","text":"Lương quan sát được: có tín hiệu, nhưng có thiên lệch","textPreview":"Lương quan sát được: có tín hiệu, nhưng có thiên lệch","textChars":53,"textLines":1,"bbox":[42,82,1100,58]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":6,"name":"subtitle","text":"Median theo seniority của 504 tin có lương số; đơn vị triệu VND/tháng sau chuẩn hóa baseline.","textPreview":"Median theo seniority của 504 tin có lương số; đơn vị triệu VND/tháng sau chuẩn hóa baseline.","textChars":93,"textLines":1,"bbox":[42,154,1030,37]}
+{"kind":"textbox","id":"sh/judg7ads","slide":6,"name":"csv-label","text":"ẢNH PREVIEW TỪ salary_analysis_clean.csv","textPreview":"ẢNH PREVIEW TỪ salary_analysis_clean.csv","textChars":40,"textLines":1,"bbox":[42,206,420,20]}
+{"kind":"shape","id":"sh/1032lszq","slide":6,"name":"small-metric-panel","bbox":[42,495,350,134]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":6,"name":"small-metric-value","text":"25M","textPreview":"25M","textChars":3,"textLines":1,"bbox":[62,513,310,48]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":6,"name":"small-metric-label","text":"Median toàn bộ mẫu lương số","textPreview":"Median toàn bộ mẫu lương số","textChars":27,"textLines":1,"bbox":[62,573,310,34]}
+{"kind":"shape","id":"sh/udg7adsj","slide":6,"name":"small-metric-panel","bbox":[436,495,350,134]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":6,"name":"small-metric-value","text":"7 → 42,9M","textPreview":"7 → 42,9M","textChars":9,"textLines":1,"bbox":[456,513,310,48]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":6,"name":"small-metric-label","text":"Intern → Senior median","textPreview":"Intern → Senior median","textChars":22,"textLines":1,"bbox":[456,573,310,34]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":6,"name":"small-metric-panel","bbox":[830,495,368,134]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":6,"name":"small-metric-value","text":"101","textPreview":"101","textChars":3,"textLines":1,"bbox":[850,513,328,48]}
+{"kind":"textbox","id":"sh/cbulwval","slide":6,"name":"small-metric-label","text":"Record salary_period cần sửa tạm","textPreview":"Record salary_period cần sửa tạm","textChars":32,"textLines":1,"bbox":[850,573,328,34]}
+{"kind":"shape","id":"sh/5sneloj2","slide":6,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/u54zidon","slide":6,"name":"source","text":"Nguồn: data/analysis/salary_analysis_clean.csv • Quy đổi baseline 26.000 VND/USD","textPreview":"Nguồn: data/analysis/salary_analysis_clean.csv • Quy đổi baseline 26.000 VND/USD","textChars":80,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":6,"name":"slide-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"image","id":"im/bi9s36hc","slide":6,"name":"","geometry":"rect","alt":"CSV preview showing numeric salary records used by the baseline","bbox":[42,228,1156,236]}
+{"kind":"notes","id":"nt/vpw38x","slide":6,"text":"Đây là bốn dòng thực tế của salary_analysis_clean.csv, cho thấy đồng thời có USD và VND, range lương và các trường seniority, experience. Sau chuẩn hóa baseline, median là 25 triệu; median tăng từ 7 triệu intern đến 42,9 triệu senior. Tuy vậy đây không phải khảo sát đại diện vì salary missingness rất lớn."}
+{"kind":"slide","id":"sl/bgegdq","slide":7,"title":"06 — BASELINE DỰ BÁO LƯƠNG","textShapes":17}
+{"kind":"textbox","id":"sh/61032lsz","slide":7,"name":"eyebrow","text":"06 — BASELINE DỰ BÁO LƯƠNG","textPreview":"06 — BASELINE DỰ BÁO LƯƠNG","textChars":26,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":7,"name":"title","text":"Linear Regression: hữu ích để học, chưa đủ để tin","textPreview":"Linear Regression: hữu ích để học, chưa đủ để tin","textChars":49,"textLines":1,"bbox":[42,82,1040,58]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":7,"name":"subtitle","text":"Baseline dự đoán log lương tháng từ nguồn, địa điểm, seniority, kinh nghiệm, tuổi tin và 30 skill flags.","textPreview":"Baseline dự đoán log lương tháng từ nguồn, địa điểm, seniority, kinh nghiệm, tuổi tin và 30 skill flags.","textChars":104,"textLines":1,"bbox":[42,154,1110,38]}
+{"kind":"shape","id":"sh/vy90je9c","slide":7,"name":"metric-panel","bbox":[42,238,262,186]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":7,"name":"metric-value","text":"403 / 101","textPreview":"403 / 101","textChars":9,"textLines":1,"bbox":[64,262,218,68]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":7,"name":"metric-label","text":"Train / held-out test rows","textPreview":"Train / held-out test rows","textChars":26,"textLines":1,"bbox":[64,346,218,54]}
+{"kind":"shape","id":"sh/oj2t83it","slide":7,"name":"metric-panel","bbox":[334,238,262,186]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":7,"name":"metric-value","text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[356,262,218,68]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":7,"name":"metric-label","text":"Đặc trưng đầu vào","textPreview":"Đặc trưng đầu vào","textChars":17,"textLines":1,"bbox":[356,346,218,54]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":7,"name":"metric-panel","bbox":[626,238,262,186]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":7,"name":"metric-value","text":"R² 0,53","textPreview":"R² 0,53","textChars":7,"textLines":1,"bbox":[648,262,218,68]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":7,"name":"metric-label","text":"Trên random held-out split","textPreview":"Trên random held-out split","textChars":26,"textLines":1,"bbox":[648,346,218,54]}
+{"kind":"shape","id":"sh/r65wjudg","slide":7,"name":"metric-panel","bbox":[918,238,262,186]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":7,"name":"metric-value","text":"10,4M","textPreview":"10,4M","textChars":5,"textLines":1,"bbox":[940,262,218,68]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":7,"name":"metric-label","text":"MAE triệu VND/tháng","textPreview":"MAE triệu VND/tháng","textChars":19,"textLines":1,"bbox":[940,346,218,54]}
+{"kind":"shape","id":"sh/yxobm58z","slide":7,"name":"model-code-panel","bbox":[42,472,684,147]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":7,"name":"model-code-label","text":"modeling/salary_regression.py","textPreview":"modeling/salary_regression.py","textChars":29,"textLines":1,"bbox":[68,492,270,20]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":7,"name":"model-code","text":"pipeline = Pipeline([(\"preprocess\", preprocessor),\n                     (\"model\", LinearRegression())])\ny_pred = pipeline.fit(x_train, y_train).predict(x_test)","textPreview":"pipeline = Pipeline([(\"preprocess\", preprocessor), |                      (\"model\", LinearRegression())]) | y_pred = pipeline.fit(x_train...","textChars":159,"textLines":3,"bbox":[68,524,620,66]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":7,"name":"model-warning","bbox":[760,472,420,147]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":7,"name":"model-warning-title","text":"Giới hạn","textPreview":"Giới hạn","textChars":8,"textLines":1,"bbox":[788,492,200,28]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":7,"name":"model-warning-body","text":"Random split ≠ dự báo tương lai.\nKhoảng 90% còn rộng:\n0,49×–2,05× estimate điểm.","textPreview":"Random split ≠ dự báo tương lai. | Khoảng 90% còn rộng: | 0,49×–2,05× estimate điểm.","textChars":80,"textLines":3,"bbox":[788,530,345,67]}
+{"kind":"shape","id":"sh/bq1oryts","slide":7,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":7,"name":"source","text":"Nguồn: data/modeling/salary_regression/safe_baseline/metrics.csv và data_audit.csv","textPreview":"Nguồn: data/modeling/salary_regression/safe_baseline/metrics.csv và data_audit.csv","textChars":82,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":7,"name":"slide-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"notes","id":"nt/bgegdq","slide":7,"text":"Model đã có pipeline tránh salary leakage và đánh giá bằng held-out test. R squared khoảng 0,53 và MAE khoảng 10,4 triệu cho thấy model có tín hiệu, nhưng sai số vẫn lớn. Vì đánh giá bằng random split, nó không nói được model có dự báo tốt trên dữ liệu tương lai hay không."}
+{"kind":"slide","id":"sl/g0pten","slide":8,"title":"07 — SAI LẦM VÀ BÀI HỌC","textShapes":17}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":8,"name":"eyebrow","text":"07 — SAI LẦM VÀ BÀI HỌC","textPreview":"07 — SAI LẦM VÀ BÀI HỌC","textChars":23,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":8,"name":"title","text":"Sai lầm dữ liệu là phần quan trọng nhất","textPreview":"Sai lầm dữ liệu là phần quan trọng nhất","textChars":39,"textLines":1,"bbox":[42,82,960,58]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":8,"name":"subtitle","text":"Các vấn đề dưới đây quyết định trực tiếp phần nào được phép kết luận.","textPreview":"Các vấn đề dưới đây quyết định trực tiếp phần nào được phép kết luận.","textChars":69,"textLines":1,"bbox":[42,155,870,35]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":8,"name":"issue-panel","bbox":[42,238,540,173]}
+{"kind":"textbox","id":"sh/61032lsz","slide":8,"name":"issue-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[66,258,50,32]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":8,"name":"issue-title","text":"Thiếu chuỗi thời gian","textPreview":"Thiếu chuỗi thời gian","textChars":21,"textLines":1,"bbox":[128,256,420,35]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":8,"name":"issue-body","text":"Crawl trong ba ngày không đủ để fit hoặc đánh giá forecast nhu cầu tuyển dụng.","textPreview":"Crawl trong ba ngày không đủ để fit hoặc đánh giá forecast nhu cầu tuyển dụng.","textChars":78,"textLines":1,"bbox":[128,305,414,78]}
+{"kind":"shape","id":"sh/vahoza1g","slide":8,"name":"issue-panel","bbox":[618,238,540,173]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":8,"name":"issue-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[642,258,50,32]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":8,"name":"issue-title","text":"Missingness có thiên lệch","textPreview":"Missingness có thiên lệch","textChars":25,"textLines":1,"bbox":[704,256,420,35]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":8,"name":"issue-body","text":"Chỉ 35,2% tin có lương số; TopDev là 0%, nên model không đại diện mọi nguồn.","textPreview":"Chỉ 35,2% tin có lương số; TopDev là 0%, nên model không đại diện mọi nguồn.","textChars":76,"textLines":1,"bbox":[704,305,414,78]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":8,"name":"issue-panel","bbox":[42,433,540,173]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":8,"name":"issue-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[66,453,50,32]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":8,"name":"issue-title","text":"Parser salary_period sai","textPreview":"Parser salary_period sai","textChars":24,"textLines":1,"bbox":[128,451,420,35]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":8,"name":"issue-body","text":"101 dòng đọc “năm/year” từ mô tả kinh nghiệm; baseline phải sửa tạm về monthly.","textPreview":"101 dòng đọc “năm/year” từ mô tả kinh nghiệm; baseline phải sửa tạm về monthly.","textChars":79,"textLines":1,"bbox":[128,500,414,78]}
+{"kind":"shape","id":"sh/ulwval87","slide":8,"name":"issue-panel","bbox":[618,433,540,173]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":8,"name":"issue-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[642,453,50,32]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":8,"name":"issue-title","text":"Địa điểm bị nhiễu","textPreview":"Địa điểm bị nhiễu","textChars":17,"textLines":1,"bbox":[704,451,420,35]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":8,"name":"issue-body","text":"location_cities quét cả visible text/description, khiến Hà Nội, HCM và Đà Nẵng cùng xuất hiện ở mọi tin.","textPreview":"location_cities quét cả visible text/description, khiến Hà Nội, HCM và Đà Nẵng cùng xuất hiện ở mọi tin.","textChars":104,"textLines":1,"bbox":[704,500,414,78]}
+{"kind":"shape","id":"sh/1032lszq","slide":8,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":8,"name":"source","text":"Nguồn: parsers/common.py • data/modeling/.../data_audit.csv • data/analysis/job_cities.csv","textPreview":"Nguồn: parsers/common.py • data/modeling/.../data_audit.csv • data/analysis/job_cities.csv","textChars":90,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/judg7ads","slide":8,"name":"slide-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"notes","id":"nt/g0pten","slide":8,"text":"Thay vì che các lỗi này, đây là phần mình muốn nhấn mạnh. Data science tốt không chỉ là có model, mà là biết giới hạn dữ liệu. Bài học là phải đo coverage theo nguồn, sửa parser tại gốc, và không biến một snapshot thành kết luận xu hướng."}
+{"kind":"slide","id":"sl/3382gv","slide":9,"title":"08 — KẾT LUẬN VÀ HƯỚNG ĐI","textShapes":15}
+{"kind":"textbox","id":"sh/d8bat47y","slide":9,"name":"eyebrow","text":"08 — KẾT LUẬN VÀ HƯỚNG ĐI","textPreview":"08 — KẾT LUẬN VÀ HƯỚNG ĐI","textChars":25,"textLines":1,"bbox":[42,31,760,24]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"name":"title","text":"Sẵn sàng cho bước dự báo thật","textPreview":"Sẵn sàng cho bước dự báo thật","textChars":29,"textLines":1,"bbox":[42,82,850,58]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":9,"name":"subtitle","text":"Giá trị hiện tại là pipeline tái lập được và các tín hiệu ban đầu có điều kiện.","textPreview":"Giá trị hiện tại là pipeline tái lập được và các tín hiệu ban đầu có điều kiện.","textChars":79,"textLines":1,"bbox":[42,156,980,38]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":9,"name":"roadmap-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[62,236,80,56]}
+{"kind":"shape","id":"sh/d0z61032","slide":9,"name":"rule","bbox":[62,312,330,2]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":9,"name":"roadmap-title","text":"Thu thập theo kỳ","textPreview":"Thu thập theo kỳ","textChars":16,"textLines":1,"bbox":[62,340,330,58]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":9,"name":"roadmap-body","text":"Crawl cùng thiết kế hằng tuần/tháng; lưu cohort và coverage theo nguồn.","textPreview":"Crawl cùng thiết kế hằng tuần/tháng; lưu cohort và coverage theo nguồn.","textChars":71,"textLines":1,"bbox":[62,420,330,120]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":9,"name":"roadmap-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[455,236,80,56]}
+{"kind":"shape","id":"sh/donyd0z6","slide":9,"name":"rule","bbox":[455,312,330,2]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":9,"name":"roadmap-title","text":"Sửa tại parser","textPreview":"Sửa tại parser","textChars":14,"textLines":1,"bbox":[455,340,330,58]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":9,"name":"roadmap-body","text":"Tách salary_period khỏi mô tả; trích địa điểm từ trường có cấu trúc.","textPreview":"Tách salary_period khỏi mô tả; trích địa điểm từ trường có cấu trúc.","textChars":68,"textLines":1,"bbox":[455,420,330,120]}
+{"kind":"textbox","id":"sh/bulwval8","slide":9,"name":"roadmap-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[848,236,80,56]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":9,"name":"rule","bbox":[848,312,330,2]}
+{"kind":"textbox","id":"sh/tovahoza","slide":9,"name":"roadmap-title","text":"Đánh giá theo thời gian","textPreview":"Đánh giá theo thời gian","textChars":23,"textLines":1,"bbox":[848,340,330,58]}
+{"kind":"textbox","id":"sh/032lszqt","slide":9,"name":"roadmap-body","text":"Forecast demand time-series riêng; salary model dùng temporal hold-out.","textPreview":"Forecast demand time-series riêng; salary model dùng temporal hold-out.","textChars":71,"textLines":1,"bbox":[848,420,330,120]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":9,"name":"conclusion","bbox":[42,589,1156,58]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":9,"name":"conclusion-text","text":"Kết luận: chưa thể dự báo thị trường một cách đáng tin cậy — nhưng đã biết chính xác cần thu thập và sửa gì để làm được.","textPreview":"Kết luận: chưa thể dự báo thị trường một cách đáng tin cậy — nhưng đã biết chính xác cần thu thập và sửa gì để làm được.","textChars":120,"textLines":1,"bbox":[66,606,1110,28]}
+{"kind":"shape","id":"sh/tcj6tova","slide":9,"name":"rule","bbox":[42,668,1196,2]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":9,"name":"source","text":"Nguồn: tổng hợp từ pipeline, EDA và baseline model của project","textPreview":"Nguồn: tổng hợp từ pipeline, EDA và baseline model của project","textChars":62,"textLines":1,"bbox":[42,681,1060,22]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":9,"name":"slide-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1170,680,68,22]}
+{"kind":"notes","id":"nt/3382gv","slide":9,"text":"Kết luận của mình không phải là một con số dự báo. Project đã xây được nền tảng đúng: dữ liệu thô, parser, EDA và baseline. Bước tiếp theo là thu thập lặp lại, sửa các trường có lỗi, sau đó tách rõ mô hình dự báo demand theo thời gian và mô hình lương."}

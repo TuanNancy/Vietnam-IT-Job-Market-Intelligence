@@ -10,6 +10,4 @@ if (Test-Path $VenvPython) {
     $Python = "python"
 }
 
-& $Python -m modeling.salary_regression `
-    --input data/analysis/salary_analysis_clean.csv `
-    --output-dir data/modeling/salary_regression/safe_baseline
+& $Python -m jupyter notebook notebooks/04_salary_linear_regression_training.ipynb

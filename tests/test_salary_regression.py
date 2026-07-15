@@ -10,6 +10,7 @@ from unittest.mock import patch
 
 import numpy as np
 import pandas as pd
+import sklearn
 
 from modeling.salary_regression import (
     LEAKAGE_COLUMNS,
@@ -201,6 +202,7 @@ class SalaryRegressionTests(unittest.TestCase):
         observed = bundle["observed_salary_by_seniority"]["intern"]
         self.assertEqual(observed["rows"], 2)
         self.assertEqual(observed["median_million_vnd"], 5.0)
+        self.assertEqual(bundle["runtime_metadata"]["scikit_learn_version"], sklearn.__version__)
 
         prediction_frame = build_prediction_frame(
             bundle,
