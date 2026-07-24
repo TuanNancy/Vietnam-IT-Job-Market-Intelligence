@@ -17,6 +17,33 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+## Run with Docker
+
+Build and start the Streamlit dashboard at `http://localhost:8501`:
+
+```bash
+docker compose up --build
+```
+
+The Compose configuration mounts `data/raw`, `data/processed`, `data/reports`,
+`data/analysis`, and `data/modeling`, so crawl results, reports, and trained
+model artifacts remain on the host instead of being lost when a container is
+recreated. Stop it with `docker compose down`.
+
+`requirements.runtime.txt` is the lean runtime dependency set used by Docker.
+`requirements.txt` remains the full local development and notebook environment.
+
+The same image can run one-off pipeline commands. For example, build the
+reports without starting the dashboard:
+
+```bash
+docker compose run --rm --no-deps dashboard python -m parsers.trend_reports
+```
+
+For a hosted dashboard, deploy this Docker image and attach persistent storage
+at `/app/data`; do not run the public-site crawlers as web-request handlers.
+Schedule them as a separate job with low, sequential request rates.
+
 Run checks:
 
 ```bash
