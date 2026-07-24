@@ -1,0 +1,16 @@
+services:
+  dashboard:
+    build:
+      context: .
+    image: vietnam-it-job-market-intelligence:local
+    ports:
+      - "${APP_PORT:-8501}:8501"
+    environment:
+      PORT: 8501
+    volumes:
+      # Keep crawl outputs and trained artifacts outside the image.
+      - ./data/raw:/app/data/raw
+      - ./data/processed:/app/data/processed
+      - ./data/reports:/app/data/reports
+      - ./data/analysis:/app/data/analysis
+      - ./data/modeling:/app/data/modeling
